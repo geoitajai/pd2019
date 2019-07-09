@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48a9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67794053,
+            -26.90933724
+          ],
+          [
+            -48.67747107,
+            -26.90920253
+          ],
+          [
+            -48.67381284,
+            -26.9080496
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 490,
+      "nome": "R.Santo Antônio",
+      "cod": 504,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

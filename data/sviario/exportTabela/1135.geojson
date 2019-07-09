@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a78",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69493307,
+            -26.88748626
+          ],
+          [
+            -48.69419004,
+            -26.88752543
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1030,
+      "nome": "Serv.Olga das Neves Montibeller",
+      "cod": 1135,
+      "ptotalvia": 4,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3563/2000",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "Serv.Olga das N.Montibeller",
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

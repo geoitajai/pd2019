@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cdd",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6764713,
+            -26.896443
+          ],
+          [
+            -48.67676539,
+            -26.89615722
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1663,
+      "nome": "R.Lindolpho de Azevedo Coutinho",
+      "cod": 1615,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6562/2014",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.Lindolpho de A.Coutinho",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d60",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63743779,
+            -26.92899015
+          ],
+          [
+            -48.6376254,
+            -26.92793511
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1720,
+      "nome": "R.\"C\"",
+      "cod": 1669,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Vila Santana, Victor Kummrow  Cabeçudas, Vila Sant-Ana  Cabeçudas Victor Kummrow",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

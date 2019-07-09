@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48d6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66959273,
+            -26.91799179
+          ],
+          [
+            -48.66926742,
+            -26.91800996
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 543,
+      "nome": "R.Sem denominação oficial",
+      "cod": 562,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Nossa Senhora das Graças",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

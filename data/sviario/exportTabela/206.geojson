@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_46d8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6798646,
+            -26.90179558
+          ],
+          [
+            -48.67803855,
+            -26.9018728
+          ],
+          [
+            -48.67777974,
+            -26.90175164
+          ],
+          [
+            -48.67762463,
+            -26.90166466
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 215,
+      "nome": "R.Aurora Tabalipa",
+      "cod": 206,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1211/1973",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

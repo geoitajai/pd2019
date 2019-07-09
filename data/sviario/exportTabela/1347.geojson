@@ -1,0 +1,94 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c8f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73538431,
+            -26.87328043
+          ],
+          [
+            -48.73517097,
+            -26.87328775
+          ],
+          [
+            -48.73465404,
+            -26.87329507
+          ],
+          [
+            -48.73413301,
+            -26.87330605
+          ],
+          [
+            -48.73360377,
+            -26.87331702
+          ],
+          [
+            -48.73320196,
+            -26.8733318
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1574,
+      "nome": "R.Francisco Pontiolli",
+      "cod": 1347,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4817/2007",
+      "hierarquia": null,
+      "bairro": "Salseiros",
+      "abrevlogr": "R.Fr.co.Pontiolli",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "Rua \"J\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c95",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73320196,
+            -26.87333183
+          ],
+          [
+            -48.72968246,
+            -26.87335727
+          ],
+          [
+            -48.7286724,
+            -26.8733829
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1573,
+      "nome": "R.Francisco Pontiolli",
+      "cod": 1347,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4817/2007",
+      "hierarquia": null,
+      "bairro": "Salseiros",
+      "abrevlogr": "R.Fr.co.Pontiolli",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

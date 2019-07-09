@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4792",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67955847,
+            -26.9043983
+          ],
+          [
+            -48.6785062,
+            -26.90445724
+          ],
+          [
+            -48.67770902,
+            -26.90450604
+          ],
+          [
+            -48.677673,
+            -26.90450803
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 242,
+      "nome": "R.Teodoro Luiz Pereira",
+      "cod": 233,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "865/1968",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fdf",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.677673,
+            -26.90450803
+          ],
+          [
+            -48.67441873,
+            -26.9046883
+          ],
+          [
+            -48.67386087,
+            -26.90472131
+          ],
+          [
+            -48.67332151,
+            -26.9047496
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1878,
+      "nome": "R.Teodoro Luiz Pereira",
+      "cod": 233,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "865/1968",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Madereira Vila II",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

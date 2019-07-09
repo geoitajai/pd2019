@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d84",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69160261,
+            -26.88878031
+          ],
+          [
+            -48.69163869,
+            -26.88938284
+          ],
+          [
+            -48.69174035,
+            -26.89121675
+          ],
+          [
+            -48.69183218,
+            -26.89301552
+          ],
+          [
+            -48.6919404,
+            -26.89497513
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 924,
+      "nome": "R.Erminio Machado",
+      "cod": 1117,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1592/1977",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Cesar Ramos Cordeiros",
+      "nomeloteamento": "Rua \"F\""
+    }
+  }
+]

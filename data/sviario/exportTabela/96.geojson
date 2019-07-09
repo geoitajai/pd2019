@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4513",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69621896,
+            -26.90937836
+          ],
+          [
+            -48.6962923,
+            -26.91099274
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 111,
+      "nome": "R.Bom Retiro",
+      "cod": 96,
+      "ptotalvia": 13.2,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

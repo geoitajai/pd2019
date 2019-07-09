@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_467e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68225077,
+            -26.8992317
+          ],
+          [
+            -48.67715591,
+            -26.89950822
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 204,
+      "nome": "R.Antônio Ramos",
+      "cod": 196,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_469d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70945626,
+            -26.91183201
+          ],
+          [
+            -48.70851055,
+            -26.91188183
+          ],
+          [
+            -48.70764749,
+            -26.91192497
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 158,
+      "nome": "R.Artilha Pezzini Gelasco",
+      "cod": 145,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "6651/2015",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

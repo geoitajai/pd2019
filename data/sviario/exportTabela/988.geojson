@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a24",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70393392,
+            -26.92603191
+          ],
+          [
+            -48.70373715,
+            -26.92645734
+          ],
+          [
+            -48.70259781,
+            -26.92753061
+          ],
+          [
+            -48.7022909,
+            -26.92784329
+          ],
+          [
+            -48.70199574,
+            -26.92813714
+          ],
+          [
+            -48.70168766,
+            -26.92842514
+          ],
+          [
+            -48.70137592,
+            -26.92871169
+          ],
+          [
+            -48.70100206,
+            -26.92908448
+          ],
+          [
+            -48.70061344,
+            -26.92947482
+          ],
+          [
+            -48.7002199,
+            -26.92983884
+          ],
+          [
+            -48.69983673,
+            -26.93019751
+          ],
+          [
+            -48.69944266,
+            -26.93058004
+          ],
+          [
+            -48.69904421,
+            -26.93092651
+          ],
+          [
+            -48.69865067,
+            -26.9312993
+          ],
+          [
+            -48.69829648,
+            -26.93165016
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 889,
+      "nome": "Av.Maria Marques Werner",
+      "cod": 988,
+      "ptotalvia": 22,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4445/2005",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Avelino Werner, Avelino Werner II",
+      "nomeloteamento": "Avenida Projetada \"1\""
+    }
+  }
+]

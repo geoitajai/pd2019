@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48dc",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67814074,
+            -26.92093152
+          ],
+          [
+            -48.67737325,
+            -26.92096649
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 552,
+      "nome": "R.São João Batista",
+      "cod": 573,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": "R.São J.Batista",
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

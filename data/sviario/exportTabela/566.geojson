@@ -1,0 +1,110 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48f9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68205911,
+            -26.92114511
+          ],
+          [
+            -48.68206796,
+            -26.9216512
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 547,
+      "nome": "R.São Gonçalo",
+      "cod": 566,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Chimmene",
+      "nomeloteamento": "Rua \"H\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e9c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68207972,
+            -26.92232439
+          ],
+          [
+            -48.68146579,
+            -26.92232806
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1802,
+      "nome": "R.São Gonçalo",
+      "cod": 566,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Pôr do Sol",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e9e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68206796,
+            -26.9216512
+          ],
+          [
+            -48.68207972,
+            -26.92232439
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1803,
+      "nome": "R.São Gonçalo",
+      "cod": 566,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Pôr do Sol",
+      "nomeloteamento": "Rua \"E\""
+    }
+  }
+]

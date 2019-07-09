@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44eb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69447016,
+            -26.90106402
+          ],
+          [
+            -48.69383346,
+            -26.90107949
+          ],
+          [
+            -48.69222227,
+            -26.90112536
+          ],
+          [
+            -48.69059118,
+            -26.90115091
+          ],
+          [
+            -48.68868906,
+            -26.90119615
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 38,
+      "nome": "R.Jaci Ramos",
+      "cod": 22,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Acaraí",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4875",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67768068,
+            -26.88743295
+          ],
+          [
+            -48.67803696,
+            -26.88772451
+          ],
+          [
+            -48.67889934,
+            -26.88841423
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 431,
+      "nome": "R.Henrique Vigarani",
+      "cod": 445,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1201/1973",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ed0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69628997,
+            -26.92728093
+          ],
+          [
+            -48.69465694,
+            -26.92819069
+          ],
+          [
+            -48.69422424,
+            -26.92843974
+          ],
+          [
+            -48.69381376,
+            -26.9286678
+          ],
+          [
+            -48.69339563,
+            -26.92889586
+          ],
+          [
+            -48.69255025,
+            -26.92931656
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 875,
+      "nome": "R.João Ascendino Lamim",
+      "cod": 974,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3124/1996",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Padre Schmitt",
+      "nomeloteamento": "Rua \"8\""
+    }
+  }
+]

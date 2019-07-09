@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4811",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6655395,
+            -26.9044799
+          ],
+          [
+            -48.6656171,
+            -26.9053505
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 324,
+      "nome": "R.Amâncio Coelho",
+      "cod": 323,
+      "ptotalvia": 7.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

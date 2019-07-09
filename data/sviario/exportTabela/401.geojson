@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4845",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66498163,
+            -26.91050029
+          ],
+          [
+            -48.66444029,
+            -26.91093345
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 390,
+      "nome": "R.Ricardo Keunecke",
+      "cod": 401,
+      "ptotalvia": 3.2,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "1286/1973",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

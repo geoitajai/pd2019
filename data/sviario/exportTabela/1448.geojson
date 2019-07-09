@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b9b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74206905,
+            -26.94602387
+          ],
+          [
+            -48.74167044,
+            -26.94601984
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1328,
+      "nome": "R.Emmanoel José de Aviz",
+      "cod": 1448,
+      "ptotalvia": 5.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "R.Emmanoel J.de Aviz",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "dez/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

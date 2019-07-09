@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b6f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73283916,
+            -26.8764365
+          ],
+          [
+            -48.73313455,
+            -26.87956165
+          ],
+          [
+            -48.73341626,
+            -26.88270136
+          ],
+          [
+            -48.73362139,
+            -26.88488959
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1241,
+      "nome": "R.Laura Rebello",
+      "cod": 1355,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4961/2007",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Residencial Portal II",
+      "nomeloteamento": "Rua \"F\""
+    }
+  }
+]

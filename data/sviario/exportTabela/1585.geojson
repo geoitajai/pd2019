@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c84",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.76842415,
+            -26.9968558
+          ],
+          [
+            -48.76951581,
+            -26.99570995
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1569,
+      "nome": "R.Maria da Luz",
+      "cod": 1585,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5819/2011",
+      "hierarquia": null,
+      "bairro": "Paciência",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

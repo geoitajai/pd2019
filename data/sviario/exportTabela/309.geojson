@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4808",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6686778,
+            -26.90546778
+          ],
+          [
+            -48.66855238,
+            -26.90423294
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 314,
+      "nome": "R.Luisa Pereira Gonçalves",
+      "cod": 309,
+      "ptotalvia": 3.5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3924/2003",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Luisa P.Gonçalves",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

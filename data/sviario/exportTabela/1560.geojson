@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c5c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68312406,
+            -26.89414516
+          ],
+          [
+            -48.68317146,
+            -26.89386592
+          ],
+          [
+            -48.68329615,
+            -26.89348102
+          ],
+          [
+            -48.68353372,
+            -26.89317279
+          ],
+          [
+            -48.68367127,
+            -26.89344228
+          ],
+          [
+            -48.68375715,
+            -26.89355699
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1526,
+      "nome": "R.Manoel Cipriano Furtado",
+      "cod": 1560,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4012/2003",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.Manoel C.Furtado",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

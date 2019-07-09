@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4673",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67276285,
+            -26.8960093
+          ],
+          [
+            -48.67387973,
+            -26.89689495
+          ],
+          [
+            -48.67450793,
+            -26.89739308
+          ],
+          [
+            -48.67523617,
+            -26.8979794
+          ],
+          [
+            -48.676565,
+            -26.89904844
+          ],
+          [
+            -48.67715591,
+            -26.89950822
+          ],
+          [
+            -48.67750094,
+            -26.89980177
+          ],
+          [
+            -48.67753465,
+            -26.90013245
+          ],
+          [
+            -48.67760113,
+            -26.90089722
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 197,
+      "nome": "R.Stringari",
+      "cod": 188,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

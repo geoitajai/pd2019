@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4868",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67754831,
+            -26.89006015
+          ],
+          [
+            -48.67796695,
+            -26.89036816
+          ],
+          [
+            -48.67837543,
+            -26.89069003
+          ],
+          [
+            -48.67848896,
+            -26.89075878
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 418,
+      "nome": "R.Serafim Manoel Inácio",
+      "cod": 431,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1629/1978",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "R.Serafim M.Inácio",
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

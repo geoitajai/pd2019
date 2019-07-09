@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ca3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63016961,
+            -26.95761173
+          ],
+          [
+            -48.62936616,
+            -26.95740607
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1609,
+      "nome": "R.Pelicano",
+      "cod": 594,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2809/1993",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "abr/15",
+      "loteamnome": "Jardim Ariribá",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

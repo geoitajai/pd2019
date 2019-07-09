@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4df3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67730206,
+            -26.92893694
+          ],
+          [
+            -48.67604787,
+            -26.92889168
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 771,
+      "nome": "R.Valdevino Vieira Cordeiro",
+      "cod": 866,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2415/1988",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim das Palmeiras II",
+      "nomeloteamento": "Rua \"09\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e01",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67604787,
+            -26.92889168
+          ],
+          [
+            -48.67471454,
+            -26.92870449
+          ],
+          [
+            -48.67372332,
+            -26.92857115
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1763,
+      "nome": "R.Valdevino Vieira Cordeiro",
+      "cod": 866,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2415/1988",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim das Palmeiras II",
+      "nomeloteamento": "Rua \"08\""
+    }
+  }
+]

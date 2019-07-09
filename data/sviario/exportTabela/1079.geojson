@@ -1,0 +1,122 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a5c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69383467,
+            -26.87723889
+          ],
+          [
+            -48.69381171,
+            -26.8776923
+          ],
+          [
+            -48.69387256,
+            -26.87870491
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 976,
+      "nome": "R.PoetaBento Nascimento",
+      "cod": 1079,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2999/1995",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Arnaldo Schimitt Cordeiros",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c49",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69399208,
+            -26.88135169
+          ],
+          [
+            -48.69400848,
+            -26.88248078
+          ],
+          [
+            -48.69394617,
+            -26.8825188
+          ],
+          [
+            -48.69337882,
+            -26.88252466
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1508,
+      "nome": "R.PoetaBento Nascimento",
+      "cod": 1079,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2999/1995",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c54",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69387256,
+            -26.87870491
+          ],
+          [
+            -48.69399208,
+            -26.88135169
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1509,
+      "nome": "R.PoetaBento Nascimento",
+      "cod": 1079,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2999/1995",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Arnaldo Schimitt Cordeiros",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

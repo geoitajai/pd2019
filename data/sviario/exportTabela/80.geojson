@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5150",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68424979,
+            -26.89586352
+          ],
+          [
+            -48.68426301,
+            -26.89632331
+          ],
+          [
+            -48.68427094,
+            -26.89678546
+          ],
+          [
+            -48.68428416,
+            -26.89724524
+          ],
+          [
+            -48.68430086,
+            -26.89769612
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 98,
+      "nome": "R.Porto União",
+      "cod": 80,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "COHAB - Conj. habitacional popular nº2",
+      "nomeloteamento": "Rua \"H\""
+    }
+  }
+]

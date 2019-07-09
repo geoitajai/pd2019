@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49ce",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69553639,
+            -26.91852734
+          ],
+          [
+            -48.6947731,
+            -26.918576
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 818,
+      "nome": "R.Laudino Pedro da Silva",
+      "cod": 913,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6342/2013",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.Laudino P.da Silva",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

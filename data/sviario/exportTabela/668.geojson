@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4921",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64916093,
+            -26.92120846
+          ],
+          [
+            -48.64909776,
+            -26.92148031
+          ],
+          [
+            -48.64891646,
+            -26.92168115
+          ],
+          [
+            -48.64801549,
+            -26.9225408
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 630,
+      "nome": "R.Leopoldo Ternes",
+      "cod": 668,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3116/1996",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d04",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6509646,
+            -26.91931065
+          ],
+          [
+            -48.65294646,
+            -26.9209308
+          ],
+          [
+            -48.65292152,
+            -26.92094394
+          ],
+          [
+            -48.65323725,
+            -26.92121759
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 607,
+      "nome": "R.Antônio Manoel Moreira",
+      "cod": 645,
+      "ptotalvia": 13,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1214/1973",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Jardim Vitória",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

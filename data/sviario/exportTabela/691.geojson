@@ -1,0 +1,122 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4950",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65313409,
+            -26.92428222
+          ],
+          [
+            -48.65350337,
+            -26.9245468
+          ],
+          [
+            -48.65387265,
+            -26.92478492
+          ],
+          [
+            -48.65394799,
+            -26.92484613
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 653,
+      "nome": "R.Edmundo Kienast",
+      "cod": 691,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1627/1978",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c2e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65394799,
+            -26.92484613
+          ],
+          [
+            -48.65466052,
+            -26.92542504
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2192,
+      "nome": "R.Edmundo Kienast",
+      "cod": 691,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1627/1978",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Bruno I",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_507e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65466052,
+            -26.92542504
+          ],
+          [
+            -48.65477037,
+            -26.92551428
+          ],
+          [
+            -48.6562672,
+            -26.9267435
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1957,
+      "nome": "R.Edmundo Kienast",
+      "cod": 691,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1627/1978",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Bruno II e Bruno III",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

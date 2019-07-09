@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48e7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65867127,
+            -26.91673431
+          ],
+          [
+            -48.65649424,
+            -26.91500278
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 574,
+      "nome": "R.Emílio da Cruz Coutinho",
+      "cod": 609,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0634/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

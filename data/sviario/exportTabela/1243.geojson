@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ac8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.85632705,
+            -27.03787099
+          ],
+          [
+            -48.85623605,
+            -27.0384125
+          ],
+          [
+            -48.85625504,
+            -27.03946781
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1136,
+      "nome": "R.João Tiago Azevedo",
+      "cod": 1243,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3327/1998",
+      "hierarquia": null,
+      "bairro": "Limoeiro",
+      "abrevlogr": "R.João T.Azevedo",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

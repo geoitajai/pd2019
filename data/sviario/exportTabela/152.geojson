@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c75",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69959968,
+            -26.9049513
+          ],
+          [
+            -48.69983055,
+            -26.90924787
+          ],
+          [
+            -48.70005589,
+            -26.91329323
+          ],
+          [
+            -48.70007039,
+            -26.91355357
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1538,
+      "nome": "R.Concórdia",
+      "cod": 152,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mai/16",
+      "loteamnome": "Parque Residencial Karla",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

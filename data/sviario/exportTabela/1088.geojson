@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a7d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69555002,
+            -26.87680048
+          ],
+          [
+            -48.69556751,
+            -26.87723601
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 985,
+      "nome": "R.Romualdo Manoel Fagundes",
+      "cod": 1088,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2424/1998",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Ribeirão da Murta",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5047",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69556751,
+            -26.87723601
+          ],
+          [
+            -48.6956045,
+            -26.87864836
+          ],
+          [
+            -48.69571684,
+            -26.88133993
+          ],
+          [
+            -48.69579882,
+            -26.88365953
+          ],
+          [
+            -48.69574307,
+            -26.88383503
+          ],
+          [
+            -48.695402,
+            -26.88441127
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1889,
+      "nome": "R.Romualdo Manoel Fagundes",
+      "cod": 1088,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2424/1998",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Jardim Cordeiros",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_490f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65434979,
+            -26.91865928
+          ],
+          [
+            -48.65300975,
+            -26.91767231
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 604,
+      "nome": "R.João Luiz Medeiros",
+      "cod": 642,
+      "ptotalvia": 6.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2302/1987",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

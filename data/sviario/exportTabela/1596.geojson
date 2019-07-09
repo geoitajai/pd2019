@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c90",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74608715,
+            -26.86786133
+          ],
+          [
+            -48.74559302,
+            -26.86789069
+          ],
+          [
+            -48.74498444,
+            -26.86791567
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1586,
+      "nome": "R.Projetada J (lot.Santa Regina II)",
+      "cod": 1596,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Santa Regina 02, loteamento",
+      "nomeloteamento": "Rua Projetada \"J\""
+    }
+  }
+]

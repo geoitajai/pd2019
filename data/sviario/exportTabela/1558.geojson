@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c6c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68873415,
+            -26.89603768
+          ],
+          [
+            -48.68891587,
+            -26.89595858
+          ],
+          [
+            -48.68901032,
+            -26.89588083
+          ],
+          [
+            -48.68909164,
+            -26.89557884
+          ],
+          [
+            -48.68913055,
+            -26.89520428
+          ],
+          [
+            -48.68916501,
+            -26.89476527
+          ],
+          [
+            -48.68916564,
+            -26.89462838
+          ],
+          [
+            -48.68917444,
+            -26.89450587
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1524,
+      "nome": "R.Carlos Drumond de Andrade",
+      "cod": 1558,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.Carlos D.de Andrade",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

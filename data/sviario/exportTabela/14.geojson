@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_43ad",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69065011,
+            -26.9042715
+          ],
+          [
+            -48.68874708,
+            -26.90433139
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 10,
+      "nome": "R.Gelásio Pedro de Miranda",
+      "cod": 14,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3707/2002",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.Gelásio P.de Miranda",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

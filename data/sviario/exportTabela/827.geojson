@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c05",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63597555,
+            -26.94432943
+          ],
+          [
+            -48.63605919,
+            -26.94488021
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1432,
+      "nome": "R.Valério Zermiani",
+      "cod": 827,
+      "ptotalvia": 5.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "4166/2004",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Nova Divinéia",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

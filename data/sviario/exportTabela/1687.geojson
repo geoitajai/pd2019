@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f42",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70574439,
+            -26.89423435
+          ],
+          [
+            -48.70519925,
+            -26.89425686
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1837,
+      "nome": "R.4 \"Lot. Jardim Violino\"",
+      "cod": 1687,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Jardim Violino",
+      "nomeloteamento": "Rua \"4\""
+    }
+  }
+]

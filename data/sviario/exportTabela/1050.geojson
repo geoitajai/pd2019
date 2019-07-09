@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a51",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69288867,
+            -26.86995472
+          ],
+          [
+            -48.69096771,
+            -26.87000263
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 953,
+      "nome": "R.Paulo Bagatoli",
+      "cod": 1050,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "5264/2009",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Popular da Murta, Terminal Pesqueiro Beira Rio",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

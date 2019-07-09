@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_45c0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68668746,
+            -26.90472419
+          ],
+          [
+            -48.68447268,
+            -26.90463646
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 109,
+      "nome": "R.Idalino João de Oliveira",
+      "cod": 91,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1993/1982",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Núcleo Habitacional Leandro A. Peirão (R. São Vicente)",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

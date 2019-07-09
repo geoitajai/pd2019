@@ -1,0 +1,114 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4913",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65352616,
+            -26.91697997
+          ],
+          [
+            -48.65284628,
+            -26.91650225
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 612,
+      "nome": "R.João Luiz Gonçalves",
+      "cod": 650,
+      "ptotalvia": 6.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "0564/1963",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.João L.Gonçalves",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_492b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65303684,
+            -26.91620937
+          ],
+          [
+            -48.65256329,
+            -26.91693716
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 613,
+      "nome": "R.João Luiz Gonçalves",
+      "cod": 650,
+      "ptotalvia": 6.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "0564/1963",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.João L.Gonçalves",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4daf",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65256329,
+            -26.91693716
+          ],
+          [
+            -48.65245202,
+            -26.91710817
+          ],
+          [
+            -48.65226661,
+            -26.91735615
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1738,
+      "nome": "R.João Luiz Gonçalves",
+      "cod": 650,
+      "ptotalvia": 6.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "0564/1963",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.João L.Gonçalves",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Banco Inco Sub-Divisão",
+      "nomeloteamento": "Travessa Aberta"
+    }
+  }
+]

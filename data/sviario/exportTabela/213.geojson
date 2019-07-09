@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47aa",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.680463,
+            -26.90203077
+          ],
+          [
+            -48.68042731,
+            -26.9025094
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 222,
+      "nome": "R.Leopoldo Hess",
+      "cod": 213,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "1211/1973",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ff7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68042731,
+            -26.90250942
+          ],
+          [
+            -48.68035214,
+            -26.90287741
+          ],
+          [
+            -48.68011683,
+            -26.90370085
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1885,
+      "nome": "R.Leopoldo Hess",
+      "cod": 213,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "1211/1973",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "set/11",
+      "loteamnome": "São Miguel",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

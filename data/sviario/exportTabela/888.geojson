@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5093",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68623335,
+            -26.93465634
+          ],
+          [
+            -48.68671871,
+            -26.93499842
+          ],
+          [
+            -48.68745332,
+            -26.93551007
+          ],
+          [
+            -48.68757138,
+            -26.93559194
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 793,
+      "nome": "R.Pe.João Rodrigues de Almeida",
+      "cod": 888,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Carvalho",
+      "abrevlogr": "R.João R.de Almeida",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Santa Terezinha",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

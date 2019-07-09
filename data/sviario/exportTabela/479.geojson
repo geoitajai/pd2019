@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4895",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67033001,
+            -26.88297207
+          ],
+          [
+            -48.66952209,
+            -26.88373984
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 465,
+      "nome": "R.Lacy Gonçalves de Santana",
+      "cod": 479,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3652/2001",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "R.Lacy G.de Santana",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

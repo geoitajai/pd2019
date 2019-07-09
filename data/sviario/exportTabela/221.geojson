@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4712",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67013481,
+            -26.89974181
+          ],
+          [
+            -48.67201738,
+            -26.90119863
+          ],
+          [
+            -48.67339054,
+            -26.90230368
+          ],
+          [
+            -48.67340243,
+            -26.90267503
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 230,
+      "nome": "R.Pedro Antônio Fayal",
+      "cod": 221,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "45/1948",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

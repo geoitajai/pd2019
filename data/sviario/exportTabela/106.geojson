@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4539",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69233144,
+            -26.90901722
+          ],
+          [
+            -48.69071921,
+            -26.90905415
+          ],
+          [
+            -48.68881385,
+            -26.90910263
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 121,
+      "nome": "R.José Santangelo",
+      "cod": 106,
+      "ptotalvia": 6.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

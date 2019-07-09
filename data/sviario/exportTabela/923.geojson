@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49d0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69822761,
+            -26.9148687
+          ],
+          [
+            -48.69837424,
+            -26.9170983
+          ],
+          [
+            -48.69842589,
+            -26.91786151
+          ],
+          [
+            -48.69846279,
+            -26.91859182
+          ],
+          [
+            -48.69849968,
+            -26.91899316
+          ],
+          [
+            -48.69810122,
+            -26.91952609
+          ],
+          [
+            -48.69732644,
+            -26.92058535
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 827,
+      "nome": "R.Aldo Silva",
+      "cod": 923,
+      "ptotalvia": 14,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "3594/2001",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

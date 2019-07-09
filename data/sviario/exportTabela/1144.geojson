@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4aac",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69658578,
+            -26.8913848
+          ],
+          [
+            -48.69663744,
+            -26.89234964
+          ],
+          [
+            -48.69666359,
+            -26.89274945
+          ],
+          [
+            -48.69672927,
+            -26.89394951
+          ],
+          [
+            -48.69678174,
+            -26.89504923
+          ],
+          [
+            -48.69685061,
+            -26.89613724
+          ],
+          [
+            -48.69687357,
+            -26.89659934
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1039,
+      "nome": "R.Alfredo Esser",
+      "cod": 1144,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2315/1987",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim São Luiz",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

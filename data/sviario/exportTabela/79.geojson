@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_514c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68625724,
+            -26.8972191
+          ],
+          [
+            -48.68489413,
+            -26.89724223
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 97,
+      "nome": "R.Herval do Oeste",
+      "cod": 79,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "ago/11",
+      "loteamnome": "COHAB - Conj. habitacional popular nº2",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

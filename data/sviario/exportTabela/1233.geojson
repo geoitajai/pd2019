@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49fa",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69921182,
+            -26.88945915
+          ],
+          [
+            -48.69892252,
+            -26.88946539
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2145,
+      "nome": "R.Áurea de Souza",
+      "cod": 1233,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4abe",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70085495,
+            -26.88935684
+          ],
+          [
+            -48.70021391,
+            -26.88940055
+          ],
+          [
+            -48.6995325,
+            -26.88945223
+          ],
+          [
+            -48.69921182,
+            -26.88945915
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1129,
+      "nome": "R.Áurea de Souza",
+      "cod": 1233,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Jacó Pedro Lamim",
+      "nomeloteamento": "Rua \"4\""
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4958",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64536316,
+            -26.92881622
+          ],
+          [
+            -48.64394541,
+            -26.92832296
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 683,
+      "nome": "R.Pedro Luiz da Silva",
+      "cod": 721,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2658/1991",
+      "hierarquia": null,
+      "bairro": "Fazendinha",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Michele",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

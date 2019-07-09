@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_460b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69897537,
+            -26.90498079
+          ],
+          [
+            -48.69920289,
+            -26.90926509
+          ],
+          [
+            -48.69940798,
+            -26.91307789
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 201,
+      "nome": "R.Acedilo Monteiro de Lima",
+      "cod": 153,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2812/1993",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Residencial Jardim Tarumã",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

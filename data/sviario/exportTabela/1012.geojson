@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a27",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70168766,
+            -26.92842514
+          ],
+          [
+            -48.70260096,
+            -26.92918748
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 913,
+      "nome": "R.Rivo Lafaiéte de Oliveira",
+      "cod": 1012,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4125/2004",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.Rivo L.de Oliveira",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Avelino Werner, Avelino Werner II",
+      "nomeloteamento": "Rua \"24\""
+    }
+  }
+]

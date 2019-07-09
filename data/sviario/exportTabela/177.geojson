@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_46a2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67717061,
+            -26.89697942
+          ],
+          [
+            -48.67695172,
+            -26.89738013
+          ],
+          [
+            -48.67672655,
+            -26.89778176
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 187,
+      "nome": "R.Odair Silva da Rosa ( Dona Loca)",
+      "cod": 177,
+      "ptotalvia": 9.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2930/1994",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.Odair S.da Rosa",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Núcleo Residencial Rua Blumenau COHAB",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

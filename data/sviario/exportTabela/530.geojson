@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_508c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68383028,
+            -26.91060651
+          ],
+          [
+            -48.68374994,
+            -26.91110251
+          ],
+          [
+            -48.6836483,
+            -26.9116475
+          ],
+          [
+            -48.68345271,
+            -26.91278667
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 516,
+      "nome": "R.São Francisco de Assis",
+      "cod": 530,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Haras Rio Verde",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

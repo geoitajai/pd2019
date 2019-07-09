@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a1a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69973974,
+            -26.92306569
+          ],
+          [
+            -48.69850009,
+            -26.92373676
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 879,
+      "nome": "R.Luiz Silva",
+      "cod": 978,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2780/1992",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Dona Mariquinha, Promorar II",
+      "nomeloteamento": "Rua \"42\""
+    }
+  }
+]

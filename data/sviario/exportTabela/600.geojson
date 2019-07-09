@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c63",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.62837821,
+            -26.93939506
+          ],
+          [
+            -48.62756651,
+            -26.93479615
+          ],
+          [
+            -48.62712564,
+            -26.93226887
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1541,
+      "nome": "Av.Dr.José Medeiros Vieira",
+      "cod": 600,
+      "ptotalvia": 0,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Paver",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

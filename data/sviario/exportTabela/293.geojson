@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d6a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66178416,
+            -26.90657039
+          ],
+          [
+            -48.66141156,
+            -26.9062965
+          ],
+          [
+            -48.66084838,
+            -26.9059332
+          ],
+          [
+            -48.6598731,
+            -26.90536153
+          ],
+          [
+            -48.65829396,
+            -26.90438796
+          ],
+          [
+            -48.65753252,
+            -26.90393881
+          ],
+          [
+            -48.65728906,
+            -26.90365372
+          ],
+          [
+            -48.65697675,
+            -26.90330006
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 298,
+      "nome": "R.Dr.José Bonifácio Malburg",
+      "cod": 293,
+      "ptotalvia": 13.2,
+      "ppasseio1": 1.8,
+      "ppasseio2": 1.8,
+      "leidata": "0494/1963",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

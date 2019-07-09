@@ -1,0 +1,74 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48c8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70645471,
+            -26.9146626
+          ],
+          [
+            -48.70540099,
+            -26.91470016
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2106,
+      "nome": "R.Armando Fontolan",
+      "cod": 151,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3308/1998",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4dbe",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70778783,
+            -26.91461507
+          ],
+          [
+            -48.70645471,
+            -26.9146626
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 164,
+      "nome": "R.Armando Fontolan",
+      "cod": 151,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3308/1998",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Pedro Paulo Rebello",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

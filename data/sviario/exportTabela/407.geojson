@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47c3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68525001,
+            -26.8910681
+          ],
+          [
+            -48.68428616,
+            -26.89201633
+          ],
+          [
+            -48.68404253,
+            -26.89225696
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 199,
+      "nome": "Trav.Bubi Kobarg",
+      "cod": 407,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1215/1973",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Curt Hering, Jardim",
+      "nomeloteamento": "Rua \"10\""
+    }
+  }
+]

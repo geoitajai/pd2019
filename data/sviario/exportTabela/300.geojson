@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47ff",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6585914,
+            -26.90591694
+          ],
+          [
+            -48.65872673,
+            -26.90557065
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 305,
+      "nome": "Serv.Henrique Labes",
+      "cod": 300,
+      "ptotalvia": 4,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2255/1986",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Paver",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4876",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67768068,
+            -26.88743295
+          ],
+          [
+            -48.67723257,
+            -26.88794072
+          ],
+          [
+            -48.67574134,
+            -26.88975228
+          ],
+          [
+            -48.67420236,
+            -26.89162278
+          ],
+          [
+            -48.6730556,
+            -26.89302917
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 432,
+      "nome": "Av.Leodegario Pedro da Silva",
+      "cod": 446,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1695/1979",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

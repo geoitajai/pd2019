@@ -1,0 +1,210 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44c6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69775382,
+            -26.90038714
+          ],
+          [
+            -48.69740718,
+            -26.90040841
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 39,
+      "nome": "R.Cargelino Francelino",
+      "cod": 23,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1446/1975",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f0d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69740718,
+            -26.90040841
+          ],
+          [
+            -48.69653831,
+            -26.90046174
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1819,
+      "nome": "R.Cargelino Francelino",
+      "cod": 23,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1446/1975",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Rio Bonito",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fd0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69653831,
+            -26.90046174
+          ],
+          [
+            -48.69647373,
+            -26.9004657
+          ],
+          [
+            -48.69583568,
+            -26.90050737
+          ],
+          [
+            -48.69577695,
+            -26.90051073
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1818,
+      "nome": "R.Cargelino Francelino",
+      "cod": 23,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1446/1975",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Rio Azul",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5005",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69577695,
+            -26.90051073
+          ],
+          [
+            -48.69521232,
+            -26.90054308
+          ],
+          [
+            -48.69451257,
+            -26.90058789
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1875,
+      "nome": "R.Cargelino Francelino",
+      "cod": 23,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1446/1975",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Emita",
+      "nomeloteamento": "Rua \"E\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50fa",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69451257,
+            -26.90058789
+          ],
+          [
+            -48.69445014,
+            -26.90059188
+          ],
+          [
+            -48.69385748,
+            -26.9006026
+          ],
+          [
+            -48.69222817,
+            -26.90063949
+          ],
+          [
+            -48.69058718,
+            -26.90066926
+          ],
+          [
+            -48.68867972,
+            -26.90071925
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2040,
+      "nome": "R.Cargelino Francelino",
+      "cod": 23,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1446/1975",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

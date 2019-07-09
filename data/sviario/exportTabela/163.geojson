@@ -1,0 +1,102 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_462d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66873366,
+            -26.9026133
+          ],
+          [
+            -48.66901093,
+            -26.90556917
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 173,
+      "nome": "R.Alberto Werner",
+      "cod": 163,
+      "ptotalvia": 13.2,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c19",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66901093,
+            -26.90556917
+          ],
+          [
+            -48.66925544,
+            -26.90749861
+          ],
+          [
+            -48.66952649,
+            -26.90981811
+          ],
+          [
+            -48.66980014,
+            -26.91197531
+          ],
+          [
+            -48.66987946,
+            -26.91275685
+          ],
+          [
+            -48.67001429,
+            -26.9138531
+          ],
+          [
+            -48.67008965,
+            -26.91435526
+          ],
+          [
+            -48.67020069,
+            -26.91524286
+          ],
+          [
+            -48.67031966,
+            -26.91627544
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1471,
+      "nome": "R.Alberto Werner",
+      "cod": 163,
+      "ptotalvia": 13.2,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4887",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67438992,
+            -26.88620073
+          ],
+          [
+            -48.67383895,
+            -26.88676492
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 453,
+      "nome": "R.Augusto de Jesus",
+      "cod": 467,
+      "ptotalvia": 8.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3129/1996",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

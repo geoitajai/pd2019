@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e28",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69470445,
+            -26.90373963
+          ],
+          [
+            -48.69385658,
+            -26.9037657
+          ],
+          [
+            -48.69224405,
+            -26.90380877
+          ],
+          [
+            -48.68872859,
+            -26.90391819
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 21,
+      "nome": "R.Jovita da Costa Ramos",
+      "cod": 17,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1916/1981",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Operário",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

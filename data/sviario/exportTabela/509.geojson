@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48b6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67655302,
+            -26.91214977
+          ],
+          [
+            -48.67652399,
+            -26.91264471
+          ],
+          [
+            -48.67652271,
+            -26.91268512
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 495,
+      "nome": "R.Gervasio Antônio Klock",
+      "cod": 509,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1930/1982",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bb1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67652271,
+            -26.91268512
+          ],
+          [
+            -48.67650842,
+            -26.91313754
+          ],
+          [
+            -48.67648164,
+            -26.9136271
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2177,
+      "nome": "R.Gervasio Antônio Klock",
+      "cod": 509,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1930/1982",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Vila Nova",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

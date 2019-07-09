@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4926",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6500312,
+            -26.92453346
+          ],
+          [
+            -48.64796193,
+            -26.9238119
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 635,
+      "nome": "R.Galdino Jerônimo Vieira",
+      "cod": 673,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1214/1973",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

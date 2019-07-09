@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a4a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69913896,
+            -26.86739703
+          ],
+          [
+            -48.69926112,
+            -26.86973788
+          ],
+          [
+            -48.69935751,
+            -26.87183974
+          ],
+          [
+            -48.69943166,
+            -26.87305672
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 941,
+      "nome": "R.Pedro João de Souza",
+      "cod": 1038,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3933/2003",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Itália",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_505d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69943166,
+            -26.87305674
+          ],
+          [
+            -48.69893482,
+            -26.87328928
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1925,
+      "nome": "R.Pedro João de Souza",
+      "cod": 1038,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3933/2003",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Itália",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b56",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7428122,
+            -26.89521792
+          ],
+          [
+            -48.74286362,
+            -26.89595462
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1265,
+      "nome": "R.Idézio Cordeiro",
+      "cod": 1386,
+      "ptotalvia": 5.8,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2443/1989",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

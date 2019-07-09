@@ -1,0 +1,74 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ade",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69907009,
+            -26.89335253
+          ],
+          [
+            -48.69879246,
+            -26.8933613
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1100,
+      "nome": "R.Rio Grande do Norte",
+      "cod": 1204,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1202/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Osmar Nunes e Fco Canziani",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_507a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69879246,
+            -26.8933613
+          ],
+          [
+            -48.69750454,
+            -26.89340197
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1952,
+      "nome": "R.Rio Grande do Norte",
+      "cod": 1204,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1202/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Conj. Hab. Costa Cavalcante (COHAB)",
+      "nomeloteamento": "Rua \"16\""
+    }
+  }
+]

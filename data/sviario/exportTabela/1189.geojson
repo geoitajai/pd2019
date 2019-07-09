@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ae7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69892744,
+            -26.8895663
+          ],
+          [
+            -48.69793867,
+            -26.88959701
+          ],
+          [
+            -48.69698032,
+            -26.88963218
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1085,
+      "nome": "R.Rio de Janeiro",
+      "cod": 1189,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1202/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Conj. Hab. Costa Cavalcante (COHAB)",
+      "nomeloteamento": "Rua \"6\""
+    }
+  }
+]

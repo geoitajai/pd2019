@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_43e0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72434625,
+            -26.89690831
+          ],
+          [
+            -48.72427431,
+            -26.89609669
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 22,
+      "nome": "R.Miguel Maestri",
+      "cod": 1365,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "5371/2009",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

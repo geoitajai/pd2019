@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b9d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73965604,
+            -26.94522899
+          ],
+          [
+            -48.73963718,
+            -26.94538529
+          ],
+          [
+            -48.7396889,
+            -26.94622184
+          ],
+          [
+            -48.73911747,
+            -26.94620428
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1331,
+      "nome": "R.Carlos Rogge Neto",
+      "cod": 1451,
+      "ptotalvia": 4,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2900/1994",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "R.Carlos R.Neto",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

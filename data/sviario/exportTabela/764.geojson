@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4975",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63477544,
+            -26.92774415
+          ],
+          [
+            -48.63426603,
+            -26.92736934
+          ],
+          [
+            -48.63371101,
+            -26.92694374
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 726,
+      "nome": "R.Otto Renaux",
+      "cod": 764,
+      "ptotalvia": 6.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "0829/1967",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

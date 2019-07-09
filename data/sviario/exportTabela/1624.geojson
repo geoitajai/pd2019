@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cf0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67126772,
+            -26.92833728
+          ],
+          [
+            -48.67124178,
+            -26.9291389
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1671,
+      "nome": "Serv.Sebastião do Rozário",
+      "cod": 1624,
+      "ptotalvia": 0,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": "5226/2008",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

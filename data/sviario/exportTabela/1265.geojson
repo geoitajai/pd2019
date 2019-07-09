@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4afa",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.84859403,
+            -27.03766938
+          ],
+          [
+            -48.84865649,
+            -27.03852731
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1154,
+      "nome": "R.Pedro Angioletti",
+      "cod": 1265,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4623/2006",
+      "hierarquia": null,
+      "bairro": "Limoeiro",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "abr/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44b2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70259577,
+            -26.90661454
+          ],
+          [
+            -48.70216967,
+            -26.90664459
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 137,
+      "nome": "R.João Alves de Oliveira",
+      "cod": 124,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.João A.de Oliveira",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

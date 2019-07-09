@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49f8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6937186,
+            -26.92189461
+          ],
+          [
+            -48.69392029,
+            -26.9223376
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 861,
+      "nome": "R.João Laurentino das Neves",
+      "cod": 960,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3132/1996",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.João L.das Neves",
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

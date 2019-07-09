@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ece",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6902653,
+            -26.92608765
+          ],
+          [
+            -48.69074575,
+            -26.92678647
+          ],
+          [
+            -48.69122871,
+            -26.92746705
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 874,
+      "nome": "R.Nelson Manoel Simão",
+      "cod": 973,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.Nelson M.Simão",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Padre Schmitt",
+      "nomeloteamento": "Rua \"22\""
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4804",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66662888,
+            -26.90224061
+          ],
+          [
+            -48.66660928,
+            -26.90176804
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 310,
+      "nome": "R.Antônio Lopes Gonzaga",
+      "cod": 305,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Antônio L.Gonzaga",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

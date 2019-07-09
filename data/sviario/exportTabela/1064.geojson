@@ -1,0 +1,122 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a38",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70343304,
+            -26.87499144
+          ],
+          [
+            -48.7028066,
+            -26.87501533
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 966,
+      "nome": "R.Dorval José de Aragão",
+      "cod": 1064,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4723/2007",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.Dorval J.de Aragão",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Dona Benta",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a5b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70119981,
+            -26.87507658
+          ],
+          [
+            -48.70093899,
+            -26.87508652
+          ],
+          [
+            -48.70067554,
+            -26.87510123
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 969,
+      "nome": "R.Dorval José de Aragão",
+      "cod": 1064,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4723/2007",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.Dorval J.de Aragão",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Jardim Residencial Baumgartner",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50bf",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70067554,
+            -26.87510123
+          ],
+          [
+            -48.70042821,
+            -26.87511504
+          ],
+          [
+            -48.69995597,
+            -26.87515453
+          ],
+          [
+            -48.69973296,
+            -26.8751421
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2018,
+      "nome": "R.Dorval José de Aragão",
+      "cod": 1064,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4723/2007",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.Dorval J.de Aragão",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Vila Nova",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4925",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6515126,
+            -26.9222607
+          ],
+          [
+            -48.65088871,
+            -26.92330983
+          ],
+          [
+            -48.6506566,
+            -26.92370904
+          ],
+          [
+            -48.65042998,
+            -26.92411682
+          ],
+          [
+            -48.65037072,
+            -26.92437356
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 634,
+      "nome": "R.Florianópolis",
+      "cod": 672,
+      "ptotalvia": 13.2,
+      "ppasseio1": 1.8,
+      "ppasseio2": 1.8,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

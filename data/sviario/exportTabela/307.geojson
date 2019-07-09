@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4806",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66847191,
+            -26.90249541
+          ],
+          [
+            -48.66861715,
+            -26.90377554
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 312,
+      "nome": "R.José Francisco Constantino",
+      "cod": 307,
+      "ptotalvia": 4.5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3880/2003",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.José F.co.Constantino",
+      "pavto": "Lajota",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

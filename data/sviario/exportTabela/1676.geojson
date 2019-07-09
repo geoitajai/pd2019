@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d76",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70204498,
+            -26.8972494
+          ],
+          [
+            -48.70245148,
+            -26.89723416
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1727,
+      "nome": "R.\"Rua 06\" - Jardim São Fancisco",
+      "cod": 1676,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Jardim São Francisco",
+      "nomeloteamento": "Rua \"6\""
+    }
+  }
+]

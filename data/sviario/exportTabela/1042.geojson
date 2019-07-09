@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a53",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69629811,
+            -26.86744823
+          ],
+          [
+            -48.69639157,
+            -26.86905479
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 945,
+      "nome": "R.Pr.Anôr Nagel Júnior",
+      "cod": 1042,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4360/2005",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Jardim Santa Rita",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

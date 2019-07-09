@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c5d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.703462,
+            -26.92196677
+          ],
+          [
+            -48.70375547,
+            -26.9222338
+          ],
+          [
+            -48.70419621,
+            -26.92260845
+          ],
+          [
+            -48.70452574,
+            -26.92287022
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1527,
+      "nome": "R.Rua projetada Assent. Mariquinha Brasil",
+      "cod": 1561,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.P.M.Brasil",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

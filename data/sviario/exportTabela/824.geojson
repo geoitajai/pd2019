@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cd3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63737024,
+            -26.94413544
+          ],
+          [
+            -48.63742482,
+            -26.94450415
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1649,
+      "nome": "R.João Domingos Pereira",
+      "cod": 824,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5741/2011",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.João D.P.ra.",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": ""
+    }
+  }
+]

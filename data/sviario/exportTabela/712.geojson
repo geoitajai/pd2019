@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5038",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64653607,
+            -26.92705292
+          ],
+          [
+            -48.64827978,
+            -26.92801507
+          ],
+          [
+            -48.64856004,
+            -26.92830316
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 674,
+      "nome": "R.Profª.Clotilde Ramos Chaves",
+      "cod": 712,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1717/1979",
+      "hierarquia": null,
+      "bairro": "Fazendinha",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Jardim Luciana",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

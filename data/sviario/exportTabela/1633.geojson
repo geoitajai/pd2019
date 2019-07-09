@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d2b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68501389,
+            -26.92997284
+          ],
+          [
+            -48.68443994,
+            -26.93103568
+          ],
+          [
+            -48.68426023,
+            -26.93482049
+          ],
+          [
+            -48.68550277,
+            -26.93487457
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1681,
+      "nome": "R.Ver.José Carlos Mendonça",
+      "cod": 1633,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6163/2012",
+      "hierarquia": null,
+      "bairro": "Carvalho",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

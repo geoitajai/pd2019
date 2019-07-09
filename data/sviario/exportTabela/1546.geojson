@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bec",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67636871,
+            -26.89229937
+          ],
+          [
+            -48.67540076,
+            -26.89346049
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1418,
+      "nome": "R.João Honorio de Miranda",
+      "cod": 1546,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0667/1965",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "R.João H.de Miranda",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50c1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69525031,
+            -26.86765886
+          ],
+          [
+            -48.69533886,
+            -26.86908112
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 947,
+      "nome": "R.Áurea da Silva Simas",
+      "cod": 1044,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4407/2005",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Santa Rita",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50c4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69533886,
+            -26.86908112
+          ],
+          [
+            -48.69586522,
+            -26.86907673
+          ],
+          [
+            -48.69639157,
+            -26.86905479
+          ],
+          [
+            -48.69687366,
+            -26.86902846
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2021,
+      "nome": "R.Áurea da Silva Simas",
+      "cod": 1044,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4407/2005",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Santa Rita",
+      "nomeloteamento": "Rua \"E\""
+    }
+  }
+]

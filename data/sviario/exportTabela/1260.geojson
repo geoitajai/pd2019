@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4af5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.84899527,
+            -27.04020761
+          ],
+          [
+            -48.84578074,
+            -27.0403866
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1149,
+      "nome": "R.Manoel Dario Custódio",
+      "cod": 1260,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3811/2002",
+      "hierarquia": null,
+      "bairro": "Limoeiro",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "abr/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

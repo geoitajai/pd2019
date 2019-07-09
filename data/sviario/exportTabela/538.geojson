@@ -1,0 +1,150 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4de3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6783154,
+            -26.92350822
+          ],
+          [
+            -48.67703467,
+            -26.92360904
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1759,
+      "nome": "R.Estud.Renato Victorino",
+      "cod": 538,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1848/1981",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim das Palmeiras I, Jardim Ressacada I",
+      "nomeloteamento": "Rua \"03\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e5e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6804861,
+            -26.92333902
+          ],
+          [
+            -48.67904125,
+            -26.92345107
+          ],
+          [
+            -48.67876698,
+            -26.92347266
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 523,
+      "nome": "R.Estud.Renato Victorino",
+      "cod": 538,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1848/1981",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e61",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67876698,
+            -26.92347266
+          ],
+          [
+            -48.67831917,
+            -26.92350792
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1787,
+      "nome": "R.Estud.Renato Victorino",
+      "cod": 538,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1848/1981",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Carlos",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e64",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67831917,
+            -26.92350792
+          ],
+          [
+            -48.6783154,
+            -26.92350822
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1788,
+      "nome": "R.Estud.Renato Victorino",
+      "cod": 538,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1848/1981",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

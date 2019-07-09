@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49bb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68799364,
+            -26.931655
+          ],
+          [
+            -48.68757876,
+            -26.93217772
+          ],
+          [
+            -48.68717292,
+            -26.93263164
+          ],
+          [
+            -48.68649407,
+            -26.93341448
+          ],
+          [
+            -48.685889,
+            -26.93413153
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 786,
+      "nome": "R.Francisco Rodrigues Pereira",
+      "cod": 881,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1866/1981",
+      "hierarquia": null,
+      "bairro": "Carvalho",
+      "abrevlogr": "R.Francisco R.Pereira",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Santa Terezinha",
+      "nomeloteamento": "Rua \"G\""
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4aa7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69599794,
+            -26.89401678
+          ],
+          [
+            -48.69606353,
+            -26.89507848
+          ],
+          [
+            -48.69623079,
+            -26.89770488
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1041,
+      "nome": "R.Armando de Amorim",
+      "cod": 1146,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1933/1982",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Rio Claro",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

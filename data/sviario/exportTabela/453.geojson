@@ -1,0 +1,98 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_487b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67187451,
+            -26.88641523
+          ],
+          [
+            -48.67154965,
+            -26.88670933
+          ],
+          [
+            -48.67125373,
+            -26.88700762
+          ],
+          [
+            -48.67029858,
+            -26.88629651
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 439,
+      "nome": "R.Antônio José da Veiga",
+      "cod": 453,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4250/2004",
+      "hierarquia": null,
+      "bairro": "Imaruí",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_487d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67094647,
+            -26.88561184
+          ],
+          [
+            -48.67029858,
+            -26.88629651
+          ],
+          [
+            -48.66884197,
+            -26.88521789
+          ],
+          [
+            -48.66841153,
+            -26.88491301
+          ],
+          [
+            -48.66795529,
+            -26.88464051
+          ],
+          [
+            -48.66779317,
+            -26.88449976
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 441,
+      "nome": "R.Antônio José da Veiga",
+      "cod": 453,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4250/2004",
+      "hierarquia": null,
+      "bairro": "Imaruí",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

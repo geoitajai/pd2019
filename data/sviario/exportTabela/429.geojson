@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4866",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67837543,
+            -26.89069003
+          ],
+          [
+            -48.67714205,
+            -26.89215081
+          ],
+          [
+            -48.67584494,
+            -26.89373166
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 416,
+      "nome": "R.Dr.Carlos Paulo Pfelsticker",
+      "cod": 429,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0666/1965",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

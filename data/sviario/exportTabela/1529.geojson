@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c83",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.76897459,
+            -26.99705396
+          ],
+          [
+            -48.76924679,
+            -26.99712665
+          ],
+          [
+            -48.76945801,
+            -26.99719768
+          ],
+          [
+            -48.76960788,
+            -26.99734055
+          ],
+          [
+            -48.76955662,
+            -26.99755795
+          ],
+          [
+            -48.76898317,
+            -26.99893441
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1568,
+      "nome": "R.Paulina Westphal",
+      "cod": 1529,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3736/2002",
+      "hierarquia": null,
+      "bairro": "Paciência",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

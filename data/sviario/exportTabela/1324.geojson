@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b3b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74987334,
+            -26.87036914
+          ],
+          [
+            -48.7500254,
+            -26.87220331
+          ],
+          [
+            -48.75029002,
+            -26.87526088
+          ],
+          [
+            -48.75058541,
+            -26.87832935
+          ],
+          [
+            -48.75083156,
+            -26.88141379
+          ],
+          [
+            -48.75096678,
+            -26.88306469
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1221,
+      "nome": "R.Augusto Cugnier",
+      "cod": 1324,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4721/2007",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Santa Regina 1",
+      "nomeloteamento": "Rua \"1\""
+    }
+  }
+]

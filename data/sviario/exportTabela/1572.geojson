@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c62",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73874038,
+            -26.94950114
+          ],
+          [
+            -48.7376833,
+            -26.94953514
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1537,
+      "nome": "R.Anna Custódio",
+      "cod": 1572,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5583/10",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

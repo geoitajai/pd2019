@@ -1,0 +1,300 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5086",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66005599,
+            -26.913487
+          ],
+          [
+            -48.66032079,
+            -26.91366364
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1966,
+      "nome": "R.Júlio Willerding",
+      "cod": 1607,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0835/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Julio Willerding",
+      "nomeloteamento": "Rua Projetada"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5087",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66032079,
+            -26.91366364
+          ],
+          [
+            -48.66074673,
+            -26.91394774
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1967,
+      "nome": "R.Júlio Willerding",
+      "cod": 1607,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0835/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5088",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66005599,
+            -26.913487
+          ],
+          [
+            -48.66005599,
+            -26.913487
+          ]
+        ],
+        [
+          [
+            -48.65947191,
+            -26.91414611
+          ],
+          [
+            -48.65933282,
+            -26.914303
+          ],
+          [
+            -48.65959497,
+            -26.91453011
+          ],
+          [
+            -48.65937706,
+            -26.91488356
+          ]
+        ],
+        [
+          [
+            -48.65906966,
+            -26.91410741
+          ],
+          [
+            -48.65933282,
+            -26.914303
+          ]
+        ],
+        [
+          [
+            -48.65906966,
+            -26.91410741
+          ],
+          [
+            -48.65876406,
+            -26.91440388
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1969,
+      "nome": "R.Júlio Willerding",
+      "cod": 1607,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0835/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5089",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66014282,
+            -26.91334308
+          ],
+          [
+            -48.66005599,
+            -26.913487
+          ],
+          [
+            -48.66005599,
+            -26.913487
+          ],
+          [
+            -48.65965747,
+            -26.91393671
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1970,
+      "nome": "R.Júlio Willerding",
+      "cod": 1607,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0835/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Julio Willerding",
+      "nomeloteamento": "Rua Projetada"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50a3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65965747,
+            -26.91393671
+          ],
+          [
+            -48.65947191,
+            -26.91414611
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1968,
+      "nome": "R.Júlio Willerding",
+      "cod": 1607,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0835/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50c9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65923773,
+            -26.91397771
+          ],
+          [
+            -48.65906966,
+            -26.91410741
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2027,
+      "nome": "R.Júlio Willerding",
+      "cod": 1607,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0835/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50ca",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65947191,
+            -26.91414613
+          ],
+          [
+            -48.65923773,
+            -26.91397768
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2028,
+      "nome": "R.Júlio Willerding",
+      "cod": 1607,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0835/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Nicácio da Costa, Empreendimentos Narciso Rua Uruguai",
+      "nomeloteamento": "Travessa \"A\""
+    }
+  }
+]

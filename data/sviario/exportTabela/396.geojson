@@ -1,0 +1,122 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e46",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66631944,
+            -26.91208931
+          ],
+          [
+            -48.66552891,
+            -26.9128755
+          ],
+          [
+            -48.66507472,
+            -26.91335292
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 385,
+      "nome": "R.Luiz Berlim",
+      "cod": 396,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1213/1973",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Eurico Adam III",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e54",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66470526,
+            -26.91374288
+          ],
+          [
+            -48.66449853,
+            -26.91397068
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1785,
+      "nome": "R.Luiz Berlim",
+      "cod": 396,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1213/1973",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Tecita",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_500e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66507472,
+            -26.91335292
+          ],
+          [
+            -48.66488827,
+            -26.91354889
+          ],
+          [
+            -48.66479133,
+            -26.91364803
+          ],
+          [
+            -48.66470526,
+            -26.91374288
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1890,
+      "nome": "R.Luiz Berlim",
+      "cod": 396,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1213/1973",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Vila Anna",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

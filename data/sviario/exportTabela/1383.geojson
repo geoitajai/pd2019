@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b53",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74368547,
+            -26.89551011
+          ],
+          [
+            -48.74362344,
+            -26.89506757
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1262,
+      "nome": "R.Maria Leandra dos Santos",
+      "cod": 1383,
+      "ptotalvia": 5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2443/1989",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "R.Maria L.dos Santos",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b54",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7437836,
+            -26.89504199
+          ],
+          [
+            -48.74362344,
+            -26.89506757
+          ],
+          [
+            -48.74330002,
+            -26.89511104
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1263,
+      "nome": "R.Maria Leandra dos Santos",
+      "cod": 1383,
+      "ptotalvia": 5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2443/1989",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "R.Maria L.dos Santos",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

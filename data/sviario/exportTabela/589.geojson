@@ -1,0 +1,114 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48f5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63118046,
+            -26.9563912
+          ],
+          [
+            -48.63108706,
+            -26.95673643
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 572,
+      "nome": "R.Anthurium",
+      "cod": 589,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2809/1993",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Sociedade Camboriu de Hoteis",
+      "nomeloteamento": "Travessa \"8\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4faa",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63057065,
+            -26.9582985
+          ],
+          [
+            -48.6302946,
+            -26.95917134
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1863,
+      "nome": "R.Anthurium",
+      "cod": 589,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2809/1993",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fff",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63108706,
+            -26.95673645
+          ],
+          [
+            -48.63074371,
+            -26.95778434
+          ],
+          [
+            -48.63057065,
+            -26.95829852
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1864,
+      "nome": "R.Anthurium",
+      "cod": 589,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2809/1993",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Sociedade Camboriu de Hoteis",
+      "nomeloteamento": "Rua \"23\""
+    }
+  }
+]

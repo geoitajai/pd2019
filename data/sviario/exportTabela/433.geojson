@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_486a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67789994,
+            -26.88964278
+          ],
+          [
+            -48.67914084,
+            -26.89059099
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 420,
+      "nome": "R.Leopoldo Werner",
+      "cod": 433,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "3214/1997",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

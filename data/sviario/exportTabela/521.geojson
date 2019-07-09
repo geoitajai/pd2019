@@ -1,0 +1,130 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5099",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68075307,
+            -26.9124288
+          ],
+          [
+            -48.68076086,
+            -26.91266393
+          ],
+          [
+            -48.6807823,
+            -26.91312815
+          ],
+          [
+            -48.68078833,
+            -26.91346732
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1979,
+      "nome": "R.Luciano Pinheiro da Silva",
+      "cod": 521,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2288/1987",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Fábio Cesário Pereira",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50a7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68070867,
+            -26.91063338
+          ],
+          [
+            -48.68071691,
+            -26.91112082
+          ],
+          [
+            -48.68073614,
+            -26.91166213
+          ],
+          [
+            -48.68074037,
+            -26.91192095
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 507,
+      "nome": "R.Luciano Pinheiro da Silva",
+      "cod": 521,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2288/1987",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim das Quadras",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5188",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68074037,
+            -26.91192095
+          ],
+          [
+            -48.68074438,
+            -26.9121667
+          ],
+          [
+            -48.68075307,
+            -26.9124288
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2065,
+      "nome": "R.Luciano Pinheiro da Silva",
+      "cod": 521,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2288/1987",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

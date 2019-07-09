@@ -1,0 +1,64 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d72",
+    "geometry": null,
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1728,
+      "nome": "R.Sílvio Virgílio Teófilo",
+      "cod": 1677,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "5119/2008",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d74",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70398175,
+            -26.92338587
+          ],
+          [
+            -48.70306852,
+            -26.9225713
+          ],
+          [
+            -48.70282875,
+            -26.9223723
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1729,
+      "nome": "R.Sílvio Virgílio Teófilo",
+      "cod": 1677,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "5119/2008",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a4f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70032491,
+            -26.87313424
+          ],
+          [
+            -48.70042821,
+            -26.87511504
+          ],
+          [
+            -48.70054627,
+            -26.87710933
+          ],
+          [
+            -48.70061268,
+            -26.87851782
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 965,
+      "nome": "R.Alberto Buchele",
+      "cod": 1062,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4326/2005",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Vila Nova",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

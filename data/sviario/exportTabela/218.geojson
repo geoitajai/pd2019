@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47ab",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67141182,
+            -26.89805359
+          ],
+          [
+            -48.67326265,
+            -26.899501
+          ],
+          [
+            -48.67508902,
+            -26.90093794
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 227,
+      "nome": "R.Austergilio Angelino",
+      "cod": 218,
+      "ptotalvia": 13.2,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1280/1973",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Florestal",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

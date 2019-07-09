@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ba4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74963788,
+            -26.94208568
+          ],
+          [
+            -48.74861816,
+            -26.94277569
+          ],
+          [
+            -48.74759845,
+            -26.94339983
+          ],
+          [
+            -48.74688601,
+            -26.94387246
+          ],
+          [
+            -48.74385066,
+            -26.94570106
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1338,
+      "nome": "R.Aristides Pedroni",
+      "cod": 1458,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2846/1993",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

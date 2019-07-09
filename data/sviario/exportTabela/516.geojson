@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48b0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68322769,
+            -26.9133045
+          ],
+          [
+            -48.68227853,
+            -26.91335308
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 502,
+      "nome": "R.Bernadette Dell'Agnolo Bozzano",
+      "cod": 516,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": "R.Bernadette Dell'A.Bozzano",
+      "pavto": "Lajota",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47f0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66697811,
+            -26.90172206
+          ],
+          [
+            -48.6669858,
+            -26.90201073
+          ],
+          [
+            -48.66705322,
+            -26.90262611
+          ],
+          [
+            -48.66731091,
+            -26.90502453
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 288,
+      "nome": "R.Cap.Adolfo Germano de Andrade",
+      "cod": 285,
+      "ptotalvia": 13.8,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "0825/1967",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Cap.Adolfo G.de Andrade",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

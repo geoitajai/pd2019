@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b60",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7688956,
+            -26.89780547
+          ],
+          [
+            -48.76885573,
+            -26.89712019
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1278,
+      "nome": "Serv.Nair da Silva Evaristo",
+      "cod": 1397,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "5091/2008",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "Serv.Nair da S.Evaristo",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

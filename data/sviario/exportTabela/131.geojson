@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_45d4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7069063,
+            -26.9052469
+          ],
+          [
+            -48.70581468,
+            -26.90529698
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 143,
+      "nome": "R.Gervásio Francisco Régis",
+      "cod": 131,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3519/2000",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Pedro Paulo Rebello",
+      "nomeloteamento": "Rua \"T\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49c8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70581468,
+            -26.90529698
+          ],
+          [
+            -48.70490193,
+            -26.90533884
+          ],
+          [
+            -48.70390281,
+            -26.9053616
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2142,
+      "nome": "R.Gervásio Francisco Régis",
+      "cod": 131,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3519/2000",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

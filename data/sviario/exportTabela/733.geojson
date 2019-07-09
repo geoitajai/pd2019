@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_494f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64353101,
+            -26.9315297
+          ],
+          [
+            -48.64562212,
+            -26.93330351
+          ],
+          [
+            -48.64579426,
+            -26.93335189
+          ],
+          [
+            -48.64594263,
+            -26.93352532
+          ],
+          [
+            -48.64613716,
+            -26.93377518
+          ],
+          [
+            -48.64635807,
+            -26.93352826
+          ],
+          [
+            -48.64646358,
+            -26.93353708
+          ],
+          [
+            -48.64789454,
+            -26.93483339
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 695,
+      "nome": "R.Alcides Pereira",
+      "cod": 733,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2241/1986",
+      "hierarquia": null,
+      "bairro": "Fazendinha",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4aeb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69865395,
+            -26.89227571
+          ],
+          [
+            -48.69819646,
+            -26.89229931
+          ],
+          [
+            -48.69744405,
+            -26.89232966
+          ],
+          [
+            -48.69696009,
+            -26.89234315
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1093,
+      "nome": "R.Pernambuco",
+      "cod": 1197,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414(1988)1202(1973)",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "set/11",
+      "loteamnome": "Conj. Hab. Costa Cavalcante (COHAB)",
+      "nomeloteamento": "Rua \"13\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f7a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69696009,
+            -26.89234317
+          ],
+          [
+            -48.69663744,
+            -26.89234964
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1848,
+      "nome": "R.Pernambuco",
+      "cod": 1197,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414(1988)1202(1973)",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim São Luiz",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

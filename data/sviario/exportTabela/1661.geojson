@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d4b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72305023,
+            -26.9794853
+          ],
+          [
+            -48.72313122,
+            -26.97925163
+          ],
+          [
+            -48.72326639,
+            -26.97887915
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1710,
+      "nome": "R.\"H\"",
+      "cod": 1661,
+      "ptotalvia": 13.5,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "Rio do Meio",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

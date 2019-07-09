@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cca",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66765984,
+            -26.90821184
+          ],
+          [
+            -48.66708325,
+            -26.90801791
+          ]
+        ],
+        [
+          [
+            -48.66708325,
+            -26.90801791
+          ],
+          [
+            -48.66710462,
+            -26.90845232
+          ],
+          [
+            -48.6675369,
+            -26.90856549
+          ]
+        ],
+        [
+          [
+            -48.66708325,
+            -26.90801791
+          ],
+          [
+            -48.66700548,
+            -26.90800667
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1657,
+      "nome": "Serv.Manoel F. do Nascimento",
+      "cod": 318,
+      "ptotalvia": 3,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "Serv.Manoel F.do Nasc.",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

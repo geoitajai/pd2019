@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_480b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66625212,
+            -26.90263672
+          ],
+          [
+            -48.66637777,
+            -26.90409943
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 317,
+      "nome": "R.Antônio Bernardo Schauffert",
+      "cod": 312,
+      "ptotalvia": 3.6,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "1541/1977",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Antônio B.Schauffert",
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

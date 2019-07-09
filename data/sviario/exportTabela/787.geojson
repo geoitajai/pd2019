@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cad",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64596397,
+            -26.95718481
+          ],
+          [
+            -48.64455939,
+            -26.95724653
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1618,
+      "nome": "R.Exp.Pedro Amaro Pereira",
+      "cod": 787,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4781/2007",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Exp.Pedro A.P.ra.",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

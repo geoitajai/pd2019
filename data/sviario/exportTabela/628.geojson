@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4902",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65564161,
+            -26.91405314
+          ],
+          [
+            -48.65470284,
+            -26.91332521
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 590,
+      "nome": "R.Bento Adriano Pereira",
+      "cod": 628,
+      "ptotalvia": 5.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3715/2002",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Bento A.P.ra.",
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

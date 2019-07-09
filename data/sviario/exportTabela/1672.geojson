@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d61",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.71743576,
+            -26.89888616
+          ],
+          [
+            -48.71701186,
+            -26.89880579
+          ],
+          [
+            -48.71285082,
+            -26.89820068
+          ],
+          [
+            -48.71134091,
+            -26.89798107
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1722,
+      "nome": "R.José de Souza",
+      "cod": 1672,
+      "ptotalvia": 15,
+      "ppasseio1": 4,
+      "ppasseio2": 4,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "3º Distrito Industrial",
+      "nomeloteamento": "Rua \"F\""
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c08",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68080655,
+            -26.9211745
+          ],
+          [
+            -48.68082618,
+            -26.92230053
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1428,
+      "nome": "R.Eugênio Geraldino Franca",
+      "cod": 568,
+      "ptotalvia": 12,
+      "ppasseio1": 5,
+      "ppasseio2": 2,
+      "leidata": "2231/1986",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Chimmene",
+      "nomeloteamento": "Rua \"F\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e8d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68082618,
+            -26.92230053
+          ],
+          [
+            -48.68083127,
+            -26.92259257
+          ],
+          [
+            -48.68084029,
+            -26.92297427
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1799,
+      "nome": "R.Eugênio Geraldino Franca",
+      "cod": 568,
+      "ptotalvia": 12,
+      "ppasseio1": 5,
+      "ppasseio2": 2,
+      "leidata": "2231/1986",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Pôr do Sol",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

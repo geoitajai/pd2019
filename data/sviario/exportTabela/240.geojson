@@ -1,0 +1,142 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c30",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67765555,
+            -26.90560947
+          ],
+          [
+            -48.67765615,
+            -26.90560945
+          ],
+          [
+            -48.68029876,
+            -26.90556252
+          ],
+          [
+            -48.68033408,
+            -26.90556119
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2194,
+      "nome": "R.Joaquim José de Freitas",
+      "cod": 240,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0639/1965",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Wanda Lage-  Vila Nova",
+      "nomeloteamento": "Rua \"2\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f08",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68033408,
+            -26.90556119
+          ],
+          [
+            -48.68245303,
+            -26.90548097
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1815,
+      "nome": "R.Joaquim José de Freitas",
+      "cod": 240,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0639/1965",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Vila Todeschini",
+      "nomeloteamento": "Rua \"2\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f1b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67239218,
+            -26.90578154
+          ],
+          [
+            -48.67252834,
+            -26.90576602
+          ],
+          [
+            -48.67294872,
+            -26.90575659
+          ],
+          [
+            -48.67348543,
+            -26.9057448
+          ],
+          [
+            -48.67433941,
+            -26.90570708
+          ],
+          [
+            -48.67467783,
+            -26.90570001
+          ],
+          [
+            -48.67580942,
+            -26.905667
+          ],
+          [
+            -48.67765555,
+            -26.90560947
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 249,
+      "nome": "R.Joaquim José de Freitas",
+      "cod": 240,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0639/1965",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

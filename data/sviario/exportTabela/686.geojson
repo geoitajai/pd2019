@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4956",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6551924,
+            -26.92434426
+          ],
+          [
+            -48.6571022,
+            -26.92592357
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 648,
+      "nome": "R.Antônio Foes",
+      "cod": 686,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1535/1977",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Jardim Itajaí Segundo",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

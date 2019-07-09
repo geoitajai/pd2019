@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44e1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70128509,
+            -26.90162742
+          ],
+          [
+            -48.70147535,
+            -26.90487018
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 51,
+      "nome": "R.Sombrio",
+      "cod": 35,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Jardim Rio Bonito I",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

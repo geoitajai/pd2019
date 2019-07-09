@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50de",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.71178141,
+            -26.94246302
+          ],
+          [
+            -48.71188049,
+            -26.94506585
+          ],
+          [
+            -48.71189991,
+            -26.94547281
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1348,
+      "nome": "R.Chrispim Evaristo",
+      "cod": 1469,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2614/1991",
+      "hierarquia": null,
+      "bairro": "Rio do Meio",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "nov/11",
+      "loteamnome": "Jardim Residencial São Pedro",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

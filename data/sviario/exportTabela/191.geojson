@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ccb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67592656,
+            -26.8996955
+          ],
+          [
+            -48.67519831,
+            -26.89910984
+          ]
+        ],
+        [
+          [
+            -48.67533946,
+            -26.89896626
+          ],
+          [
+            -48.67519831,
+            -26.89910984
+          ]
+        ],
+        [
+          [
+            -48.67519831,
+            -26.89910984
+          ],
+          [
+            -48.67485139,
+            -26.89882916
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1658,
+      "nome": "Serv.Nilo Prazeres",
+      "cod": 191,
+      "ptotalvia": 4,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

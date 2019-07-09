@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4694",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68046051,
+            -26.9007699
+          ],
+          [
+            -48.68046939,
+            -26.901493
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 209,
+      "nome": "R.Albano Eicholtz",
+      "cod": 201,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1873/1981",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

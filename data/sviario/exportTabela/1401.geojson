@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b62",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.76526484,
+            -26.89603015
+          ],
+          [
+            -48.76529353,
+            -26.89673869
+          ],
+          [
+            -48.76505428,
+            -26.8967466
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1282,
+      "nome": "R.Pedro Norberto Rosa",
+      "cod": 1401,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5259/2009",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "R.Pedro N.Rosa",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

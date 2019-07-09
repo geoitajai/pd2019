@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5092",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68745332,
+            -26.93551007
+          ],
+          [
+            -48.68631205,
+            -26.93548376
+          ],
+          [
+            -48.68583325,
+            -26.93547499
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 792,
+      "nome": "R.Emanuel dos Santos",
+      "cod": 887,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Carvalho",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Santa Terezinha",
+      "nomeloteamento": "Rua \"K\""
+    }
+  }
+]

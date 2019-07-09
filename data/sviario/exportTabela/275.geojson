@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47f8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65950225,
+            -26.9061978
+          ],
+          [
+            -48.6598731,
+            -26.90536153
+          ],
+          [
+            -48.66022007,
+            -26.90447549
+          ],
+          [
+            -48.6608546,
+            -26.90294767
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 280,
+      "nome": "R.Cônego Tomaz Fontes",
+      "cod": 275,
+      "ptotalvia": 13.2,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "-",
+      "hierarquia": "arterial",
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

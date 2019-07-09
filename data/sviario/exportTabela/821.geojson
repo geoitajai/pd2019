@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cc4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64203734,
+            -26.94444161
+          ],
+          [
+            -48.64010186,
+            -26.94470406
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1646,
+      "nome": "R.Inácio Rogério Kuster Nunes",
+      "cod": 821,
+      "ptotalvia": 8.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2799/1993",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

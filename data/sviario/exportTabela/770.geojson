@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_498a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.636438,
+            -26.92928316
+          ],
+          [
+            -48.63606872,
+            -26.92985769
+          ],
+          [
+            -48.63594014,
+            -26.93003113
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 731,
+      "nome": "R.Aurora Cabral dos Santos",
+      "cod": 770,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2673/1991",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": "R.Aurora C.dos Sto.",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Vila Mar",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

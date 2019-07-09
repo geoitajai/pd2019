@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49b3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63707105,
+            -26.92980347
+          ],
+          [
+            -48.63669096,
+            -26.93034197
+          ],
+          [
+            -48.63657548,
+            -26.93051929
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 730,
+      "nome": "R.José Pedro Teixeira",
+      "cod": 769,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4220/2004",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": "R.José P.Teixeira",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Vila Mar",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

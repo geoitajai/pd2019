@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a26",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70199574,
+            -26.92813714
+          ],
+          [
+            -48.70278826,
+            -26.92879633
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 912,
+      "nome": "R.Olivia Benedita Batistoti",
+      "cod": 1011,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4130/2004",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.Olivia B.Batistoti",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Avelino Werner, Avelino Werner II",
+      "nomeloteamento": "Rua \"23\""
+    }
+  }
+]

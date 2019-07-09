@@ -1,0 +1,126 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4adb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.71778175,
+            -26.89486953
+          ],
+          [
+            -48.71104794,
+            -26.89392842
+          ],
+          [
+            -48.70916629,
+            -26.89366419
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1078,
+      "nome": "R.Rosa Orsi Dalcóquio",
+      "cod": 1182,
+      "ptotalvia": 15,
+      "ppasseio1": 4,
+      "ppasseio2": 4,
+      "leidata": "2870/1993",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d8c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7084589,
+            -26.89354935
+          ],
+          [
+            -48.70695233,
+            -26.89315431
+          ],
+          [
+            -48.70648818,
+            -26.8930326
+          ],
+          [
+            -48.70607152,
+            -26.89305241
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1750,
+      "nome": "R.Rosa Orsi Dalcóquio",
+      "cod": 1182,
+      "ptotalvia": 15,
+      "ppasseio1": 4,
+      "ppasseio2": 4,
+      "leidata": "2870/1993",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d8d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70916629,
+            -26.89366419
+          ],
+          [
+            -48.70858621,
+            -26.89358273
+          ],
+          [
+            -48.7084589,
+            -26.89354935
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1751,
+      "nome": "R.Rosa Orsi Dalcóquio",
+      "cod": 1182,
+      "ptotalvia": 15,
+      "ppasseio1": 4,
+      "ppasseio2": 4,
+      "leidata": "2870/1993",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Celeste Girardi",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

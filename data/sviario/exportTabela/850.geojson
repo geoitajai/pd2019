@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ceb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67015915,
+            -26.92013387
+          ],
+          [
+            -48.66997669,
+            -26.92013152
+          ],
+          [
+            -48.67007091,
+            -26.92081806
+          ],
+          [
+            -48.6701365,
+            -26.92117187
+          ],
+          [
+            -48.67018897,
+            -26.92147013
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 755,
+      "nome": "R.Wilson Cordeiro",
+      "cod": 850,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3676/2001",
+      "hierarquia": null,
+      "bairro": "Nossa Senhora das Graças",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b24",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72865886,
+            -26.87546795
+          ],
+          [
+            -48.72791782,
+            -26.87513601
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1200,
+      "nome": "R.José Montagna",
+      "cod": 1348,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4720/2007",
+      "hierarquia": null,
+      "bairro": "Salseiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

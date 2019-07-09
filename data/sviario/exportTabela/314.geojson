@@ -1,0 +1,146 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_43fb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66783912,
+            -26.90760598
+          ],
+          [
+            -48.66726623,
+            -26.9076681
+          ],
+          [
+            -48.66665946,
+            -26.90769993
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 32,
+      "nome": "R.Alfredo Trompowisky",
+      "cod": 314,
+      "ptotalvia": 15,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c11",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66925544,
+            -26.90749861
+          ],
+          [
+            -48.66875654,
+            -26.9075433
+          ],
+          [
+            -48.66844766,
+            -26.9075777
+          ],
+          [
+            -48.66783912,
+            -26.90760598
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1458,
+      "nome": "R.Alfredo Trompowisky",
+      "cod": 314,
+      "ptotalvia": 15,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d21",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67369063,
+            -26.90707101
+          ],
+          [
+            -48.6727391,
+            -26.90717476
+          ],
+          [
+            -48.6717873,
+            -26.90726494
+          ],
+          [
+            -48.67066893,
+            -26.90736043
+          ],
+          [
+            -48.67027604,
+            -26.90739644
+          ],
+          [
+            -48.66996652,
+            -26.9074248
+          ],
+          [
+            -48.66963979,
+            -26.90746203
+          ],
+          [
+            -48.66925544,
+            -26.90749861
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 319,
+      "nome": "R.Alfredo Trompowisky",
+      "cod": 314,
+      "ptotalvia": 15,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

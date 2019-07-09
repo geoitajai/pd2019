@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49ed",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7036866,
+            -26.9217601
+          ],
+          [
+            -48.70288025,
+            -26.92110291
+          ],
+          [
+            -48.70254368,
+            -26.92062836
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 840,
+      "nome": "R.Roberto Manoel Tomás",
+      "cod": 938,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2814/1993",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Jardim Dona Mariquinha, Promorar II",
+      "nomeloteamento": "Rua \"8\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e22",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70254368,
+            -26.92062836
+          ],
+          [
+            -48.70134504,
+            -26.91893834
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1774,
+      "nome": "R.Roberto Manoel Tomás",
+      "cod": 938,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2814/1993",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Jardim Verde Mar",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

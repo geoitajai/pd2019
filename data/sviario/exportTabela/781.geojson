@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_497d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63251349,
+            -26.95509359
+          ],
+          [
+            -48.63162326,
+            -26.9552038
+          ],
+          [
+            -48.6297173,
+            -26.95542367
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 743,
+      "nome": "R.Doca Rebello",
+      "cod": 781,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3038/1995",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Paver",
+      "anopavtoin": "jul/14",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

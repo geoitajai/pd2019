@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4aa6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69504689,
+            -26.89011212
+          ],
+          [
+            -48.6946785,
+            -26.8901165
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1047,
+      "nome": "Trav.Rubi",
+      "cod": 1152,
+      "ptotalvia": 7.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "Trav.Rubi",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Ana Lúcia, Parque Residencial Lar Brasileiro",
+      "nomeloteamento": "Rua \"I\""
+    }
+  }
+]

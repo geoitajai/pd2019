@@ -1,0 +1,530 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_43d2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70067633,
+            -26.88108872
+          ],
+          [
+            -48.70031836,
+            -26.88110739
+          ],
+          [
+            -48.69998411,
+            -26.88113223
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2076,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Cleide",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a62",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70222776,
+            -26.88102148
+          ],
+          [
+            -48.70193102,
+            -26.88103328
+          ],
+          [
+            -48.70165552,
+            -26.88104088
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2151,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Parque Residencial Luciana",
+      "nomeloteamento": "Rua \"E\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a63",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70165552,
+            -26.88104088
+          ],
+          [
+            -48.70152464,
+            -26.8810445
+          ],
+          [
+            -48.70067633,
+            -26.88108872
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2152,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a76",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70568688,
+            -26.88085973
+          ],
+          [
+            -48.70481454,
+            -26.88090165
+          ],
+          [
+            -48.70456455,
+            -26.88091442
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1003,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": ""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b2a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69998411,
+            -26.88113223
+          ],
+          [
+            -48.69935492,
+            -26.881179
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2077,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b2c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69935492,
+            -26.881179
+          ],
+          [
+            -48.69909839,
+            -26.88119807
+          ],
+          [
+            -48.69852995,
+            -26.88123902
+          ],
+          [
+            -48.69829158,
+            -26.88125519
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2159,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Juliete",
+      "nomeloteamento": "Rua \"E\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b5c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70390472,
+            -26.88094633
+          ],
+          [
+            -48.70285073,
+            -26.88099457
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2167,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Esperança",
+      "nomeloteamento": "Rua \"E\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b5e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70285073,
+            -26.88099457
+          ],
+          [
+            -48.70249485,
+            -26.88101086
+          ],
+          [
+            -48.70222776,
+            -26.88102148
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2168,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": ""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c53",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69399208,
+            -26.88135169
+          ],
+          [
+            -48.69333248,
+            -26.88138186
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1506,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Arnaldo Schimitt Cordeiros",
+      "nomeloteamento": "Travessa \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ccc",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70456455,
+            -26.88091442
+          ],
+          [
+            -48.70424172,
+            -26.8809309
+          ],
+          [
+            -48.70390472,
+            -26.88094633
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2201,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Esperança",
+      "nomeloteamento": "Rua\"E\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5058",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69664196,
+            -26.88131402
+          ],
+          [
+            -48.69633297,
+            -26.88132129
+          ],
+          [
+            -48.69571684,
+            -26.88133993
+          ],
+          [
+            -48.69540432,
+            -26.88134255
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1920,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Cordeiros",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5059",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69540432,
+            -26.88134255
+          ],
+          [
+            -48.69536795,
+            -26.88134286
+          ],
+          [
+            -48.69513896,
+            -26.881318
+          ],
+          [
+            -48.69461752,
+            -26.88132385
+          ],
+          [
+            -48.69399208,
+            -26.88135169
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1921,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50c6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69829158,
+            -26.88125519
+          ],
+          [
+            -48.69800778,
+            -26.88127444
+          ],
+          [
+            -48.69746849,
+            -26.88129459
+          ],
+          [
+            -48.69664196,
+            -26.88131402
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2023,
+      "nome": "R.Eurípedes Amorim Leal",
+      "cod": 1108,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": "coletora",
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Eurípedes A.Leal",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Progresso I",
+      "nomeloteamento": "Rua \"E\""
+    }
+  }
+]

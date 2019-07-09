@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4896",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66982734,
+            -26.88268052
+          ],
+          [
+            -48.66910594,
+            -26.88342011
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 466,
+      "nome": "R.Aucineia Pereira de Souza",
+      "cod": 480,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3675/2001",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "R.Aucineia P.de Souza",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c6f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65033019,
+            -26.9260194
+          ],
+          [
+            -48.64977627,
+            -26.92650445
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 676,
+      "nome": "R.Ver.Luiz Soares",
+      "cod": 714,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2408/1988",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Wecam, Jardim Flamboyant, Ida Rebelo",
+      "nomeloteamento": "Rua \"2\""
+    }
+  }
+]

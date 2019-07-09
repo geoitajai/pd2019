@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49c3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69573686,
+            -26.91544236
+          ],
+          [
+            -48.69541373,
+            -26.91545892
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 809,
+      "nome": "R.Sidney Schulze",
+      "cod": 904,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2279/1987",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Pacheco",
+      "nomeloteamento": "Rua \"G\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_510a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69541373,
+            -26.91545892
+          ],
+          [
+            -48.69341714,
+            -26.91556121
+          ],
+          [
+            -48.69228643,
+            -26.91562074
+          ],
+          [
+            -48.69093118,
+            -26.91568105
+          ],
+          [
+            -48.68889337,
+            -26.91578395
+          ],
+          [
+            -48.68547096,
+            -26.9159414
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2047,
+      "nome": "R.Sidney Schulze",
+      "cod": 904,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2279/1987",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

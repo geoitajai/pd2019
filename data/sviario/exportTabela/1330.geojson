@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ca9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.75135978,
+            -26.87360784
+          ],
+          [
+            -48.75109804,
+            -26.87362523
+          ],
+          [
+            -48.75057925,
+            -26.87364702
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1227,
+      "nome": "R.Sem denominação oficial",
+      "cod": 1330,
+      "ptotalvia": 12,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "São Domingos",
+      "nomeloteamento": "Rua\"C\""
+    }
+  }
+]

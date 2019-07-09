@@ -1,0 +1,94 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4891",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66884637,
+            -26.88321064
+          ],
+          [
+            -48.66910594,
+            -26.88342011
+          ],
+          [
+            -48.66952209,
+            -26.88373984
+          ],
+          [
+            -48.66996296,
+            -26.88410734
+          ],
+          [
+            -48.67036675,
+            -26.88445646
+          ],
+          [
+            -48.67080762,
+            -26.88483008
+          ],
+          [
+            -48.67117896,
+            -26.88515286
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 461,
+      "nome": "R.Mauricio Pacheco",
+      "cod": 475,
+      "ptotalvia": 20,
+      "ppasseio1": 4,
+      "ppasseio2": 4,
+      "leidata": "1210/1973",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Sem Pavimento)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4897",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67202814,
+            -26.88579023
+          ],
+          [
+            -48.67244084,
+            -26.88609255
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 467,
+      "nome": "R.Mauricio Pacheco",
+      "cod": 475,
+      "ptotalvia": 20,
+      "ppasseio1": 4,
+      "ppasseio2": 4,
+      "leidata": "1210/1973",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Sem Pavimento)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4beb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66779612,
+            -26.91698675
+          ],
+          [
+            -48.66724168,
+            -26.91734141
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1417,
+      "nome": "R.Lauro Coninck",
+      "cod": 1545,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "6718/2016",
+      "hierarquia": null,
+      "bairro": "Nossa Senhora das Graças",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

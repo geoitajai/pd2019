@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4456",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68735759,
+            -26.90006319
+          ],
+          [
+            -48.68772116,
+            -26.9000658
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 44,
+      "nome": "R.José Genoario Junkes",
+      "cod": 28,
+      "ptotalvia": 3.2,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5485/2010",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.José G.Junkes",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4979",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63313628,
+            -26.9307144
+          ],
+          [
+            -48.63302748,
+            -26.9311862
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 737,
+      "nome": "R.Antônio Belmiro Furtado",
+      "cod": 777,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "4111/2004",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": "R.An.to.B.Furtado",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_445b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68870951,
+            -26.90224543
+          ],
+          [
+            -48.68703871,
+            -26.90203429
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 45,
+      "nome": "R.Antônio Cyrilo Dutra",
+      "cod": 29,
+      "ptotalvia": 17,
+      "ppasseio1": 4,
+      "ppasseio2": 4,
+      "leidata": "1814/1980",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": "R.An.to.C.Dutra",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

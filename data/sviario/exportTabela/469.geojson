@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4889",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6754905,
+            -26.88711047
+          ],
+          [
+            -48.67504619,
+            -26.8874999
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 455,
+      "nome": "R.Rodrigo Fernandes da Rosa",
+      "cod": 469,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3583/2000",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "R.Rodrigo F.da Rosa",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

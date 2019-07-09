@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49af",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67870563,
+            -26.92524569
+          ],
+          [
+            -48.6785417,
+            -26.92554225
+          ],
+          [
+            -48.6783105,
+            -26.9256519
+          ],
+          [
+            -48.67798796,
+            -26.92576094
+          ],
+          [
+            -48.67736109,
+            -26.92610804
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 766,
+      "nome": "R.Thadeu Kock",
+      "cod": 861,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2417/1988",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e00",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67736109,
+            -26.92610804
+          ],
+          [
+            -48.67659174,
+            -26.92599691
+          ],
+          [
+            -48.67424967,
+            -26.92565452
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1762,
+      "nome": "R.Thadeu Kock",
+      "cod": 861,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2417/1988",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim das Palmeiras II",
+      "nomeloteamento": "Rua \"04\""
+    }
+  }
+]

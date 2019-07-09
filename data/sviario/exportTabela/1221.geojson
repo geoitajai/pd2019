@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4aca",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70304565,
+            -26.89801035
+          ],
+          [
+            -48.70208804,
+            -26.89804642
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1117,
+      "nome": "R.Mário Conceição de Oliveira",
+      "cod": 1221,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4165/2004",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Mário C.de Oliveira",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

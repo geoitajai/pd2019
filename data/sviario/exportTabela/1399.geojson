@@ -1,0 +1,68 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b61",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.76282189,
+            -26.89175614
+          ],
+          [
+            -48.76283905,
+            -26.89309959
+          ],
+          [
+            -48.76247797,
+            -26.89295339
+          ],
+          [
+            -48.76221488,
+            -26.89335453
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1280,
+      "nome": "R.Angela Cecilia Tolardo",
+      "cod": 1399,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3641/2001",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "R.Angela C.Tolardo",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/13",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b76",
+    "geometry": null,
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1281,
+      "nome": "R.Angela Cecilia Tolardo",
+      "cod": 1399,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3641/2001",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "R.Angela C.Tolardo",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/13",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

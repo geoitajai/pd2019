@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4933",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65090073,
+            -26.92109244
+          ],
+          [
+            -48.65034758,
+            -26.92130887
+          ],
+          [
+            -48.64951528,
+            -26.92166645
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 627,
+      "nome": "R.Pedro Camilo da Silva",
+      "cod": 665,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Fritz Schneider",
+      "nomeloteamento": "Rua Projetada"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5185",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64951528,
+            -26.92166645
+          ],
+          [
+            -48.65067445,
+            -26.92242079
+          ],
+          [
+            -48.65055634,
+            -26.9226951
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2064,
+      "nome": "R.Pedro Camilo da Silva",
+      "cod": 665,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

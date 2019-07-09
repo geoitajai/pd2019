@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4860",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68404544,
+            -26.88977512
+          ],
+          [
+            -48.68367661,
+            -26.8901359
+          ],
+          [
+            -48.68337521,
+            -26.89033043
+          ],
+          [
+            -48.68275546,
+            -26.890626
+          ],
+          [
+            -48.68224891,
+            -26.89089636
+          ],
+          [
+            -48.68172331,
+            -26.89115345
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 410,
+      "nome": "R.Exp.Aleixo Maba",
+      "cod": 423,
+      "ptotalvia": 11.5,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "87/1949",
+      "hierarquia": "arterial",
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jun/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

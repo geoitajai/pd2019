@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_497c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63245414,
+            -26.95560937
+          ],
+          [
+            -48.6316925,
+            -26.95569754
+          ],
+          [
+            -48.6296967,
+            -26.95594885
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 742,
+      "nome": "R.Carola Coelho",
+      "cod": 780,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3039/1995",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Paver",
+      "anopavtoin": "nov/13",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

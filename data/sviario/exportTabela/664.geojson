@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_491e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65058553,
+            -26.92044218
+          ],
+          [
+            -48.65104863,
+            -26.92023354
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 626,
+      "nome": "Serv.José Santana Filho",
+      "cod": 664,
+      "ptotalvia": 3.5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "1779/1980",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "Serv.José S.Filho",
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

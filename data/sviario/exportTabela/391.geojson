@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4840",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66859319,
+            -26.91476983
+          ],
+          [
+            -48.66774108,
+            -26.91582649
+          ],
+          [
+            -48.66718968,
+            -26.91651811
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 380,
+      "nome": "R.José Raimundo de Oliveira",
+      "cod": 391,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0807/1967",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.José R.de Oliveira",
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

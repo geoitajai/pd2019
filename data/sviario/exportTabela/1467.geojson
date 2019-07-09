@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b64",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.71090239,
+            -26.9345537
+          ],
+          [
+            -48.71035283,
+            -26.9367665
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1284,
+      "nome": "R.Francisco Pigoretti",
+      "cod": 1467,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2852/1993",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

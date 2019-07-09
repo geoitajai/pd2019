@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_46f6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67166034,
+            -26.89767633
+          ],
+          [
+            -48.67357728,
+            -26.89916383
+          ],
+          [
+            -48.67538095,
+            -26.90060686
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 223,
+      "nome": "R.Felício Maes",
+      "cod": 214,
+      "ptotalvia": 7,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0560/1963",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_491b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65838017,
+            -26.92175357
+          ],
+          [
+            -48.65809587,
+            -26.92151845
+          ],
+          [
+            -48.65783217,
+            -26.92128333
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 623,
+      "nome": "R.Esmerentina dos Santos Chaves",
+      "cod": 661,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3881/2003",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Esmerentinados S.Chaves",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

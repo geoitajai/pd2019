@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4676",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6737471,
+            -26.89710178
+          ],
+          [
+            -48.6743916,
+            -26.89763594
+          ],
+          [
+            -48.67726613,
+            -26.8999147
+          ],
+          [
+            -48.67744063,
+            -26.90004673
+          ],
+          [
+            -48.67753465,
+            -26.90013245
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 198,
+      "nome": "R.Manoel Mello",
+      "cod": 189,
+      "ptotalvia": 5.2,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2124/1984",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

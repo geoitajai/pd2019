@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cb8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64442091,
+            -26.95626787
+          ],
+          [
+            -48.64465995,
+            -26.95630804
+          ],
+          [
+            -48.64524245,
+            -26.95626885
+          ],
+          [
+            -48.64555951,
+            -26.95618352
+          ],
+          [
+            -48.64610896,
+            -26.95604004
+          ],
+          [
+            -48.6462693,
+            -26.95601591
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1599,
+      "nome": "R.Olímpio Manoel Cabral",
+      "cod": 789,
+      "ptotalvia": 7.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4852/2007",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Olímpio M.Cabral",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

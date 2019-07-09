@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47a9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68105391,
+            -26.90200248
+          ],
+          [
+            -48.68103541,
+            -26.90248582
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 221,
+      "nome": "R.José Pinto d'Amaral",
+      "cod": 212,
+      "ptotalvia": 10,
+      "ppasseio1": 1.7,
+      "ppasseio2": 1.7,
+      "leidata": "1211/1973",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.José P.d'Amaral",
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ff4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68103541,
+            -26.90248584
+          ],
+          [
+            -48.68098536,
+            -26.90268938
+          ],
+          [
+            -48.68067205,
+            -26.9038659
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1884,
+      "nome": "R.José Pinto d'Amaral",
+      "cod": 212,
+      "ptotalvia": 10,
+      "ppasseio1": 1.7,
+      "ppasseio2": 1.7,
+      "leidata": "1211/1973",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.José P.d'Amaral",
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "set/11",
+      "loteamnome": "São Miguel",
+      "nomeloteamento": "Travessa \"A\""
+    }
+  }
+]

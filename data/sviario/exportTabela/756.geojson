@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4971",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63657568,
+            -26.92708272
+          ],
+          [
+            -48.63601681,
+            -26.92794257
+          ],
+          [
+            -48.63553213,
+            -26.92853785
+          ],
+          [
+            -48.6353846,
+            -26.9287169
+          ],
+          [
+            -48.63536142,
+            -26.9288181
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 718,
+      "nome": "R.Dr.José Menescau do Monte",
+      "cod": 756,
+      "ptotalvia": 17,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "4478/2005",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": "R.Dr.José M.do Monte",
+      "pavto": "Misto (Asfalto/Paralelepípedo)",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

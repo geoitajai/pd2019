@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_481d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67001429,
+            -26.9138531
+          ],
+          [
+            -48.66864872,
+            -26.91483348
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 332,
+      "nome": "R.Karl Richard Breitenbauch",
+      "cod": 331,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1937/1982",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": "R.Karl R.Breitenbauch",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

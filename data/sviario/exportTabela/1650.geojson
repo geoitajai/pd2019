@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d44",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72946009,
+            -26.87336276
+          ],
+          [
+            -48.72964484,
+            -26.87634349
+          ],
+          [
+            -48.7288634,
+            -26.87640909
+          ],
+          [
+            -48.72908264,
+            -26.87945772
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1698,
+      "nome": "R.Antonio Victor Gonçalves",
+      "cod": 1650,
+      "ptotalvia": 0,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": "6104/2012",
+      "hierarquia": null,
+      "bairro": "Salseiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

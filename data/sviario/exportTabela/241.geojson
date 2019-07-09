@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47af",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67239044,
+            -26.90578072
+          ],
+          [
+            -48.67192579,
+            -26.90578853
+          ],
+          [
+            -48.6713053,
+            -26.90580364
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 250,
+      "nome": "R.Izaura Dalago",
+      "cod": 241,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Maria Bolsoni Oliveira",
+      "nomeloteamento": "\"Rua\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47b4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67192579,
+            -26.90578853
+          ],
+          [
+            -48.6717976,
+            -26.90646037
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 251,
+      "nome": "R.Izaura Dalago",
+      "cod": 241,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Maria Bolsoni Oliveira",
+      "nomeloteamento": "\"Rua\""
+    }
+  }
+]

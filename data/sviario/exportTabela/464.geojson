@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4884",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67823941,
+            -26.88580577
+          ],
+          [
+            -48.67722903,
+            -26.88702441
+          ],
+          [
+            -48.67699097,
+            -26.88727206
+          ],
+          [
+            -48.67649585,
+            -26.88731789
+          ],
+          [
+            -48.67582378,
+            -26.88738812
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 450,
+      "nome": "R.João Napoleão de Souza",
+      "cod": 464,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1210/1973",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

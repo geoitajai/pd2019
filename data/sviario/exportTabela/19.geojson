@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_442a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69383794,
+            -26.90288051
+          ],
+          [
+            -48.69253424,
+            -26.90270392
+          ],
+          [
+            -48.69222508,
+            -26.9027012
+          ],
+          [
+            -48.69062852,
+            -26.90275251
+          ],
+          [
+            -48.68873477,
+            -26.90280347
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 35,
+      "nome": "R.Alfredo Kleis",
+      "cod": 19,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1853/1981",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Operário",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

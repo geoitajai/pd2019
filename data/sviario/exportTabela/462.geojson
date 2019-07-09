@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48a6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67722903,
+            -26.88702441
+          ],
+          [
+            -48.67684996,
+            -26.88672879
+          ],
+          [
+            -48.67665402,
+            -26.88652463
+          ],
+          [
+            -48.67455725,
+            -26.8846986
+          ],
+          [
+            -48.6741672,
+            -26.88437193
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 448,
+      "nome": "R.Arnoldo Lopes Gonzaga",
+      "cod": 462,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1210/1973",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

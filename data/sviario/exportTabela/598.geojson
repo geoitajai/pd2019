@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ca6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6302946,
+            -26.95917134
+          ],
+          [
+            -48.62918578,
+            -26.95930927
+          ],
+          [
+            -48.62875727,
+            -26.95934232
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1593,
+      "nome": "R.Prát.Adolfinho Lindalvo Costa",
+      "cod": 598,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4389/2005",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Prát.Adolfinho L.Costa",
+      "pavto": "Lajota",
+      "anopavtoin": "abr/15",
+      "loteamnome": "Sociedade Camboriu de Hoteis",
+      "nomeloteamento": "Rua \"21\""
+    }
+  }
+]

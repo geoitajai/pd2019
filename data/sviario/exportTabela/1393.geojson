@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b69",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.76980417,
+            -26.89861005
+          ],
+          [
+            -48.76945228,
+            -26.89897244
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1274,
+      "nome": "R.Domingos Clarindo da Cunha",
+      "cod": 1393,
+      "ptotalvia": 11,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "5093/2008",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "R.Domingos C.da Cunha",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

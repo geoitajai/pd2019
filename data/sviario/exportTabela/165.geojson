@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4610",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68002734,
+            -26.8946673
+          ],
+          [
+            -48.68000884,
+            -26.89419335
+          ],
+          [
+            -48.67997889,
+            -26.89414827
+          ],
+          [
+            -48.67992423,
+            -26.89406602
+          ],
+          [
+            -48.67746116,
+            -26.89414388
+          ],
+          [
+            -48.676099,
+            -26.89419077
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 175,
+      "nome": "R.Jassão dos Santos",
+      "cod": 165,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0831/1967",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c17",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.676099,
+            -26.89419077
+          ],
+          [
+            -48.674996,
+            -26.89422872
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2186,
+      "nome": "R.Jassão dos Santos",
+      "cod": 165,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0831/1967",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Jardim Independência",
+      "nomeloteamento": "Travessa \"C\""
+    }
+  }
+]

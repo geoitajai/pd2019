@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48e9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65809754,
+            -26.91746041
+          ],
+          [
+            -48.65722615,
+            -26.91676633
+          ],
+          [
+            -48.65694048,
+            -26.91650425
+          ],
+          [
+            -48.65605799,
+            -26.91580197
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 576,
+      "nome": "R.Luiz de Gregório",
+      "cod": 611,
+      "ptotalvia": 7,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1152/1972",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

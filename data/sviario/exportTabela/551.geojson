@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f8d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67351086,
+            -26.91672244
+          ],
+          [
+            -48.67367991,
+            -26.91946185
+          ],
+          [
+            -48.67371121,
+            -26.92006061
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 536,
+      "nome": "R.Guilherme Albani",
+      "cod": 551,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0903/1968",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Jardim Dom Bosco",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fac",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67371121,
+            -26.92006061
+          ],
+          [
+            -48.67377476,
+            -26.92183935
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1853,
+      "nome": "R.Guilherme Albani",
+      "cod": 551,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0903/1968",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Jardim Ferroviário, José Bonifácio Schmitt",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

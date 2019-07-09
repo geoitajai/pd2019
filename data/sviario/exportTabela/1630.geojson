@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d09",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69212869,
+            -26.92032134
+          ],
+          [
+            -48.69227113,
+            -26.92093618
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1678,
+      "nome": "Serv.Dilcéa Faria Pereira Façanha",
+      "cod": 1630,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6203/2012",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "Serv.Dilcéa F.P.Façanha",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

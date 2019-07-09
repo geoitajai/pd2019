@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48f4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63217757,
+            -26.95626266
+          ],
+          [
+            -48.63207456,
+            -26.95688333
+          ],
+          [
+            -48.63198391,
+            -26.95740484
+          ],
+          [
+            -48.6318191,
+            -26.95806223
+          ],
+          [
+            -48.63142355,
+            -26.95863883
+          ],
+          [
+            -48.63117222,
+            -26.95893997
+          ],
+          [
+            -48.6308838,
+            -26.95911258
+          ],
+          [
+            -48.63053357,
+            -26.95921174
+          ],
+          [
+            -48.6302946,
+            -26.95917134
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 571,
+      "nome": "R.Octacílio da Silva Costa",
+      "cod": 588,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3041/1995",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Sociedade Camboriu de Hoteis",
+      "nomeloteamento": "Rua \"20\""
+    }
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4485",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69231435,
+            -26.90765386
+          ],
+          [
+            -48.69231249,
+            -26.90738809
+          ],
+          [
+            -48.69229716,
+            -26.90711282
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2083,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Ipiranga",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_448a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69229716,
+            -26.90711282
+          ],
+          [
+            -48.69229568,
+            -26.90708626
+          ],
+          [
+            -48.69229094,
+            -26.90687494
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2084,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4816",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69233402,
+            -26.9092247
+          ],
+          [
+            -48.69233144,
+            -26.90901722
+          ],
+          [
+            -48.69233127,
+            -26.90897901
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2094,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4822",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69234047,
+            -26.90972254
+          ],
+          [
+            -48.69233724,
+            -26.90948222
+          ],
+          [
+            -48.69233402,
+            -26.9092247
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2095,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Paraíso",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_485b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69233005,
+            -26.90870286
+          ],
+          [
+            -48.69232978,
+            -26.90864284
+          ],
+          [
+            -48.69231656,
+            -26.90796909
+          ],
+          [
+            -48.69231435,
+            -26.90765386
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2102,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_485d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69233127,
+            -26.90897901
+          ],
+          [
+            -48.69233005,
+            -26.90870286
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2103,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Santo Antônio",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bc1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69222254,
+            -26.89968522
+          ],
+          [
+            -48.69221201,
+            -26.89940343
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2180,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Katia",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e3a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69224405,
+            -26.90380877
+          ],
+          [
+            -48.69223179,
+            -26.90323951
+          ],
+          [
+            -48.69222508,
+            -26.9027012
+          ],
+          [
+            -48.69222046,
+            -26.90219063
+          ],
+          [
+            -48.69222373,
+            -26.90189405
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1781,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Operário",
+      "nomeloteamento": "Rua \"F\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e40",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69237112,
+            -26.91301159
+          ],
+          [
+            -48.69236344,
+            -26.91138569
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 9,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e4e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69222373,
+            -26.90189405
+          ],
+          [
+            -48.6922267,
+            -26.90162326
+          ],
+          [
+            -48.69222254,
+            -26.90115593
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1780,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Acaraí",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f57",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69228065,
+            -26.90623416
+          ],
+          [
+            -48.69227774,
+            -26.90592806
+          ],
+          [
+            -48.69224405,
+            -26.90380877
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1844,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f5a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69229094,
+            -26.90687494
+          ],
+          [
+            -48.69228364,
+            -26.90654946
+          ],
+          [
+            -48.69228065,
+            -26.90623416
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1845,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim São Vicente",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fc4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69236344,
+            -26.91138569
+          ],
+          [
+            -48.69236197,
+            -26.91107473
+          ],
+          [
+            -48.69234709,
+            -26.91046111
+          ],
+          [
+            -48.69234333,
+            -26.90994913
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1869,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jaí-Açú",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fd7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69234333,
+            -26.90994913
+          ],
+          [
+            -48.69234311,
+            -26.90991889
+          ],
+          [
+            -48.69234047,
+            -26.90972254
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1868,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50d6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69222254,
+            -26.90115593
+          ],
+          [
+            -48.69222227,
+            -26.90112536
+          ],
+          [
+            -48.69223589,
+            -26.90004286
+          ],
+          [
+            -48.69222254,
+            -26.89968522
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2025,
+      "nome": "R.Antônio Ayres dos Santos",
+      "cod": 10,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

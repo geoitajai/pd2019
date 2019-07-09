@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44f5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68673427,
+            -26.89588839
+          ],
+          [
+            -48.68666978,
+            -26.89783929
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 92,
+      "nome": "R.Anastácio Antônio Nascimento",
+      "cod": 74,
+      "ptotalvia": 5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2063/1983",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.Anastácio A.Nascimento",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

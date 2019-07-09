@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b19",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72027921,
+            -26.88234184
+          ],
+          [
+            -48.71968837,
+            -26.8823753
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1175,
+      "nome": "R.Nelson Bittencourt",
+      "cod": 1286,
+      "ptotalvia": 20,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Salseiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Guilhermo",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

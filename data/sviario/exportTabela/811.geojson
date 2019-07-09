@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ce2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64421904,
+            -26.94784588
+          ],
+          [
+            -48.64404663,
+            -26.94800229
+          ],
+          [
+            -48.64389313,
+            -26.94819005
+          ],
+          [
+            -48.64368737,
+            -26.94837668
+          ],
+          [
+            -48.64348282,
+            -26.94853379
+          ],
+          [
+            -48.64335848,
+            -26.94866589
+          ],
+          [
+            -48.6431992,
+            -26.94892901
+          ],
+          [
+            -48.64312109,
+            -26.94915966
+          ],
+          [
+            -48.64312604,
+            -26.94970631
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1636,
+      "nome": "R.Bruno França",
+      "cod": 811,
+      "ptotalvia": 7.2,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "5141/2008",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

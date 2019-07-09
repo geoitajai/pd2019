@@ -1,0 +1,126 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48b3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70935995,
+            -26.91053568
+          ],
+          [
+            -48.70877332,
+            -26.91078678
+          ],
+          [
+            -48.70845692,
+            -26.91093636
+          ],
+          [
+            -48.70760418,
+            -26.91127565
+          ],
+          [
+            -48.70748152,
+            -26.91132508
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1181,
+      "nome": "R.Leopoldo Cristiano de Miranda",
+      "cod": 1293,
+      "ptotalvia": 20,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "5253/2009",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48d0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7063035,
+            -26.91179984
+          ],
+          [
+            -48.70527291,
+            -26.91221517
+          ],
+          [
+            -48.70430671,
+            -26.91263693
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2115,
+      "nome": "R.Leopoldo Cristiano de Miranda",
+      "cod": 1293,
+      "ptotalvia": 20,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "5253/2009",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4915",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70748152,
+            -26.91132508
+          ],
+          [
+            -48.7063035,
+            -26.91179984
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2116,
+      "nome": "R.Leopoldo Cristiano de Miranda",
+      "cod": 1293,
+      "ptotalvia": 20,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "5253/2009",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

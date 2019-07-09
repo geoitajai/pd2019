@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4914",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68165771,
+            -26.91997191
+          ],
+          [
+            -48.68008412,
+            -26.92005318
+          ],
+          [
+            -48.6780843,
+            -26.92012411
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 553,
+      "nome": "R.Esperidião Graciliano da Silva",
+      "cod": 574,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3554/2000",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Jardim Parque Luciene",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

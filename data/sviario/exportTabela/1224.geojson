@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4acd",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70192079,
+            -26.89513047
+          ],
+          [
+            -48.70247076,
+            -26.89509256
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1120,
+      "nome": "Serv.Alcides Calixto Gonçalves Junior",
+      "cod": 1224,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5684/2011",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "Serv.Alcides C.G.Jr.",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

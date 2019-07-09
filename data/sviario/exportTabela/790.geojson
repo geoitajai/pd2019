@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cb4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64326362,
+            -26.95505116
+          ],
+          [
+            -48.64325537,
+            -26.95557135
+          ],
+          [
+            -48.64318284,
+            -26.95559682
+          ],
+          [
+            -48.64320284,
+            -26.95571261
+          ],
+          [
+            -48.64313981,
+            -26.95571657
+          ],
+          [
+            -48.64313228,
+            -26.95579865
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1619,
+      "nome": "R.Mário Olímpio Cabral",
+      "cod": 790,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5487/2010",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Mário O.Cabral",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4826",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66674669,
+            -26.91108732
+          ],
+          [
+            -48.66652724,
+            -26.9113278
+          ],
+          [
+            -48.66645468,
+            -26.91137076
+          ],
+          [
+            -48.6660762,
+            -26.9117616
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 344,
+      "nome": "Serv.Rosa Marcelina Silva",
+      "cod": 345,
+      "ptotalvia": 4,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2093/1984",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "Serv.Rosa M.Silva",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

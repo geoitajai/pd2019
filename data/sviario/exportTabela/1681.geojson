@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d7c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69680269,
+            -26.87809306
+          ],
+          [
+            -48.69720447,
+            -26.87806192
+          ],
+          [
+            -48.69726642,
+            -26.87805409
+          ],
+          [
+            -48.69729521,
+            -26.87803688
+          ],
+          [
+            -48.69731667,
+            -26.87802567
+          ],
+          [
+            -48.6975751,
+            -26.87800438
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1732,
+      "nome": "Serv.Servidão",
+      "cod": 1681,
+      "ptotalvia": 0,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

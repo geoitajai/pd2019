@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b98",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7375854,
+            -26.94595007
+          ],
+          [
+            -48.73764781,
+            -26.94663067
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1326,
+      "nome": "Serv.Adelino Francisco Mafra",
+      "cod": 1446,
+      "ptotalvia": 4,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3697/2002",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "Serv.Adelino F.Mafra",
+      "pavto": "Misto (Lajota/Sem Pavimento)",
+      "anopavtoin": "dez/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

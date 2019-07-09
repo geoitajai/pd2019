@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4954",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64793029,
+            -26.92664519
+          ],
+          [
+            -48.64905131,
+            -26.92783282
+          ],
+          [
+            -48.6494074,
+            -26.92821497
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 673,
+      "nome": "R.Osvaldo Bertemes",
+      "cod": 711,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3145/1996",
+      "hierarquia": null,
+      "bairro": "Fazendinha",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Champagnat",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

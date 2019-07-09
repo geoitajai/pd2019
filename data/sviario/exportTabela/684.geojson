@@ -1,0 +1,218 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4955",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65326314,
+            -26.92115578
+          ],
+          [
+            -48.65441933,
+            -26.92157462
+          ],
+          [
+            -48.65454286,
+            -26.92150149
+          ],
+          [
+            -48.65573313,
+            -26.92252161
+          ],
+          [
+            -48.65555509,
+            -26.92305959
+          ],
+          [
+            -48.65543639,
+            -26.92361814
+          ],
+          [
+            -48.6551924,
+            -26.92434426
+          ],
+          [
+            -48.65509045,
+            -26.92463572
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 646,
+      "nome": "R.José Gopertino Chaves",
+      "cod": 684,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1214/1973",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Jardim Itajaí Segundo",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e7f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65509045,
+            -26.92463572
+          ],
+          [
+            -48.65498468,
+            -26.92493809
+          ],
+          [
+            -48.65487952,
+            -26.92522083
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1795,
+      "nome": "R.José Gopertino Chaves",
+      "cod": 684,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1214/1973",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Jardim Itajaí",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4edf",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65487952,
+            -26.92522083
+          ],
+          [
+            -48.65487407,
+            -26.92523548
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1798,
+      "nome": "R.José Gopertino Chaves",
+      "cod": 684,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1214/1973",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5081",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65487407,
+            -26.92523548
+          ],
+          [
+            -48.65477037,
+            -26.92551428
+          ],
+          [
+            -48.65467126,
+            -26.92580699
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1960,
+      "nome": "R.José Gopertino Chaves",
+      "cod": 684,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1214/1973",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Bruno II e Bruno III",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5082",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65467126,
+            -26.92580699
+          ],
+          [
+            -48.65466486,
+            -26.92582589
+          ],
+          [
+            -48.65446044,
+            -26.92601991
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1961,
+      "nome": "R.José Gopertino Chaves",
+      "cod": 684,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1214/1973",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

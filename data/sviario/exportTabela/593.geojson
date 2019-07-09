@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fa3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63057065,
+            -26.9582985
+          ],
+          [
+            -48.6299842,
+            -26.9581516
+          ],
+          [
+            -48.62920135,
+            -26.95793125
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1608,
+      "nome": "R.Martim Pescador",
+      "cod": 593,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2809/1993",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Jardim Ariribá",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

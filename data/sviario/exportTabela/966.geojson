@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ebe",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69312337,
+            -26.92506426
+          ],
+          [
+            -48.69353091,
+            -26.92566784
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 867,
+      "nome": "R.Estevão José Grimes",
+      "cod": 966,
+      "ptotalvia": 11,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3128/1996",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.Estevão J.Grimes",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Padre Schmitt",
+      "nomeloteamento": "Rua \"16\""
+    }
+  }
+]

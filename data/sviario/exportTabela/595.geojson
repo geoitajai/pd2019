@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ca7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63198391,
+            -26.95740484
+          ],
+          [
+            -48.63094972,
+            -26.95715755
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1610,
+      "nome": "R.Miguel Francisco Borges",
+      "cod": 595,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3040/1995",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Miguel F.Borges",
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Sociedade Camboriu de Hoteis",
+      "nomeloteamento": "Travessa \"9\""
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cf1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68181676,
+            -26.89411142
+          ],
+          [
+            -48.68093073,
+            -26.89413967
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1672,
+      "nome": "Serv.José Pereira Liberato",
+      "cod": 1625,
+      "ptotalvia": 0,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "Serv.José P.Liberato",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

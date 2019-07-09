@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c81",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.71370095,
+            -26.98787608
+          ],
+          [
+            -48.71575669,
+            -26.98855411
+          ],
+          [
+            -48.71605554,
+            -26.98834451
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1548,
+      "nome": "Serv.Aloysius Wloch",
+      "cod": 1578,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4679/2006",
+      "hierarquia": null,
+      "bairro": "Rio do Meio",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

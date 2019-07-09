@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4841",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66641531,
+            -26.9092135
+          ],
+          [
+            -48.66624234,
+            -26.90937613
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 345,
+      "nome": "Trav.Zozimo José Peixoto",
+      "cod": 346,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "0809/1967",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a8d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66624234,
+            -26.90937613
+          ],
+          [
+            -48.66603342,
+            -26.90957256
+          ],
+          [
+            -48.66501864,
+            -26.91055452
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2153,
+      "nome": "Trav.Zozimo José Peixoto",
+      "cod": 346,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "0809/1967",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Zozimo Peixoto",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

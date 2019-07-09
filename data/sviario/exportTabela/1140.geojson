@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ab1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6957712,
+            -26.88467634
+          ],
+          [
+            -48.6957319,
+            -26.88483731
+          ],
+          [
+            -48.69589423,
+            -26.88801385
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1035,
+      "nome": "R.Profª.Yolanda Pinto Cabral",
+      "cod": 1140,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1888/1981",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Parque Residencial Lar Brasileiro",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_507c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69589423,
+            -26.88801387
+          ],
+          [
+            -48.69536787,
+            -26.88804018
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1955,
+      "nome": "R.Profª.Yolanda Pinto Cabral",
+      "cod": 1140,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1888/1981",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Parque Residencial Lar Brasileiro",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

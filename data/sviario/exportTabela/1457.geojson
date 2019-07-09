@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ba3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74770559,
+            -26.94634754
+          ],
+          [
+            -48.74774909,
+            -26.94728907
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1337,
+      "nome": "R.José Carlos da Silva",
+      "cod": 1457,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2918/1994",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "R.José C.da Silva",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

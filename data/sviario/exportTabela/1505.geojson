@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bcf",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.79604122,
+            -26.97851044
+          ],
+          [
+            -48.79611888,
+            -26.97936508
+          ],
+          [
+            -48.79614164,
+            -26.97964735
+          ],
+          [
+            -48.79610644,
+            -26.98016961
+          ],
+          [
+            -48.79608853,
+            -26.98031314
+          ],
+          [
+            -48.79599525,
+            -26.98041369
+          ],
+          [
+            -48.79570726,
+            -26.98063311
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1384,
+      "nome": "R.Arcângelo Bertholdi",
+      "cod": 1505,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4126/2004",
+      "hierarquia": null,
+      "bairro": "Brilhante",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

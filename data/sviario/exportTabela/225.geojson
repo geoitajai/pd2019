@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4727",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67028061,
+            -26.90213448
+          ],
+          [
+            -48.67008738,
+            -26.90236613
+          ],
+          [
+            -48.6701217,
+            -26.90268875
+          ],
+          [
+            -48.67036339,
+            -26.90398399
+          ],
+          [
+            -48.67040033,
+            -26.90426642
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 234,
+      "nome": "Trav.Esc.Julio Cesar Medeiros",
+      "cod": 225,
+      "ptotalvia": 10,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "340/1960",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": "Trav.Esc.Julio C.Medeiros",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4728",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67036339,
+            -26.90398399
+          ],
+          [
+            -48.67138311,
+            -26.90395231
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 235,
+      "nome": "Trav.Esc.Julio Cesar Medeiros",
+      "cod": 225,
+      "ptotalvia": 10,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "340/1960",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": "Trav.Esc.Julio C.Medeiros",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

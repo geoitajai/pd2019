@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4976",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63221246,
+            -26.9286458
+          ],
+          [
+            -48.63276254,
+            -26.92905376
+          ],
+          [
+            -48.63324722,
+            -26.92945502
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 727,
+      "nome": "R.Paulo Herbst",
+      "cod": 766,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4977",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63337086,
+            -26.92934478
+          ],
+          [
+            -48.6343535,
+            -26.93010491
+          ],
+          [
+            -48.63509206,
+            -26.93070165
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 728,
+      "nome": "R.Paulo Herbst",
+      "cod": 766,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_487c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67695607,
+            -26.89077935
+          ],
+          [
+            -48.67574134,
+            -26.88975228
+          ],
+          [
+            -48.67200429,
+            -26.88653321
+          ],
+          [
+            -48.67187451,
+            -26.88641523
+          ],
+          [
+            -48.67125225,
+            -26.88589194
+          ],
+          [
+            -48.67094647,
+            -26.88561184
+          ],
+          [
+            -48.67081424,
+            -26.88549391
+          ],
+          [
+            -48.67002914,
+            -26.88485263
+          ],
+          [
+            -48.66989691,
+            -26.8847347
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 440,
+      "nome": "R.Alfredo Eicke Júnior",
+      "cod": 454,
+      "ptotalvia": 18,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "1204/1973",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

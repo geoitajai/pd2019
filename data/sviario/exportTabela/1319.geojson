@@ -1,0 +1,130 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5023",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7490266,
+            -26.87931865
+          ],
+          [
+            -48.74920481,
+            -26.88152658
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1236,
+      "nome": "Av.Paulo Cantídio da Silva",
+      "cod": 1319,
+      "ptotalvia": 32,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "4660/2006",
+      "hierarquia": "coletora",
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Santa Regina 1",
+      "nomeloteamento": "Avenida \"1\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_502a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74828973,
+            -26.87046918
+          ],
+          [
+            -48.74843956,
+            -26.87231699
+          ],
+          [
+            -48.74869802,
+            -26.87535681
+          ],
+          [
+            -48.74888264,
+            -26.87756476
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1216,
+      "nome": "Av.Paulo Cantídio da Silva",
+      "cod": 1319,
+      "ptotalvia": 32,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "4660/2006",
+      "hierarquia": "coletora",
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Santa Regina 1",
+      "nomeloteamento": "Avenida \"1\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_502b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74920481,
+            -26.88152658
+          ],
+          [
+            -48.74951838,
+            -26.88516181
+          ],
+          [
+            -48.74952941,
+            -26.88542767
+          ],
+          [
+            -48.74945163,
+            -26.88578895
+          ],
+          [
+            -48.74928607,
+            -26.88643917
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1217,
+      "nome": "Av.Paulo Cantídio da Silva",
+      "cod": 1319,
+      "ptotalvia": 32,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "4660/2006",
+      "hierarquia": "coletora",
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Santa Regina 1",
+      "nomeloteamento": "Avenida \"1\""
+    }
+  }
+]

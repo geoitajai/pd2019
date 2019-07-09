@@ -1,0 +1,190 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a32",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70227971,
+            -26.87169456
+          ],
+          [
+            -48.70180804,
+            -26.87171716
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 937,
+      "nome": "R.Antônio Tironi",
+      "cod": 1025,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4925/2007",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.An.to.Tironi",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Vila Real",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a49",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69957495,
+            -26.87182912
+          ],
+          [
+            -48.69885127,
+            -26.87186446
+          ],
+          [
+            -48.69858343,
+            -26.87187803
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 938,
+      "nome": "R.Antônio Tironi",
+      "cod": 1025,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4925/2007",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.An.to.Tironi",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Itália",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a55",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7036417,
+            -26.87161549
+          ],
+          [
+            -48.70310386,
+            -26.87164182
+          ],
+          [
+            -48.70258355,
+            -26.87167384
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 928,
+      "nome": "R.Antônio Tironi",
+      "cod": 1025,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4925/2007",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.An.to.Tironi",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Parque Residencial União",
+      "nomeloteamento": "Rua Projetada \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5076",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69858343,
+            -26.87187803
+          ],
+          [
+            -48.69729136,
+            -26.87194346
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1926,
+      "nome": "R.Antônio Tironi",
+      "cod": 1025,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4925/2007",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.An.to.Tironi",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50c3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69729136,
+            -26.87194346
+          ],
+          [
+            -48.69663344,
+            -26.87197678
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2020,
+      "nome": "R.Antônio Tironi",
+      "cod": 1025,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4925/2007",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.An.to.Tironi",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Santa Rita",
+      "nomeloteamento": "Rua \"G\""
+    }
+  }
+]

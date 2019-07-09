@@ -1,0 +1,120 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44ec",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68375715,
+            -26.89355699
+          ],
+          [
+            -48.68312406,
+            -26.89414516
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 79,
+      "nome": "R.São Francisco do Sul",
+      "cod": 61,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "COHAB - Conj. habitacional popular nº2",
+      "nomeloteamento": "Rua \"R\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5158",
+    "geometry": null,
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2060,
+      "nome": "R.São Francisco do Sul",
+      "cod": 61,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5159",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68312406,
+            -26.89414516
+          ],
+          [
+            -48.6830203,
+            -26.89430231
+          ],
+          [
+            -48.68292045,
+            -26.89464104
+          ],
+          [
+            -48.68287542,
+            -26.8950304
+          ],
+          [
+            -48.68288717,
+            -26.8956712
+          ],
+          [
+            -48.68289602,
+            -26.89588577
+          ],
+          [
+            -48.68292567,
+            -26.8972717
+          ],
+          [
+            -48.68294003,
+            -26.89771518
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2061,
+      "nome": "R.São Francisco do Sul",
+      "cod": 61,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "COHAB - Conj. habitacional popular nº2",
+      "nomeloteamento": "Rua \"I\""
+    }
+  }
+]

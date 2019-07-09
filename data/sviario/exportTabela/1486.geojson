@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bbc",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.75742567,
+            -26.95819502
+          ],
+          [
+            -48.75623875,
+            -26.95825132
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1365,
+      "nome": "R.Vinicius Gilberto Merlo",
+      "cod": 1486,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4662/2006",
+      "hierarquia": null,
+      "bairro": "KM12",
+      "abrevlogr": "R.Vinicius G.Merlo",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

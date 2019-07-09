@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b92",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72872491,
+            -26.94157092
+          ],
+          [
+            -48.72879896,
+            -26.94242557
+          ],
+          [
+            -48.72905143,
+            -26.94389615
+          ],
+          [
+            -48.72923123,
+            -26.94433529
+          ],
+          [
+            -48.72929281,
+            -26.94486665
+          ],
+          [
+            -48.72936561,
+            -26.94593017
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1321,
+      "nome": "R.Augusto Cardoso Pereira",
+      "cod": 1441,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2539/1989",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

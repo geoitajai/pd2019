@@ -1,0 +1,118 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5063",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67455725,
+            -26.8846986
+          ],
+          [
+            -48.67420887,
+            -26.88504469
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 457,
+      "nome": "R.Ver.Nelson Augusto Souza Schiefler",
+      "cod": 471,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "3696/2002",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "R.Ver.Nelson A.S.Schiefler",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5065",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67420887,
+            -26.88504469
+          ],
+          [
+            -48.67401612,
+            -26.88523616
+          ],
+          [
+            -48.67370188,
+            -26.88554619
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1936,
+      "nome": "R.Ver.Nelson Augusto Souza Schiefler",
+      "cod": 471,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "3696/2002",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "R.Ver.Nelson A.S.Schiefler",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Jardim Eliana",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5066",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67370188,
+            -26.88554619
+          ],
+          [
+            -48.67365926,
+            -26.88558824
+          ],
+          [
+            -48.6730973,
+            -26.88614387
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1937,
+      "nome": "R.Ver.Nelson Augusto Souza Schiefler",
+      "cod": 471,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "3696/2002",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "R.Ver.Nelson A.S.Schiefler",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

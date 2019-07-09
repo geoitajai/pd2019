@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d59",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68579856,
+            -26.9017584
+          ],
+          [
+            -48.68258398,
+            -26.90192067
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1724,
+      "nome": "R.Sem denominação oficial",
+      "cod": 1674,
+      "ptotalvia": 6,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

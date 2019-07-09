@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cf7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68892195,
+            -26.89172137
+          ],
+          [
+            -48.68899851,
+            -26.89315513
+          ],
+          [
+            -48.68901104,
+            -26.89331827
+          ],
+          [
+            -48.68902644,
+            -26.89351871
+          ],
+          [
+            -48.6891076,
+            -26.89364316
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1017,
+      "nome": "R.Porto Velho",
+      "cod": 1122,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

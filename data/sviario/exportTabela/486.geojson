@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48bc",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67714852,
+            -26.91594044
+          ],
+          [
+            -48.67380716,
+            -26.91610598
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 472,
+      "nome": "R.Francisco de Paula Seara",
+      "cod": 486,
+      "ptotalvia": 11,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0129/1953",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Carlos de Paula Seara",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c29",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67380716,
+            -26.91610598
+          ],
+          [
+            -48.67180058,
+            -26.91619783
+          ],
+          [
+            -48.67102486,
+            -26.91622597
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1460,
+      "nome": "R.Francisco de Paula Seara",
+      "cod": 486,
+      "ptotalvia": 11,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0129/1953",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Carlos de Paula Seara",
+      "nomeloteamento": "-"
+    }
+  }
+]

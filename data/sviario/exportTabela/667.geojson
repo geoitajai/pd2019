@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_492e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64786716,
+            -26.92080679
+          ],
+          [
+            -48.64774356,
+            -26.92183544
+          ],
+          [
+            -48.64754853,
+            -26.92199219
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 629,
+      "nome": "R.Antônio Bonanomi",
+      "cod": 667,
+      "ptotalvia": 13.2,
+      "ppasseio1": 1.8,
+      "ppasseio2": 1.8,
+      "leidata": "1214/1973",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Conjunto Habitacional Cabeçudas",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a85",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70155045,
+            -26.87965256
+          ],
+          [
+            -48.70131867,
+            -26.87968957
+          ],
+          [
+            -48.70083096,
+            -26.87984304
+          ],
+          [
+            -48.70049788,
+            -26.87988155
+          ],
+          [
+            -48.70032337,
+            -26.87993183
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1008,
+      "nome": "R.Ver.Telêmaco de Oliveira",
+      "cod": 1095,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1830/1980",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50d4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70025728,
+            -26.87973451
+          ],
+          [
+            -48.70031836,
+            -26.88110739
+          ],
+          [
+            -48.70058072,
+            -26.88574069
+          ],
+          [
+            -48.70067583,
+            -26.8877794
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1994,
+      "nome": "R.Ver.Telêmaco de Oliveira",
+      "cod": 1095,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1830/1980",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Jardim Cleide",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

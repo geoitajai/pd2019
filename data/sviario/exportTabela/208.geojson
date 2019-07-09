@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47b9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68531471,
+            -26.90121198
+          ],
+          [
+            -48.68251252,
+            -26.90135019
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 217,
+      "nome": "R.Rio Araguaia",
+      "cod": 208,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim do Sol, Parque Ecológico São João, Rua Pedro Rangel  Prolongamento",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

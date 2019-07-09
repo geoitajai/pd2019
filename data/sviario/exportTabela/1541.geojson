@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d2d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7126538,
+            -26.99486636
+          ],
+          [
+            -48.71499912,
+            -26.995072
+          ],
+          [
+            -48.71570176,
+            -26.99536086
+          ],
+          [
+            -48.71634562,
+            -26.99559038
+          ],
+          [
+            -48.7168906,
+            -26.99580437
+          ],
+          [
+            -48.71715816,
+            -26.99586278
+          ],
+          [
+            -48.71752356,
+            -26.99592295
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1413,
+      "nome": "R.Eduardo Vicente de Mello",
+      "cod": 1541,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "5351/2009",
+      "hierarquia": null,
+      "bairro": "Rio do Meio",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

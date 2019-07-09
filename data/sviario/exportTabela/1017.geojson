@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d24",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69599825,
+            -26.92771263
+          ],
+          [
+            -48.69678718,
+            -26.92838123
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 918,
+      "nome": "R.Francisco Delvan",
+      "cod": 1017,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3025/1995",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Dona Mariquinha, Promorar II",
+      "nomeloteamento": "Rua \"23\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50cf",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69678718,
+            -26.92838123
+          ],
+          [
+            -48.69785136,
+            -26.92928308
+          ],
+          [
+            -48.69944266,
+            -26.93058004
+          ],
+          [
+            -48.70080064,
+            -26.93170884
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2009,
+      "nome": "R.Francisco Delvan",
+      "cod": 1017,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3025/1995",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Avelino Werner, Avelino Werner II",
+      "nomeloteamento": "Rua \"11\""
+    }
+  }
+]

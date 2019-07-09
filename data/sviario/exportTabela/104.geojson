@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4532",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69502252,
+            -26.90855755
+          ],
+          [
+            -48.69393754,
+            -26.90859511
+          ],
+          [
+            -48.69232978,
+            -26.90864284
+          ],
+          [
+            -48.69071391,
+            -26.90868839
+          ],
+          [
+            -48.68642836,
+            -26.90885485
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 119,
+      "nome": "R.Padre Paulo Condla",
+      "cod": 104,
+      "ptotalvia": 15,
+      "ppasseio1": 3.5,
+      "ppasseio2": 3.5,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_493f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65159387,
+            -26.92862668
+          ],
+          [
+            -48.65096521,
+            -26.92807256
+          ],
+          [
+            -48.65081025,
+            -26.9282313
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 665,
+      "nome": "R.José Júlio da Rocha",
+      "cod": 703,
+      "ptotalvia": 5.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "4963/2007",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.José J.da Rocha",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bc4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.75942438,
+            -26.96251094
+          ],
+          [
+            -48.75945355,
+            -26.96340472
+          ],
+          [
+            -48.75961865,
+            -26.9638999
+          ],
+          [
+            -48.75997505,
+            -26.96517288
+          ],
+          [
+            -48.76003271,
+            -26.96563769
+          ],
+          [
+            -48.76021091,
+            -26.96812053
+          ],
+          [
+            -48.76036553,
+            -26.96997036
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1372,
+      "nome": "R.João Ciseski",
+      "cod": 1493,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3332/1998",
+      "hierarquia": null,
+      "bairro": "Baia",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

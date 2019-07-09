@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a44",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69450054,
+            -26.87717698
+          ],
+          [
+            -48.69493712,
+            -26.87718011
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 979,
+      "nome": "R.Dário da Silva",
+      "cod": 1082,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3793/2002",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Lindomar Bastos",
+      "nomeloteamento": "Rua \"E\""
+    }
+  }
+]

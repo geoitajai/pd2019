@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a8a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69942619,
+            -26.88742291
+          ],
+          [
+            -48.6995325,
+            -26.88945223
+          ],
+          [
+            -48.69965712,
+            -26.89132708
+          ],
+          [
+            -48.69976534,
+            -26.89333059
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1060,
+      "nome": "R.Romualdo Sedrez",
+      "cod": 1163,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Vila de Fátima",
+      "nomeloteamento": "Rua \"2\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50a2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69976534,
+            -26.89333059
+          ],
+          [
+            -48.69978502,
+            -26.89390385
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1988,
+      "nome": "R.Romualdo Sedrez",
+      "cod": 1163,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Abdon Fóes, Conjunto Residencial Jornalista",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

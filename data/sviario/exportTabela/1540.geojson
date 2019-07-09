@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bea",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.86595965,
+            -27.03731286
+          ],
+          [
+            -48.86593671,
+            -27.03628855
+          ],
+          [
+            -48.8658557,
+            -27.03573492
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1412,
+      "nome": "R.Jaime Pedro Alves",
+      "cod": 1540,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3618/2001",
+      "hierarquia": null,
+      "bairro": null,
+      "abrevlogr": "R.Jaime P.Alves",
+      "pavto": "Asfalto",
+      "anopavtoin": "out/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_503b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69453334,
+            -26.87764209
+          ],
+          [
+            -48.6952126,
+            -26.87760914
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 980,
+      "nome": "R.Gelásio Manoel Costa",
+      "cod": 1083,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3791/2002",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Gelásio M.Costa",
+      "pavto": "Lajota",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Lindomar Bastos",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a8e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64616285,
+            -26.9315633
+          ],
+          [
+            -48.64534392,
+            -26.930885
+          ],
+          [
+            -48.6450175,
+            -26.93120247
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 692,
+      "nome": "R.Luiz Beduschi",
+      "cod": 730,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Fazendinha",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Blotex Santo Antônio",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

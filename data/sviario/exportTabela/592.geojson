@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f9d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63108706,
+            -26.95673643
+          ],
+          [
+            -48.63042095,
+            -26.95683314
+          ],
+          [
+            -48.62950213,
+            -26.95696168
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1607,
+      "nome": "R.Albatroz",
+      "cod": 592,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2809/1993",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Jardim Ariribá",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

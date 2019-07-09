@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b99",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73301451,
+            -26.94578609
+          ],
+          [
+            -48.73292523,
+            -26.94576764
+          ],
+          [
+            -48.73225097,
+            -26.94573894
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1325,
+      "nome": "R.Carmo Casemiro da Silva",
+      "cod": 1445,
+      "ptotalvia": 4.2,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2883/1993",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "R.Carmo C.da Silva",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_498f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7047594,
+            -26.91929143
+          ],
+          [
+            -48.70542841,
+            -26.91986602
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 740,
+      "nome": "R.Valério Zaguini",
+      "cod": 929,
+      "ptotalvia": 15,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "3046/1995",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Jardim Dona Mariquinha, Promorar II",
+      "nomeloteamento": "Rua \"4\""
+    }
+  }
+]

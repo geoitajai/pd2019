@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_492d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65632348,
+            -26.91880415
+          ],
+          [
+            -48.65754375,
+            -26.91985116
+          ],
+          [
+            -48.65876747,
+            -26.92089207
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 620,
+      "nome": "R.Cecília Brandão",
+      "cod": 658,
+      "ptotalvia": 12,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1403/1975",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Jardim Itajaí",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

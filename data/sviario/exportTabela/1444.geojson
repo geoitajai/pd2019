@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b97",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73277559,
+            -26.94485073
+          ],
+          [
+            -48.73273372,
+            -26.94540624
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1324,
+      "nome": "R.Maria de Souza Raymundo",
+      "cod": 1444,
+      "ptotalvia": 5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2878/1993",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "R.Maria de S.Raymundo",
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

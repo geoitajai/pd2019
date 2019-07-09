@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ab2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69575772,
+            -26.89402665
+          ],
+          [
+            -48.69568958,
+            -26.89277138
+          ],
+          [
+            -48.69560596,
+            -26.89099015
+          ],
+          [
+            -48.69555767,
+            -26.88962768
+          ],
+          [
+            -48.69541738,
+            -26.88917915
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1036,
+      "nome": "R.Laudelina Dionísio",
+      "cod": 1141,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1887/1981",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "set/11",
+      "loteamnome": "Parque Residencial Lar Brasileiro",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_507d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69541738,
+            -26.88917915
+          ],
+          [
+            -48.69536787,
+            -26.88804018
+          ],
+          [
+            -48.6951809,
+            -26.88420687
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1956,
+      "nome": "R.Laudelina Dionísio",
+      "cod": 1141,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1887/1981",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "set/11",
+      "loteamnome": "Parque Residencial Lar Brasileiro",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

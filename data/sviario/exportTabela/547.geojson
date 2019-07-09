@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48f0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67654184,
+            -26.92120683
+          ],
+          [
+            -48.6759171,
+            -26.92200541
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 532,
+      "nome": "R.José Darcy da Silva",
+      "cod": 547,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3509/2000",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": "R.José D.da Silva",
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Ferroviário, José Bonifácio Schmitt",
+      "nomeloteamento": "Rua \"H\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fbe",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6759171,
+            -26.92200541
+          ],
+          [
+            -48.67580586,
+            -26.92244626
+          ],
+          [
+            -48.67581822,
+            -26.92282833
+          ],
+          [
+            -48.6758965,
+            -26.92304875
+          ],
+          [
+            -48.67562813,
+            -26.92312175
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1865,
+      "nome": "R.José Darcy da Silva",
+      "cod": 547,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3509/2000",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": "R.José D.da Silva",
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Ferroviário, José Bonifácio Schmitt",
+      "nomeloteamento": "Rua \"F\""
+    }
+  }
+]

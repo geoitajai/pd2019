@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4961",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65058934,
+            -26.92697019
+          ],
+          [
+            -48.65206866,
+            -26.92818182
+          ],
+          [
+            -48.65295998,
+            -26.92892824
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 664,
+      "nome": "R.Júlio Joaquim Fernandes",
+      "cod": 702,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1214/1973",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Júlio J.Fernandes",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Muller, chácara da fazenda, loteamento",
+      "nomeloteamento": "Rua \"7\""
+    }
+  }
+]

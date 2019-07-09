@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b79",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67650842,
+            -26.91313754
+          ],
+          [
+            -48.67563904,
+            -26.91311549
+          ],
+          [
+            -48.67446659,
+            -26.91308804
+          ],
+          [
+            -48.6735263,
+            -26.91307107
+          ],
+          [
+            -48.67255776,
+            -26.91305436
+          ],
+          [
+            -48.67191019,
+            -26.91304569
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2175,
+      "nome": "R.Matias Klock",
+      "cod": 496,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "524/1963",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Vila Nova",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

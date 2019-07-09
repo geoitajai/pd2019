@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_496b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64439352,
+            -26.9305795
+          ],
+          [
+            -48.64260837,
+            -26.92998668
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 709,
+      "nome": "R.Pedro Salles dos Santos",
+      "cod": 747,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1602/1978",
+      "hierarquia": null,
+      "bairro": "Fazendinha",
+      "abrevlogr": "R.Pedro S.dos Sto.",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

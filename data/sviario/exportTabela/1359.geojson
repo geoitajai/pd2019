@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_45ee",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73543996,
+            -26.87622082
+          ],
+          [
+            -48.73492132,
+            -26.87626203
+          ],
+          [
+            -48.73439991,
+            -26.87630506
+          ],
+          [
+            -48.73388062,
+            -26.8763465
+          ],
+          [
+            -48.73336916,
+            -26.87638554
+          ],
+          [
+            -48.73283916,
+            -26.8764365
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1245,
+      "nome": "R.Francisca Casas Ramos",
+      "cod": 1359,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4881/2007",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Residencial Portal II",
+      "nomeloteamento": "Rua \"H\""
+    }
+  }
+]

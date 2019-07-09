@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47da",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66851748,
+            -26.91753621
+          ],
+          [
+            -48.66857301,
+            -26.91777195
+          ],
+          [
+            -48.66837063,
+            -26.91811701
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 277,
+      "nome": "R.Maria Zelandia Dias Costa",
+      "cod": 272,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4965/2007",
+      "hierarquia": null,
+      "bairro": "Nossa Senhora das Graças",
+      "abrevlogr": "R.M.a.Z.D.Costa",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4934",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65193287,
+            -26.92206783
+          ],
+          [
+            -48.6520812,
+            -26.92223865
+          ],
+          [
+            -48.65185252,
+            -26.92286686
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 611,
+      "nome": "R.Dr.Francisco Rangel",
+      "cod": 649,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "991/1970",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Coop.Habit.dos Operários Sindicalizados de Itajaí LTDA",
+      "nomeloteamento": "Rua \"Projetada\""
+    }
+  }
+]

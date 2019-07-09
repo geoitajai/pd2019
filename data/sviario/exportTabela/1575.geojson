@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_43b9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72673231,
+            -26.89789084
+          ],
+          [
+            -48.72665602,
+            -26.89717915
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 13,
+      "nome": "R.Maria Gonçalves Pereira",
+      "cod": 1575,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "6204/2012",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "R.Maria G.Pereira",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

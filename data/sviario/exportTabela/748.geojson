@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_496c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64949572,
+            -26.92041218
+          ],
+          [
+            -48.64786716,
+            -26.92080679
+          ],
+          [
+            -48.64744141,
+            -26.9208519
+          ],
+          [
+            -48.64724363,
+            -26.9207627
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 710,
+      "nome": "Al.Ernesto Schneider",
+      "cod": 748,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "0106/1949",
+      "hierarquia": "coletora",
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

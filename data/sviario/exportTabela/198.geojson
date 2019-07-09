@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4689",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68214369,
+            -26.89837226
+          ],
+          [
+            -48.67713706,
+            -26.89865961
+          ],
+          [
+            -48.67690616,
+            -26.89867219
+          ],
+          [
+            -48.67675458,
+            -26.89883095
+          ],
+          [
+            -48.676565,
+            -26.89904844
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 206,
+      "nome": "R.João Vechani",
+      "cod": 198,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ce0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65349603,
+            -26.92065313
+          ],
+          [
+            -48.65294646,
+            -26.9209308
+          ],
+          [
+            -48.65292152,
+            -26.92094394
+          ],
+          [
+            -48.65258387,
+            -26.92112183
+          ],
+          [
+            -48.65129422,
+            -26.9218125
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 609,
+      "nome": "R.Agostinho Fernandes Vieira",
+      "cod": 647,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0026/1951",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Agostinho F.Vieira",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

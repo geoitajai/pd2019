@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5176",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6807573,
+            -26.89360197
+          ],
+          [
+            -48.68073842,
+            -26.89266839
+          ],
+          [
+            -48.68068157,
+            -26.89135499
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 412,
+      "nome": "R.João Maria da Veiga",
+      "cod": 425,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "0789/1967",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Curt Hering, Jardim",
+      "nomeloteamento": "Rua \"2\""
+    }
+  }
+]

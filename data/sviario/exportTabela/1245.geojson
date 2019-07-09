@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a96",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.8562376,
+            -27.03642295
+          ],
+          [
+            -48.85627276,
+            -27.03722952
+          ],
+          [
+            -48.85620536,
+            -27.03733915
+          ],
+          [
+            -48.85603127,
+            -27.0375158
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1056,
+      "nome": "R.Maria Leite",
+      "cod": 1245,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "4085/2004",
+      "hierarquia": null,
+      "bairro": "Limoeiro",
+      "abrevlogr": "R.M.a.Leite",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

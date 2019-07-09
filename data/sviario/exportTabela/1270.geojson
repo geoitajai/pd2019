@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b29",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.71412977,
+            -26.89123553
+          ],
+          [
+            -48.71401598,
+            -26.88267871
+          ],
+          [
+            -48.71403398,
+            -26.88246493
+          ],
+          [
+            -48.71400389,
+            -26.88012906
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1159,
+      "nome": "Av.Pres.Castelo Branco",
+      "cod": 1270,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1471/1972",
+      "hierarquia": null,
+      "bairro": "Salseiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Paralelepípedo)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

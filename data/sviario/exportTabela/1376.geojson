@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b6d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73454354,
+            -26.8878705
+          ],
+          [
+            -48.73494386,
+            -26.89275825
+          ],
+          [
+            -48.73508828,
+            -26.89465183
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1255,
+      "nome": "R.Carlos Luiz Stringari",
+      "cod": 1376,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3797/2002",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Residencial Portal I",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

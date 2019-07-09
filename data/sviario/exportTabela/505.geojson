@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48aa",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67743142,
+            -26.91016916
+          ],
+          [
+            -48.67461721,
+            -26.90927423
+          ],
+          [
+            -48.67394469,
+            -26.90904163
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 491,
+      "nome": "R.Gaspar",
+      "cod": 505,
+      "ptotalvia": 13.2,
+      "ppasseio1": 2.6,
+      "ppasseio2": 2.6,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

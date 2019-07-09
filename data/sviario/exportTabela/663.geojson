@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_491d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65078949,
+            -26.92084446
+          ],
+          [
+            -48.65140298,
+            -26.92063031
+          ],
+          [
+            -48.65159663,
+            -26.92044662
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 625,
+      "nome": "Serv.João Manuel Francisco",
+      "cod": 663,
+      "ptotalvia": 3,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "1782/1980",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "Serv.João M.Fr.co.",
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

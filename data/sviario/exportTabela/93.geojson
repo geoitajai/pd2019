@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4492",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68665573,
+            -26.90491516
+          ],
+          [
+            -48.68749422,
+            -26.90494984
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 66,
+      "nome": "Serv.Franscisca Miranda da Veiga",
+      "cod": 93,
+      "ptotalvia": 4.4,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4851/2007",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "Serv.Franscisca M.da Veiga",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

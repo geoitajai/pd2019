@@ -1,0 +1,64 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48ed",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67600729,
+            -26.91659915
+          ],
+          [
+            -48.6761721,
+            -26.91908086
+          ],
+          [
+            -48.67629463,
+            -26.92110764
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 562,
+      "nome": "R.Vitor Zaguini",
+      "cod": 583,
+      "ptotalvia": 11,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "907/1968",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Dom Bosco",
+      "nomeloteamento": "Rua \"G\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f94",
+    "geometry": null,
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1858,
+      "nome": "R.Vitor Zaguini",
+      "cod": 583,
+      "ptotalvia": 11,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "907/1968",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

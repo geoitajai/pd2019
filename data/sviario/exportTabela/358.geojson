@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_482d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6624328,
+            -26.9101581
+          ],
+          [
+            -48.66315532,
+            -26.91071788
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 354,
+      "nome": "R.Moritz",
+      "cod": 358,
+      "ptotalvia": 3,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "1306/1973",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

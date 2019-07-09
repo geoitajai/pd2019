@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50e1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.71027897,
+            -26.94140638
+          ],
+          [
+            -48.71036815,
+            -26.94342761
+          ],
+          [
+            -48.71043517,
+            -26.94510828
+          ],
+          [
+            -48.71050511,
+            -26.94674996
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1350,
+      "nome": "R.Francisco Daligni",
+      "cod": 1471,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2614/1991",
+      "hierarquia": null,
+      "bairro": "Rio do Meio",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Residencial São Pedro",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bd5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.80678354,
+            -27.05255559
+          ],
+          [
+            -48.8068013,
+            -27.05267396
+          ],
+          [
+            -48.80675671,
+            -27.05289916
+          ],
+          [
+            -48.80667463,
+            -27.05322784
+          ],
+          [
+            -48.80673134,
+            -27.05336126
+          ],
+          [
+            -48.80685122,
+            -27.05348104
+          ],
+          [
+            -48.80707586,
+            -27.0536442
+          ],
+          [
+            -48.8071509,
+            -27.05378049
+          ],
+          [
+            -48.80721626,
+            -27.05405156
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1390,
+      "nome": "R.José Burigo",
+      "cod": 1511,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4472/2005",
+      "hierarquia": null,
+      "bairro": "Brilhante II",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "out/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

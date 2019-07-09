@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bbf",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.75604711,
+            -26.95952084
+          ],
+          [
+            -48.75564118,
+            -26.95946481
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1369,
+      "nome": "R.João Gregório da Silva",
+      "cod": 1490,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4108/2004",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "R.João G.da Silva",
+      "pavto": "Asfalto",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

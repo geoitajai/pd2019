@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_490a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65597624,
+            -26.92062506
+          ],
+          [
+            -48.65644183,
+            -26.92016583
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 599,
+      "nome": "R.Maria Fortunata da Silva",
+      "cod": 637,
+      "ptotalvia": 4,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3117/1996",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.M.aF.da Silva",
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

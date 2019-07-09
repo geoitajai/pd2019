@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5050",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69307888,
+            -26.87561819
+          ],
+          [
+            -48.69150637,
+            -26.87566426
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 961,
+      "nome": "R.Archimedes Lobo Johannsen",
+      "cod": 1058,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3044/1995",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.Archimedes L.Johannsen",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Beira Rio",
+      "nomeloteamento": "Rua \"X\""
+    }
+  }
+]

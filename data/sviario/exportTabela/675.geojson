@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b34",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6468641,
+            -26.92530382
+          ],
+          [
+            -48.64655737,
+            -26.92537122
+          ],
+          [
+            -48.6460183,
+            -26.92603186
+          ],
+          [
+            -48.6457601,
+            -26.92635759
+          ],
+          [
+            -48.64568038,
+            -26.92664188
+          ],
+          [
+            -48.64561129,
+            -26.92697607
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 637,
+      "nome": "R.Lila Heusi",
+      "cod": 675,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3118/1996",
+      "hierarquia": null,
+      "bairro": "Fazendinha",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Médicos",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

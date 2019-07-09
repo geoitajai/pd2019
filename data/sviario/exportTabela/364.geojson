@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4832",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66175678,
+            -26.90810295
+          ],
+          [
+            -48.66159248,
+            -26.90854548
+          ],
+          [
+            -48.66135982,
+            -26.90914432
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 360,
+      "nome": "R.DomJoaquim Domingues de Oliveira",
+      "cod": 364,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1009/1970",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Joaquim D.de O.",
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4810",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66646116,
+            -26.90527829
+          ],
+          [
+            -48.66610622,
+            -26.90529627
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 323,
+      "nome": "R.Maria Luiza Amorim Heusi",
+      "cod": 322,
+      "ptotalvia": 3.7,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4901/2007",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.M.a.L.A.Heusi",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

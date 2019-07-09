@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bc3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.76057297,
+            -26.96291545
+          ],
+          [
+            -48.76054897,
+            -26.96332297
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1371,
+      "nome": "R.Durval Cavichiolli",
+      "cod": 1492,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3333/1998",
+      "hierarquia": null,
+      "bairro": "Baia",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

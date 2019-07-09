@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a28",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6854895,
+            -26.91606264
+          ],
+          [
+            -48.68460264,
+            -26.91611279
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 926,
+      "nome": "R.Max Hoier",
+      "cod": 1023,
+      "ptotalvia": 5.1,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "4929/2007",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

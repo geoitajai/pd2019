@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_46ad",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6745819,
+            -26.89552685
+          ],
+          [
+            -48.67432148,
+            -26.89580899
+          ],
+          [
+            -48.67513982,
+            -26.89647822
+          ],
+          [
+            -48.67672655,
+            -26.89778176
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 186,
+      "nome": "R.Altino Werner",
+      "cod": 176,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1506/1976",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Núcleo Residencial Rua Blumenau COHAB",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

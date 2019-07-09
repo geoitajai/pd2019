@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48f6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63207456,
+            -26.95688333
+          ],
+          [
+            -48.63138098,
+            -26.9567046
+          ],
+          [
+            -48.63108706,
+            -26.95673643
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 573,
+      "nome": "R.Pedro Corrêa da Silva",
+      "cod": 590,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3037/1995",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Pedro C.da Silva",
+      "pavto": "Lajota",
+      "anopavtoin": "abr/15",
+      "loteamnome": "Sociedade Camboriu de Hoteis",
+      "nomeloteamento": "Rua \"19\""
+    }
+  }
+]

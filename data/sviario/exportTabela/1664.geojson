@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d4f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64562893,
+            -26.95668777
+          ],
+          [
+            -48.64572523,
+            -26.95666724
+          ],
+          [
+            -48.64582974,
+            -26.9566518
+          ],
+          [
+            -48.6458633,
+            -26.95663632
+          ],
+          [
+            -48.64586338,
+            -26.95638658
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1714,
+      "nome": "R.Sem denominação oficial",
+      "cod": 1664,
+      "ptotalvia": 0,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

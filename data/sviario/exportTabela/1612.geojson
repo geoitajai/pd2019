@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c6e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72565235,
+            -26.89776323
+          ],
+          [
+            -48.7256167,
+            -26.89718874
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1545,
+      "nome": "Serv.José Bernardino Filho",
+      "cod": 1612,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "6582/2014",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "Serv.José B.Filho",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

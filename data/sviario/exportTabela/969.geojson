@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ec8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69478202,
+            -26.92602728
+          ],
+          [
+            -48.69362897,
+            -26.92666164
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 870,
+      "nome": "R.Augusto Fiorenzano Júnior",
+      "cod": 969,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3114/1996",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.Augusto F.Júnior",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Padre Schmitt",
+      "nomeloteamento": "Rua \"12\""
+    }
+  }
+]

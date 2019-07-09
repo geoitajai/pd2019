@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4acc",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69774022,
+            -26.8955623
+          ],
+          [
+            -48.69776887,
+            -26.89610555
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1119,
+      "nome": "R.Vera Lucia de Moura Albino",
+      "cod": 1223,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4216/2004",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Vera L.de M.Albino",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

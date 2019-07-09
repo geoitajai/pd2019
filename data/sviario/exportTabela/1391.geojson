@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b59",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.77029452,
+            -26.90032134
+          ],
+          [
+            -48.77018487,
+            -26.89926047
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1270,
+      "nome": "Serv.Mauricio Clarindo da Cunha",
+      "cod": 1391,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "5088/2008",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "Serv.Mauricio C.da Cunha",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a3d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70734629,
+            -26.87270129
+          ],
+          [
+            -48.70750615,
+            -26.87588591
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 971,
+      "nome": "R.Emília Máxima dos Santos",
+      "cod": 1070,
+      "ptotalvia": 10,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3074/1996",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

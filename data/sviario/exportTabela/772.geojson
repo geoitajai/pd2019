@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49b4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63709638,
+            -26.93274308
+          ],
+          [
+            -48.63663641,
+            -26.93240763
+          ],
+          [
+            -48.6341366,
+            -26.93049926
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 732,
+      "nome": "R.Eng.João da Rocha Mello",
+      "cod": 772,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3033/1995",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Ewaldo Willerding",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

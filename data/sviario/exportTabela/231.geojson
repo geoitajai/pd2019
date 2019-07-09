@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4742",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68271874,
+            -26.90600792
+          ],
+          [
+            -48.68204043,
+            -26.9060485
+          ],
+          [
+            -48.6803252,
+            -26.90613073
+          ],
+          [
+            -48.67970058,
+            -26.90615892
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 240,
+      "nome": "R.Florisbela Balbina da Silva Gonçalves",
+      "cod": 231,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2704/1992",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.Florisbela B.da S.Gonçalves",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_477d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6821564,
+            -26.90976345
+          ],
+          [
+            -48.68227174,
+            -26.90920707
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 264,
+      "nome": "Trav.Nazario Thomé Linhares",
+      "cod": 256,
+      "ptotalvia": 5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2481/1989",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "Trav.Nazario T.Linhares",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

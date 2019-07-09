@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_476e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67580942,
+            -26.905667
+          ],
+          [
+            -48.67577756,
+            -26.90672654
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 259,
+      "nome": "Trav.Antônio Carlos da Silva",
+      "cod": 251,
+      "ptotalvia": 13,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "3071/1996",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "Trav.Antônio\\nC.da Silva",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

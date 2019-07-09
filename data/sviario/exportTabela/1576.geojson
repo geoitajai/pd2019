@@ -1,0 +1,70 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c70",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69123478,
+            -26.96620225
+          ],
+          [
+            -48.69197933,
+            -26.96588074
+          ],
+          [
+            -48.69229969,
+            -26.96578655
+          ],
+          [
+            -48.69258491,
+            -26.96587768
+          ],
+          [
+            -48.6930231,
+            -26.96615722
+          ],
+          [
+            -48.69350199,
+            -26.96633367
+          ],
+          [
+            -48.69379041,
+            -26.96638595
+          ],
+          [
+            -48.69419213,
+            -26.96656113
+          ],
+          [
+            -48.694585,
+            -26.96669726
+          ],
+          [
+            -48.69477923,
+            -26.96687337
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1547,
+      "nome": "R.Januário Corrente",
+      "cod": 1576,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6172/2012",
+      "hierarquia": null,
+      "bairro": "Canhanduba",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

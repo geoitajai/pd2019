@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_45be",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68682494,
+            -26.90370565
+          ],
+          [
+            -48.68596325,
+            -26.90365643
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 107,
+      "nome": "R.Antônio Francisco de Oliveira",
+      "cod": 89,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1998/1982",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.Antônio F.de Oliveira",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Núcleo Habitacional Leandro A. Peirão (R. São Vicente)",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

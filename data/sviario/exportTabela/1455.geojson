@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ba1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74994084,
+            -26.94589469
+          ],
+          [
+            -48.74879551,
+            -26.94605936
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1335,
+      "nome": "R.Basílio Domingos Gonçalves",
+      "cod": 1455,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3006/1995",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "R.Basílio D.Gonçalves",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

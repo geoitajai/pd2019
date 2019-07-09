@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a64",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70243363,
+            -26.87950148
+          ],
+          [
+            -48.70185231,
+            -26.87953561
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1002,
+      "nome": "R.Valmir Olívio dos Santos",
+      "cod": 1107,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "1107/10058",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Valmir O.dos Sto.",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

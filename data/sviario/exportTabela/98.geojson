@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_45df",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69485139,
+            -26.90584535
+          ],
+          [
+            -48.69484354,
+            -26.90584563
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 113,
+      "nome": "R.Alberto Ramos Filho",
+      "cod": 98,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1633/1978",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b73",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69484354,
+            -26.90584563
+          ],
+          [
+            -48.69389344,
+            -26.90587976
+          ],
+          [
+            -48.69227774,
+            -26.90592806
+          ],
+          [
+            -48.69067569,
+            -26.90598982
+          ],
+          [
+            -48.68874989,
+            -26.90604567
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2170,
+      "nome": "R.Alberto Ramos Filho",
+      "cod": 98,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1633/1978",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Japonês",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

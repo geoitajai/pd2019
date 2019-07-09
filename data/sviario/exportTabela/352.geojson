@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c4a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66303641,
+            -26.90757612
+          ],
+          [
+            -48.66397691,
+            -26.90835563
+          ],
+          [
+            -48.66461739,
+            -26.90893081
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1515,
+      "nome": "R.Frederico Augusto Luiz Thieme",
+      "cod": 352,
+      "ptotalvia": 13.2,
+      "ppasseio1": 1.8,
+      "ppasseio2": 1.8,
+      "leidata": "0808/1967",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Frederico A.L.Thieme",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d6c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66178416,
+            -26.90657039
+          ],
+          [
+            -48.66234576,
+            -26.90703269
+          ],
+          [
+            -48.66303641,
+            -26.90757612
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 348,
+      "nome": "R.Frederico Augusto Luiz Thieme",
+      "cod": 352,
+      "ptotalvia": 13.2,
+      "ppasseio1": 1.8,
+      "ppasseio2": 1.8,
+      "leidata": "0808/1967",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Frederico A.L.Thieme",
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

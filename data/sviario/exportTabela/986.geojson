@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a22",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70275331,
+            -26.92583892
+          ],
+          [
+            -48.7017517,
+            -26.92681571
+          ],
+          [
+            -48.70053965,
+            -26.92800118
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 887,
+      "nome": "R.Arlindo Werner",
+      "cod": 986,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4448/2005",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "out/12",
+      "loteamnome": "Avelino Werner, Avelino Werner II",
+      "nomeloteamento": "Rua \"18\""
+    }
+  }
+]

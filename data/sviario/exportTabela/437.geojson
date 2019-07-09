@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5180",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68133472,
+            -26.88961419
+          ],
+          [
+            -48.68083152,
+            -26.88981074
+          ],
+          [
+            -48.6803636,
+            -26.88998695
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 424,
+      "nome": "R.Bruno P. Reiser",
+      "cod": 437,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Curt Hering, Jardim",
+      "nomeloteamento": "Rua \"6\""
+    }
+  }
+]

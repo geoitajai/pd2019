@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b88",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73827318,
+            -26.94853372
+          ],
+          [
+            -48.73780027,
+            -26.94852274
+          ],
+          [
+            -48.73759337,
+            -26.94852054
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1307,
+      "nome": "R.José Hermindo Rosa",
+      "cod": 1426,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4784/2007",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "R.José H.Rosa",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "dez/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

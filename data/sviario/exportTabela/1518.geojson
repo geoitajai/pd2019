@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bdd",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.77264163,
+            -26.99129801
+          ],
+          [
+            -48.77278284,
+            -26.99127116
+          ],
+          [
+            -48.77367706,
+            -26.99128277
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1399,
+      "nome": "R.Mercedes Maria da Veiga",
+      "cod": 1518,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4601/2006",
+      "hierarquia": null,
+      "bairro": "Paciência",
+      "abrevlogr": "R.Mercedes M.da Veiga",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

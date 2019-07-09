@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a4b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69861425,
+            -26.86748187
+          ],
+          [
+            -48.69874624,
+            -26.86976713
+          ],
+          [
+            -48.69885127,
+            -26.87186446
+          ],
+          [
+            -48.69893482,
+            -26.87328928
+          ],
+          [
+            -48.69894957,
+            -26.87366665
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 942,
+      "nome": "R.Orlandina Amália Pires Corrêa",
+      "cod": 1039,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3935/2003",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Jardim Itália",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

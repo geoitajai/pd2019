@@ -1,0 +1,216 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e14",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66533279,
+            -26.90973997
+          ],
+          [
+            -48.66500495,
+            -26.91004173
+          ]
+        ],
+        [
+          [
+            -48.66500495,
+            -26.91004175
+          ],
+          [
+            -48.66476747,
+            -26.91026689
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1769,
+      "nome": "R.Tiburcio Bastos Gonçaves",
+      "cod": 348,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Tiburcio B.Gonçaves",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Germano Rauert",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e16",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66468433,
+            -26.90976302
+          ],
+          [
+            -48.66500495,
+            -26.91004173
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1770,
+      "nome": "R.Tiburcio Bastos Gonçaves",
+      "cod": 348,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Tiburcio B.Gonçaves",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Germano Rauert",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e1a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66533279,
+            -26.90973995
+          ],
+          [
+            -48.66533279,
+            -26.90973995
+          ],
+          [
+            -48.66499966,
+            -26.90945232
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1771,
+      "nome": "R.Tiburcio Bastos Gonçaves",
+      "cod": 348,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Tiburcio B.Gonçaves",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e1d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66499966,
+            -26.90945232
+          ],
+          [
+            -48.66468433,
+            -26.909763
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1772,
+      "nome": "R.Tiburcio Bastos Gonçaves",
+      "cod": 348,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Tiburcio B.Gonçaves",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Germano Rauert",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e1f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66560775,
+            -26.90998514
+          ],
+          [
+            -48.66533279,
+            -26.90973995
+          ]
+        ],
+        [
+          [
+            -48.66533279,
+            -26.90973995
+          ],
+          [
+            -48.66533279,
+            -26.90973995
+          ]
+        ],
+        [
+          [
+            -48.66468433,
+            -26.909763
+          ],
+          [
+            -48.66468433,
+            -26.909763
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1773,
+      "nome": "R.Tiburcio Bastos Gonçaves",
+      "cod": 348,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Tiburcio B.Gonçaves",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Zozimo Peixoto",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

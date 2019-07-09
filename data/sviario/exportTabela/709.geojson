@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_495a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64614602,
+            -26.92753293
+          ],
+          [
+            -48.64831605,
+            -26.92869193
+          ],
+          [
+            -48.64931508,
+            -26.92922988
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 671,
+      "nome": "R.João Joahnny de Alcântara",
+      "cod": 709,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1719/1979",
+      "hierarquia": null,
+      "bairro": "Fazendinha",
+      "abrevlogr": "R.João J.de Alcântara",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Luciana",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

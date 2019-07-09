@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48c3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67805776,
+            -26.91077184
+          ],
+          [
+            -48.67802686,
+            -26.9112458
+          ],
+          [
+            -48.67799584,
+            -26.91179468
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 511,
+      "nome": "R.Aguinaldo Deola",
+      "cod": 525,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2145/1984",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Curt Hering, Jardim",
+      "nomeloteamento": "Rua \"E\""
+    }
+  }
+]

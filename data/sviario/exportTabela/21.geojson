@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44ea",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69450123,
+            -26.90157257
+          ],
+          [
+            -48.69382045,
+            -26.90158971
+          ],
+          [
+            -48.6922267,
+            -26.90162326
+          ],
+          [
+            -48.68870263,
+            -26.90170113
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 37,
+      "nome": "R.Gaspar da Costa Moraes",
+      "cod": 21,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Jardim Acaraí",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

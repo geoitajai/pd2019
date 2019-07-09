@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48f2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68108903,
+            -26.92308003
+          ],
+          [
+            -48.68115954,
+            -26.92385232
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 525,
+      "nome": "R.Reinaldo Pereira da Silva",
+      "cod": 540,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": "R.Reinaldo P.da Silva",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Cleonice",
+      "nomeloteamento": "Rua \"E\""
+    }
+  }
+]

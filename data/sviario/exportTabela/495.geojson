@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48a2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67461721,
+            -26.90927423
+          ],
+          [
+            -48.67398589,
+            -26.90940905
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 481,
+      "nome": "R.Cons.João Gaya",
+      "cod": 495,
+      "ptotalvia": 14,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c24",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67398589,
+            -26.90940905
+          ],
+          [
+            -48.67305567,
+            -26.90949658
+          ],
+          [
+            -48.67209628,
+            -26.90957867
+          ],
+          [
+            -48.6709426,
+            -26.90969257
+          ],
+          [
+            -48.67024612,
+            -26.90976417
+          ],
+          [
+            -48.66952649,
+            -26.90981811
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1482,
+      "nome": "R.Cons.João Gaya",
+      "cod": 495,
+      "ptotalvia": 14,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

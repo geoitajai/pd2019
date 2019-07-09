@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d65",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.77061928,
+            -26.90097839
+          ],
+          [
+            -48.77012531,
+            -26.90106011
+          ],
+          [
+            -48.76941957,
+            -26.90130402
+          ],
+          [
+            -48.76912553,
+            -26.90145221
+          ],
+          [
+            -48.7690521,
+            -26.90160128
+          ],
+          [
+            -48.76897751,
+            -26.90179555
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2212,
+      "nome": "R.Julio José Evaristo",
+      "cod": 1694,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6152/2012",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

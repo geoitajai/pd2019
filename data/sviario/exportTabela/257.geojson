@@ -1,0 +1,74 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4746",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67437849,
+            -26.89641975
+          ],
+          [
+            -48.67410245,
+            -26.89668275
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 265,
+      "nome": "R.Luiz Sebastião Amorim",
+      "cod": 257,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "1910/1981",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.Luiz S.Amorim",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Navegação  Itajaí I, Navegação Itajaí III",
+      "nomeloteamento": "Travessa \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c9f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67410245,
+            -26.89668275
+          ],
+          [
+            -48.67387973,
+            -26.89689495
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2197,
+      "nome": "R.Luiz Sebastião Amorim",
+      "cod": 257,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "1910/1981",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.Luiz S.Amorim",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

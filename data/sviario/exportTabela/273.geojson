@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ce8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6695425,
+            -26.91741657
+          ],
+          [
+            -48.66906175,
+            -26.91744898
+          ],
+          [
+            -48.6686814,
+            -26.91746077
+          ],
+          [
+            -48.66851748,
+            -26.91753621
+          ],
+          [
+            -48.66816969,
+            -26.91797085
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 278,
+      "nome": "R.Gustavo Manoel dos Santos",
+      "cod": 273,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Nossa Senhora das Graças",
+      "abrevlogr": "R.Gustavo M.dos Sto.",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b7c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.71265208,
+            -26.91099764
+          ],
+          [
+            -48.71304636,
+            -26.9107095
+          ],
+          [
+            -48.71353233,
+            -26.90956947
+          ],
+          [
+            -48.71384634,
+            -26.90940947
+          ],
+          [
+            -48.71432483,
+            -26.90966281
+          ],
+          [
+            -48.71519957,
+            -26.90997615
+          ],
+          [
+            -48.72870196,
+            -26.91812942
+          ],
+          [
+            -48.71348747,
+            -26.93314109
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1293,
+      "nome": "R.José Natal Cugik",
+      "cod": 1410,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2825/1993",
+      "hierarquia": null,
+      "bairro": "Rio Novo - Colônia Japonesa",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

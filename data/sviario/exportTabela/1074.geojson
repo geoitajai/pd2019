@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a40",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7095169,
+            -26.876423
+          ],
+          [
+            -48.70873966,
+            -26.87586135
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 974,
+      "nome": "R.Tiradentes",
+      "cod": 1074,
+      "ptotalvia": 9.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1471/1972",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

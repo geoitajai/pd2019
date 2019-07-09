@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d11",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69480929,
+            -26.91904013
+          ],
+          [
+            -48.69565999,
+            -26.91890506
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1688,
+      "nome": "R.João Jacinto Vieira",
+      "cod": 1640,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "5584/2010",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.João J.Vieira",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

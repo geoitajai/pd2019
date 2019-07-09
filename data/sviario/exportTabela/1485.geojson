@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bbb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.75742349,
+            -26.960109
+          ],
+          [
+            -48.75753238,
+            -26.96140568
+          ],
+          [
+            -48.75757658,
+            -26.96185989
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1364,
+      "nome": "R.Natanael Alexandre Cagnetti",
+      "cod": 1485,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3330/1998",
+      "hierarquia": null,
+      "bairro": "KM12",
+      "abrevlogr": "R.Natanael A.Cagnetti",
+      "pavto": "Asfalto",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

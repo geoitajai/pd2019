@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4997",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63792971,
+            -26.92936454
+          ],
+          [
+            -48.63743779,
+            -26.92899015
+          ],
+          [
+            -48.63691584,
+            -26.92859289
+          ],
+          [
+            -48.63601681,
+            -26.92794257
+          ],
+          [
+            -48.6351711,
+            -26.9273032
+          ],
+          [
+            -48.63464191,
+            -26.92690634
+          ],
+          [
+            -48.63406216,
+            -26.92645428
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 722,
+      "nome": "R.João Bauer Júnior",
+      "cod": 760,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0017/1951",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

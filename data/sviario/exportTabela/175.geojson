@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_46a8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67363534,
+            -26.89479026
+          ],
+          [
+            -48.67458014,
+            -26.89552682
+          ],
+          [
+            -48.67542536,
+            -26.8961882
+          ],
+          [
+            -48.67695172,
+            -26.89738013
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 185,
+      "nome": "R.Eugênio José Reichert",
+      "cod": 175,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1397/1975",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Núcleo Residencial Rua Blumenau COHAB",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ae5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70166169,
+            -26.89858916
+          ],
+          [
+            -48.7007634,
+            -26.8986455
+          ],
+          [
+            -48.69980147,
+            -26.89868695
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1105,
+      "nome": "R.Salvador",
+      "cod": 1209,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Abdon Fóes, Conjunto Residencial Jornalista",
+      "nomeloteamento": "Rua \"P\""
+    }
+  }
+]

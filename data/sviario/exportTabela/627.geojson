@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4930",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65551025,
+            -26.91263311
+          ],
+          [
+            -48.65527556,
+            -26.91324499
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 589,
+      "nome": "Serv.Henrique Bernadino Maria de Borba",
+      "cod": 627,
+      "ptotalvia": 6.2,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2761/1992",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "Serv.Henrique B.M.de Borba",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Nestor Gonçalves da Luz",
+      "nomeloteamento": "\"Rua\""
+    }
+  }
+]

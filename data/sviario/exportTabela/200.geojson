@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4693",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67675458,
+            -26.89883095
+          ],
+          [
+            -48.67543005,
+            -26.89777662
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 208,
+      "nome": "R.João Antônio de Azevedo",
+      "cod": 200,
+      "ptotalvia": 4.5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "1991/1982",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.João A.de Azevedo",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

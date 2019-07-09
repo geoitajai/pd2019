@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_46fd",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67613777,
+            -26.90089039
+          ],
+          [
+            -48.67570505,
+            -26.90131518
+          ],
+          [
+            -48.67554818,
+            -26.90121773
+          ],
+          [
+            -48.67510665,
+            -26.90122952
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 225,
+      "nome": "R.Paulo Euzébio de Souza",
+      "cod": 216,
+      "ptotalvia": 2.2,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4960/2007",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.Paulo E.de Souza",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

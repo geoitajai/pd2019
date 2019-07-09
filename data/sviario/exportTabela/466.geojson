@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5062",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6751286,
+            -26.88612917
+          ],
+          [
+            -48.67478878,
+            -26.88645774
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 452,
+      "nome": "R.Manoel Moacir Werner",
+      "cod": 466,
+      "ptotalvia": 6.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3556/2000",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "R.Manoel M.Werner",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Eliana",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5064",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67478878,
+            -26.88645774
+          ],
+          [
+            -48.67474885,
+            -26.88649635
+          ],
+          [
+            -48.67415209,
+            -26.88708464
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1935,
+      "nome": "R.Manoel Moacir Werner",
+      "cod": 466,
+      "ptotalvia": 6.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3556/2000",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "R.Manoel M.Werner",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

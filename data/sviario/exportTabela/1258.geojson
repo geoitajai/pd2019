@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4af3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.84610967,
+            -27.04183337
+          ],
+          [
+            -48.8460859,
+            -27.04163578
+          ],
+          [
+            -48.84601856,
+            -27.04154052
+          ],
+          [
+            -48.84582049,
+            -27.04152288
+          ],
+          [
+            -48.84579672,
+            -27.04099011
+          ],
+          [
+            -48.84574523,
+            -27.04084898
+          ],
+          [
+            -48.84556534,
+            -27.04074289
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1147,
+      "nome": "R.Maria Trainotti",
+      "cod": 1258,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4659/2006",
+      "hierarquia": null,
+      "bairro": "Limoeiro",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

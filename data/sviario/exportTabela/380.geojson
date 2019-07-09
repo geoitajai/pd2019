@@ -1,0 +1,126 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a30",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66813917,
+            -26.91673957
+          ],
+          [
+            -48.66740153,
+            -26.91625157
+          ],
+          [
+            -48.6667194,
+            -26.91570346
+          ],
+          [
+            -48.66636113,
+            -26.91542865
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2148,
+      "nome": "R.Juvenal Garcia",
+      "cod": 380,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "José Raymundo de Oliveira",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e2b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6694706,
+            -26.91655386
+          ],
+          [
+            -48.6687913,
+            -26.91666098
+          ],
+          [
+            -48.66813917,
+            -26.91673957
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 374,
+      "nome": "R.Juvenal Garcia",
+      "cod": 380,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "José Raymundo de Oliveira",
+      "nomeloteamento": "Rua \"E\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e52",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66636113,
+            -26.91542865
+          ],
+          [
+            -48.66622995,
+            -26.91532802
+          ],
+          [
+            -48.6621242,
+            -26.9121065
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1784,
+      "nome": "R.Juvenal Garcia",
+      "cod": 380,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Tecita",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

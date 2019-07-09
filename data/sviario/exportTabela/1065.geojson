@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a5a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70126202,
+            -26.87707496
+          ],
+          [
+            -48.70103738,
+            -26.87709032
+          ],
+          [
+            -48.70078703,
+            -26.87710001
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 967,
+      "nome": "R.Arcílio Zeverino",
+      "cod": 1065,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4665/2006",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Residencial Baumgartner",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50c0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70078703,
+            -26.87710001
+          ],
+          [
+            -48.70054627,
+            -26.87710933
+          ],
+          [
+            -48.70005927,
+            -26.87714882
+          ],
+          [
+            -48.69980101,
+            -26.87714955
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2019,
+      "nome": "R.Arcílio Zeverino",
+      "cod": 1065,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4665/2006",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Vila Nova",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

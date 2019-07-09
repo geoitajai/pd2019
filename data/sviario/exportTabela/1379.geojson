@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b4f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73934548,
+            -26.88831708
+          ],
+          [
+            -48.73918466,
+            -26.88849815
+          ],
+          [
+            -48.73925687,
+            -26.88865746
+          ],
+          [
+            -48.73955331,
+            -26.89148097
+          ],
+          [
+            -48.73973573,
+            -26.89149792
+          ],
+          [
+            -48.73980794,
+            -26.8923758
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1258,
+      "nome": "R.Agenor Generoso Mello",
+      "cod": 1379,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "5087/2008",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cd5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63508835,
+            -26.95275875
+          ],
+          [
+            -48.6297791,
+            -26.95344409
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1614,
+      "nome": "R.Cons.Júlio Kumm",
+      "cod": 783,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3060/1996",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Misto (Paver/Lajota)",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Vila Iris",
+      "nomeloteamento": "Rua \"1\""
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b4e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72063149,
+            -26.89566619
+          ],
+          [
+            -48.72070312,
+            -26.89660097
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1247,
+      "nome": "R.Genésio Vieira",
+      "cod": 1362,
+      "ptotalvia": 7.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3534/2000",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

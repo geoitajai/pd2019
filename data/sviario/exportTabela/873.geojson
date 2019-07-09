@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49b5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67155947,
+            -26.9318014
+          ],
+          [
+            -48.67163818,
+            -26.93374425
+          ],
+          [
+            -48.67168662,
+            -26.93447457
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 778,
+      "nome": "R.Primo Uller",
+      "cod": 873,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1572/1970",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim das Mansões",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

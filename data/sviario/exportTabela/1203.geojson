@@ -1,0 +1,254 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4add",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70607152,
+            -26.89305241
+          ],
+          [
+            -48.70543202,
+            -26.89306996
+          ],
+          [
+            -48.70510723,
+            -26.89307697
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1099,
+      "nome": "R.Osvaldo Cruz",
+      "cod": 1203,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f25",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70510723,
+            -26.89307697
+          ],
+          [
+            -48.70482204,
+            -26.89308312
+          ],
+          [
+            -48.70424376,
+            -26.89310067
+          ],
+          [
+            -48.70395432,
+            -26.89311902
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1830,
+      "nome": "R.Osvaldo Cruz",
+      "cod": 1203,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Votorantim II",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f68",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70395432,
+            -26.89311902
+          ],
+          [
+            -48.70355178,
+            -26.89314454
+          ],
+          [
+            -48.70276799,
+            -26.89318841
+          ],
+          [
+            -48.70223057,
+            -26.89321292
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1831,
+      "nome": "R.Osvaldo Cruz",
+      "cod": 1203,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5075",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69937826,
+            -26.8933428
+          ],
+          [
+            -48.69907009,
+            -26.89335253
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1953,
+      "nome": "R.Osvaldo Cruz",
+      "cod": 1203,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Osmar Nunes e Fco Canziani",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_507b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70138402,
+            -26.89325119
+          ],
+          [
+            -48.7010878,
+            -26.89326446
+          ],
+          [
+            -48.70042379,
+            -26.89329257
+          ],
+          [
+            -48.69976534,
+            -26.89333059
+          ],
+          [
+            -48.69937826,
+            -26.8933428
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1964,
+      "nome": "R.Osvaldo Cruz",
+      "cod": 1203,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Vila de Fátima",
+      "nomeloteamento": "Rua \"6\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5084",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70223057,
+            -26.89321292
+          ],
+          [
+            -48.701806,
+            -26.89323228
+          ],
+          [
+            -48.70138402,
+            -26.89325119
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1963,
+      "nome": "R.Osvaldo Cruz",
+      "cod": 1203,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim São Francisco",
+      "nomeloteamento": "Rua \"4\""
+    }
+  }
+]

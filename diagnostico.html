@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Plano Diretor Itajaí 2019 - Pranchas Diagnóstico</title>
+    <link rel="icon" type="image/png" href="images/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="images/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="lib/leaflet.css" />
+    <link rel="stylesheet" href="lib/jquery-ui.min.css" />
+    <link rel="stylesheet" href="lib/jquery-ui.theme.min.css" />
+    <link rel="stylesheet" href="lib/measure/leaflet.draw.css" />
+    <link rel="stylesheet" href="diagnostico.css" />
+    <script src="lib/leaflet.js"></script>
+    <script src="lib/jquery-3.4.1.min.js"></script>
+    <script src="lib/jquery-ui.min.js"></script>
+    <script src="lib/measure/Leaflet.draw.js"></script>
+    <script src="lib/measure/Leaflet.Draw.Event.js"></script>
+    <script src="lib/measure/Toolbar.js"></script>
+    <script src="lib/measure/Tooltip.js"></script>
+    <script src="lib/measure/GeometryUtil.js"></script>
+    <script src="lib/measure/LatLngUtil.js"></script>
+    <script src="lib/measure/TouchEvents.js"></script>
+    <script src="lib/measure/DrawToolbar.js"></script>
+    <script src="lib/measure/Draw.Feature.js"></script>
+    <script src="lib/measure/Draw.SimpleShape.js"></script>
+    <script src="lib/measure/Draw.Polyline.js"></script>
+    <script src="lib/measure/Control.Draw.js"></script>
+    <script src="lib/measure/leaflet.measurecontrol.js"></script>
+    <script src="lib/fallback.js"></script>
+</head>
+
+<body>
+
+    <div class='conteiner1'>
+        <div class='conteiner0' id="brastitulo">
+            <div class='logo'>
+                <img src="images/favicon-32x32.png" style="height:auto; width:auto; padding:3px;">
+                <span>Município de Itajaí </br> <b>Plano Diretor 2019 - Mapas Temáticos</b></span>
+            </div>
+            <div class='pesquisa'>
+                <form>
+                    <input id="pesquisaRapida" placeholder="Pesquisa logradouro" style="width: 300px;">
+                </form>
+            </div>
+        </div>
+
+        <div class="mapa" id="mapa">
+            <div class="barraLateral barraLateralColap" style="width:300px;" id="barraCamadas">
+                <button class="barraLateralEsconder" onclick="barraFechar()">Camadas &times;</button>
+                <div id="accordion">
+                    <h3>Vazios Urbanos no Perimetro Urbano</h3>
+                    <div>
+                        <img src="images/m01legenda.jpg" alt="legenda01" style="width:200px">
+                    </div>
+
+                    <h3>Vazios Urbanos na Área Urbana Consolidada</h3>
+                    <div>
+                        <img src="images/m02legenda.jpg" alt="legenda02" style="width:200px">
+                    </div>
+
+                    <h3>Usos Industriais e Zoneamento Específico</h3>
+                    <div>
+                        <img src="images/m03legenda.jpg" alt="legenda03" style="width:200px">
+                    </div>
+
+                    <h3>Uso e Ocupação do Solo na Área Urbana</h3>
+                    <div>
+                        <img src="images/m04legenda.jpg" alt="legenda04" style="width:200px">
+                    </div>
+
+                    <h3>Situação das Áreas Públicas</h3>
+                    <div>
+                        <img src="images/m05legenda.jpg" alt="legenda05" style="width:200px">
+                    </div>
+
+                    <h3>Postos de Guarda Vidas - Praias</h3>
+                    <div>
+                        <img src="images/m06legenda.jpg" alt="legenda06" style="width:200px">
+                    </div>
+
+                    <h3>Necessidade de Rotas Acessíveis e Acessibilidade Atual</h3>
+                    <div>
+                        <img src="images/m07legenda.jpg" alt="legenda07" style="width:200px">
+                    </div>
+
+                    <h3>Macrozoneamento Vigente</h3>
+                    <div>
+                        <img src="images/m08legenda.jpg" alt="legenda08" style="width:200px">
+                    </div>
+
+                    <h3>Localizacao na Regiao Metropolitana</h3>
+                    <div>
+                        <img src="images/m09legenda.jpg" alt="legenda09" style="width:200px">
+                    </div>
+
+                    <h3>Localizacao na AMFRI</h3>
+                    <div>
+                        <img src="images/m10legenda.jpg" alt="legenda10" style="width:200px">
+                    </div>
+
+                    <h3>Locais de Implantação de Habitação de Interesse Social</h3>
+                    <div>
+                        <img src="images/m11legenda.jpg" alt="legenda11" style="width:200px">
+                    </div>
+
+                    <h3>Identificação dos Programas Previstos</h3>
+                    <div>
+                        <img src="images/m12legenda.jpg" alt="legenda12" style="width:200px">
+                    </div>
+
+                    <h3>Hierarquia Viária - Perimetro Urbano</h3>
+                    <div>
+                        <img src="images/m13legenda.jpg" alt="legenda13" style="width:200px">
+                    </div>
+
+                    <h3>Hierarquia Viária - Escala Municipal</h3>
+                    <div>
+                        <img src="images/m14legenda.jpg" alt="legenda14" style="width:200px">
+                    </div>
+
+                    <h3>Equipamentos Públicos</h3>
+                    <div>
+                        <img src="images/m15legenda.jpg" alt="legenda15" style="width:200px">
+                    </div>
+
+                    <h3>Densidade Populacional x Quadras da Planta Cadastral</h3>
+                    <div>
+                        <img src="images/m16legenda.jpg" alt="legenda16" style="width:200px">
+                    </div>
+
+                    <h3>Densidade Populacional x Bairros</h3>
+                    <div>
+                        <img src="images/m17legenda.jpg" alt="legenda17" style="width:200px">
+                    </div>
+
+                    <h3>Concentração dos Pontos de Embarque Desembarque do Transporte Publ. Coletivo</h3>
+                    <div>
+                        <img src="images/m18legenda.jpg" alt="legenda18" style="width:200px">
+                    </div>
+
+                    <h3>Censo 2010 -Densidade Demográfica</h3>
+                    <div>
+                        <img src="images/m19legenda.jpg" alt="legenda19" style="width:200px">
+                    </div>
+
+                    <h3>Áreas Urbanas Consoliddas x Territorio Municipal</h3>
+                    <div>
+                        <img src="images/m20legenda.jpg" alt="legenda20" style="width:200px">
+                    </div>
+
+                    <h3>Áreas Urbanas Consolidadas x Perímetro Urbano Estabelecido por Lei</h3>
+                    <div>
+                        <img src="images/m21legenda.jpg" alt="legenda21" style="width:200px">
+                    </div>
+
+                    <h3>Arborização Urbana</h3>
+                    <div>
+                        <img src="images/m22legenda.jpg" alt="legenda22" style="width:200px">
+                    </div>
+
+                    <h3>Abrangencia dos Equipamentos de Saúde</h3>
+                    <div>
+                        <img src="images/m23legenda.jpg" alt="legenda23" style="width:200px">
+                    </div>
+
+                    <h3>Abrangencia dos Equipamentos de Esporte e Lazer</h3>
+                    <div>
+                        <img src="images/m24legenda.jpg" alt="legenda24" style="width:200px">
+                    </div>
+
+                    <h3>Abrangencia dos Equipamentos de Educação</h3>
+                    <div>
+                        <img src="images/m25legenda.jpg" alt="legenda25" style="width:200px">
+                    </div>
+
+                    <h3>Abrangencia dos Equipamentos de Assistencia Social</h3>
+                    <div>
+                        <img src="images/m26legenda.jpg" alt="legenda26" style="width:200px">
+                    </div>
+
+                    <h3>Abrangência das Praças e Áreas Verdes</h3>
+                    <div>
+                        <img src="images/m27legenda.jpg" alt="legenda27" style="width:200px">
+                    </div>
+                </div>
+            </div>
+            <button class="barraLateralEsconder" onclick="barraAbrir()">Mais Camadas &#8801;</button>
+        </div>
+    </div>
+
+    <script>
+        //#barra lateral
+        $(function () {
+            $("#accordion").accordion({
+                heightStyle: "content",
+                //collapsible: true,
+                activate: function (event, ui) { }
+            });
+        });
+
+        //barra lateral
+        function barraAbrir() {
+            document.getElementById("barraCamadas").style.display = "block";
+        }
+
+        function barraFechar() {
+            document.getElementById("barraCamadas").style.display = "none";
+        }
+
+        //#div do mapa
+        let mapa = new L.Map('mapa', {
+            zoom: 13,
+            minZoom: 11,
+            maxZoom: 16,
+            maxBounds: [
+                //south west
+                [-27.3000, -49.2300],
+                //north east
+                [-26.3285, -48.3200]
+            ],
+            center: new L.latLng([-26.915505, -48.690354]),
+            zoomControl: false,
+            preferCanvas: true
+        });
+
+        //barra escala
+        L.control.scale({
+            position: "bottomright",
+            imperial: false
+        }).addTo(mapa);
+
+        //Norte
+        let nortemapa = L.control({
+            position: 'bottomright'
+        });
+
+        nortemapa.onAdd = function (map) {
+            var div = L.DomUtil.create('div', 'info2 legend');
+            div.innerHTML +=
+                '<center><sub><font size="4">▲</font></sub><br/>' +
+                '<sup><font size="2">N</font></sup></center>'
+            return div;
+        };
+        nortemapa.addTo(mapa);
+
+        //Botão zoom posicionado
+        L.control.zoom({
+            position: 'topright'
+        }).addTo(mapa);
+
+        //Medidas
+        L.Control.measureControl({
+            position: 'topright'
+        }).addTo(mapa);
+
+        //Barra de pesquisa
+        //tabela substituições
+        let accentMap = {
+            'á': 'a',
+            'à': 'a',
+            'ã': 'a',
+            'â': 'a',
+            'ç': 'c',
+            'é': 'e',
+            'è': 'e',
+            'í': 'i',
+            'ì': 'i',
+            'ó': 'o',
+            'ò': 'o',
+            'õ': 'o',
+            'ô': 'o',
+            'ú': 'u',
+            'ù': 'u'
+        };
+        //substituição de caracteres especiais
+        let normalize = (term) => {
+            let ret = "";
+            for (let i = 0; i < term.length; i++) {
+                ret += accentMap[term.charAt(i)] || term.charAt(i);
+            }
+            return ret;
+        };
+
+        //função de pesquisa
+        let pesquisaQvias = L.featureGroup().addTo(mapa);
+
+        $.getJSON("data/sistemaViarioPesquisa.geojson", (data) => {
+            listaViasAutoComplete = data.features.map((feicoes) => {
+                return feicoes.properties.nome
+            });
+
+            $(() => {
+                $("#pesquisaRapida").autocomplete({
+                    minLength: 3,
+                    autoFocus: true,
+                    source: (request, response) => {
+                        let matcher = new RegExp($.ui.autocomplete.escapeRegex(request
+                            .term), "i");
+                        response($.grep(listaViasAutoComplete, (value) => {
+                            value = value.label || value.value || value;
+                            return matcher.test(value) || matcher.test(
+                                normalize(value));
+                        }));
+                    },
+                    select: (event, ui) => {
+                        let filtradoobj = data.features.find(e => e.properties.nome === ui
+                            .item.value);
+                        pesquisaQvias.clearLayers();
+                        $.getJSON("data/sviario/exportTabela/" + filtradoobj.properties
+                            .cod + ".geojson", (data) => {
+                                L.geoJson(data).addTo(pesquisaQvias);
+                                mapa.flyToBounds(pesquisaQvias.getBounds(), {
+                                    maxZoom: 17
+                                });
+                            });
+                    },
+                    close: (e) => {
+                        e.target.value = '';
+                    }
+                });
+            });
+
+        });
+
+        //#camadas, barra lateral
+        let m01 = new L.TileLayer('tiles/01/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        }).addTo(mapa);
+
+        let m02 = new L.TileLayer('tiles/02/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m03 = new L.TileLayer('tiles/03/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m04 = new L.TileLayer('tiles/04/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m05 = new L.tileLayer.fallback('tiles/05/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m06 = new L.TileLayer('tiles/06/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m07 = new L.TileLayer('tiles/07/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m08 = new L.tileLayer.fallback('tiles/08/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m09 = new L.tileLayer.fallback('tiles/09/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m10 = new L.tileLayer.fallback('tiles/10/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m11 = new L.TileLayer('tiles/11/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m12 = new L.TileLayer('tiles/12/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m13 = new L.TileLayer('tiles/13/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m14 = new L.tileLayer.fallback('tiles/14/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m15 = new L.tileLayer.fallback('tiles/15/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m16 = new L.TileLayer('tiles/16/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m17 = new L.tileLayer.fallback('tiles/17/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m18 = new L.tileLayer.fallback('tiles/18/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m19 = new L.TileLayer('tiles/19/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m20 = new L.tileLayer.fallback('tiles/20/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m21 = new L.TileLayer('tiles/21/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m22 = new L.TileLayer('tiles/22/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m23 = new L.TileLayer('tiles/23/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m24 = new L.TileLayer('tiles/24/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m25 = new L.TileLayer('tiles/25/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m26 = new L.TileLayer('tiles/26/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        let m27 = new L.TileLayer('tiles/27/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 17
+        });
+
+        //#controle de camadas
+
+        $("#accordion").on("accordionactivate", (event, ui) => {
+            if (
+                ui.newHeader["0"].textContent === 'Vazios Urbanos no Perimetro Urbano'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m01);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Vazios Urbanos na Área Urbana Consolidada'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m02);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Usos Industriais e Zoneamento Específico'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m03);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Uso e Ocupação do Solo na Área Urbana'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m04);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Situação das Áreas Públicas'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m05);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Postos de Guarda Vidas - Praias'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m06);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Necessidade de Rotas Acessíveis e Acessibilidade Atual'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m07);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Macrozoneamento Vigente'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m08);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Localizacao na Regiao Metropolitana'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m09);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Localizacao na AMFRI'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m10);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Locais de Implantação de Habitação de Interesse Social'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m11);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Identificação dos Programas Previstos'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m12);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Hierarquia Viária - Perimetro Urbano'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m13);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Hierarquia Viária - Escala Municipal'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m14);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Equipamentos Públicos'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m15);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Densidade Populacional x Quadras da Planta Cadastral'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m16);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Densidade Populacional x Bairros'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m17);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Concentração dos Pontos de Embarque Desembarque do Transporte Publ. Coletivo'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m18);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Censo 2010 -Densidade Demográfica'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m19);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Áreas Urbanas Consoliddas x Territorio Municipal'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m20);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Áreas Urbanas Consolidadas x Perímetro Urbano Estabelecido por Lei'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m21);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Arborização Urbana'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m22);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Abrangencia dos Equipamentos de Saúde'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m23);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Abrangencia dos Equipamentos de Esporte e Lazer'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m24);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Abrangencia dos Equipamentos de Educação'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m25);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Abrangencia dos Equipamentos de Assistencia Social'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m26);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Abrangência das Praças e Áreas Verdes'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m27);
+            }
+
+            else {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                //console.log(ui.newHeader["0"].textContent);
+                //console.log(ui.oldHeader["0"].textContent);
+            };
+        });
+    </script>
+</body>
+
+</html>

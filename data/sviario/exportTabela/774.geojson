@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4988",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63481428,
+            -26.93132388
+          ],
+          [
+            -48.63450405,
+            -26.93165237
+          ],
+          [
+            -48.63414356,
+            -26.93201099
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 734,
+      "nome": "R.Arnoldo Pollhein",
+      "cod": 774,
+      "ptotalvia": 10,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "3058/1995",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

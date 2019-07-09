@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5044",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63652947,
+            -26.94425889
+          ],
+          [
+            -48.63664609,
+            -26.94502717
+          ],
+          [
+            -48.63621416,
+            -26.94508889
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1651,
+      "nome": "R.Jovita Rodrigues Machado",
+      "cod": 826,
+      "ptotalvia": 5.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "4251/2004",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Jovita R.Machado",
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Nova Divinéia",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

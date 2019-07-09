@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c32",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70072889,
+            -26.91285868
+          ],
+          [
+            -48.70130124,
+            -26.91285466
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1183,
+      "nome": "R.Aristides Sperber",
+      "cod": 1296,
+      "ptotalvia": 4.2,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4089/2004",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.Aristides S.",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Vila Nova",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

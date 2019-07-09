@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49b2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63518649,
+            -26.92914691
+          ],
+          [
+            -48.63606872,
+            -26.92985769
+          ],
+          [
+            -48.63669096,
+            -26.93034197
+          ],
+          [
+            -48.63748554,
+            -26.9309551
+          ],
+          [
+            -48.63788874,
+            -26.93125857
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 729,
+      "nome": "R.Jorn.Roberto Mello de Faria",
+      "cod": 768,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1150/1972",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": "R.Jorn.Roberto M.de Faria",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Vila Mar",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

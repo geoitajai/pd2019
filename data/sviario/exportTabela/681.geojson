@@ -1,0 +1,94 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c2d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6577542,
+            -26.9128833
+          ],
+          [
+            -48.65697518,
+            -26.91228225
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2191,
+      "nome": "R.Domingos José Cabral",
+      "cod": 681,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0676/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.D.os.J.Cabral",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Arno Rothbarth",
+      "nomeloteamento": "Travessa \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d79",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65656022,
+            -26.91478095
+          ],
+          [
+            -48.65722277,
+            -26.91416219
+          ],
+          [
+            -48.65747971,
+            -26.91387579
+          ],
+          [
+            -48.65764293,
+            -26.91362534
+          ],
+          [
+            -48.65791214,
+            -26.91319434
+          ],
+          [
+            -48.65799163,
+            -26.91306648
+          ],
+          [
+            -48.6577542,
+            -26.9128833
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 644,
+      "nome": "R.Domingos José Cabral",
+      "cod": 681,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0676/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.D.os.J.Cabral",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

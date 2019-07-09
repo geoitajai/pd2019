@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50eb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.71254195,
+            -26.94335921
+          ],
+          [
+            -48.71181638,
+            -26.94337739
+          ],
+          [
+            -48.71036815,
+            -26.94342761
+          ],
+          [
+            -48.70963675,
+            -26.9434432
+          ],
+          [
+            -48.70931719,
+            -26.94345619
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1353,
+      "nome": "R.Arlindo Mafra",
+      "cod": 1474,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2655/1991",
+      "hierarquia": null,
+      "bairro": "Rio do Meio",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Residencial São Pedro",
+      "nomeloteamento": "Rua \"F\""
+    }
+  }
+]

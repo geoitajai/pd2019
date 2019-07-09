@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d7e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72598597,
+            -26.94041375
+          ],
+          [
+            -48.7260145,
+            -26.94070169
+          ],
+          [
+            -48.72599969,
+            -26.94099797
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1735,
+      "nome": "R.Érica Erbani",
+      "cod": 1438,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3112/1996",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

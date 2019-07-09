@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bc9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74976244,
+            -26.96990145
+          ],
+          [
+            -48.74920818,
+            -26.96971227
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1377,
+      "nome": "R.Belisário Corrêa",
+      "cod": 1498,
+      "ptotalvia": 5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3835/2002",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

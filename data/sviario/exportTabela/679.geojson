@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4929",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65662753,
+            -26.91857784
+          ],
+          [
+            -48.65516962,
+            -26.91732743
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 641,
+      "nome": "R.Eduardo Gonçalves Dutra",
+      "cod": 679,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0804/1967",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Eduardo G.Dutra",
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

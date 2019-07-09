@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48fb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67891122,
+            -26.92122594
+          ],
+          [
+            -48.67893161,
+            -26.92215466
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 550,
+      "nome": "R.Alois Wippel",
+      "cod": 571,
+      "ptotalvia": 12,
+      "ppasseio1": 5,
+      "ppasseio2": 2,
+      "leidata": "2230/1986",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Chimmene",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

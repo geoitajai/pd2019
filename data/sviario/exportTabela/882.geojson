@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49bc",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68939559,
+            -26.93345103
+          ],
+          [
+            -48.6885749,
+            -26.93286846
+          ],
+          [
+            -48.68757876,
+            -26.93217772
+          ],
+          [
+            -48.68607675,
+            -26.93116461
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 787,
+      "nome": "R.Otávio Müller",
+      "cod": 882,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2065/1983",
+      "hierarquia": null,
+      "bairro": "Carvalho",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Santa Terezinha",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

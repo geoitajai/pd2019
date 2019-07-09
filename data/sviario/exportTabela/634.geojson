@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4907",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65481911,
+            -26.91985085
+          ],
+          [
+            -48.65492144,
+            -26.92024298
+          ],
+          [
+            -48.65488024,
+            -26.92047076
+          ],
+          [
+            -48.65441933,
+            -26.92157462
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 596,
+      "nome": "R.Gregório Chaves",
+      "cod": 634,
+      "ptotalvia": 15,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "0727/3298",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ce4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65448851,
+            -26.92163008
+          ],
+          [
+            -48.65426827,
+            -26.92193782
+          ],
+          [
+            -48.65405619,
+            -26.92223416
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 597,
+      "nome": "R.Gregório Chaves",
+      "cod": 634,
+      "ptotalvia": 15,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "0727/3298",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

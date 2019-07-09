@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49fd",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67619921,
+            -26.92351307
+          ],
+          [
+            -48.67601759,
+            -26.92455395
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 763,
+      "nome": "R.Egon Muller",
+      "cod": 858,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3092/1992",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Parque Residencial Dom Bosco",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

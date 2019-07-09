@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4aae",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69474846,
+            -26.89414547
+          ],
+          [
+            -48.69482061,
+            -26.89515745
+          ],
+          [
+            -48.69487636,
+            -26.89621913
+          ],
+          [
+            -48.69494195,
+            -26.89690644
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1043,
+      "nome": "R.Max Tavares D´Amaral",
+      "cod": 1148,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Jardim Itá",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

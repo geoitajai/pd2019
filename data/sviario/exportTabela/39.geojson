@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44e5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69886442,
+            -26.90014447
+          ],
+          [
+            -48.69896503,
+            -26.90189108
+          ],
+          [
+            -48.69913937,
+            -26.90497342
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 55,
+      "nome": "R.Palhoça",
+      "cod": 39,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Rio Bonito I",
+      "nomeloteamento": "Rua \"E\""
+    }
+  }
+]

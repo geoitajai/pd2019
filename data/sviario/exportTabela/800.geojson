@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cb1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63317155,
+            -26.94871143
+          ],
+          [
+            -48.63312704,
+            -26.94836314
+          ],
+          [
+            -48.63310231,
+            -26.94806335
+          ],
+          [
+            -48.6330276,
+            -26.94743538
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1625,
+      "nome": "R.DonaNey Vianna Zaguini",
+      "cod": 800,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6173/2012",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.D.Ney V.Zaguini",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

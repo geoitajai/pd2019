@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4af6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.84895962,
+            -27.03954782
+          ],
+          [
+            -48.84622031,
+            -27.03971318
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1150,
+      "nome": "R.Perpétua Farias Khnis",
+      "cod": 1261,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3064/1996",
+      "hierarquia": null,
+      "bairro": "Limoeiro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4df7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67471454,
+            -26.92870449
+          ],
+          [
+            -48.67464567,
+            -26.92914307
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 773,
+      "nome": "R.Isaac José de Souza",
+      "cod": 868,
+      "ptotalvia": 12,
+      "ppasseio1": 4,
+      "ppasseio2": 4,
+      "leidata": "5387/2009",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": "R.Isaac J.de Souza",
+      "pavto": "Paver",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim das Palmeiras II",
+      "nomeloteamento": "Rua \"14\""
+    }
+  }
+]

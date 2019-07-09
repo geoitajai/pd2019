@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bde",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.77223973,
+            -26.99051354
+          ],
+          [
+            -48.77273149,
+            -26.99033865
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1400,
+      "nome": "Serv.Glaci da Silva Rosa",
+      "cod": 1519,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5463/2010",
+      "hierarquia": null,
+      "bairro": "Paciência",
+      "abrevlogr": "Serv.Glaci da S.Rosa",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

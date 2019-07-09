@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_444e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68865995,
+            -26.89948869
+          ],
+          [
+            -48.68820578,
+            -26.89951339
+          ],
+          [
+            -48.68805961,
+            -26.89998062
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 42,
+      "nome": "R.Alcides Nascimento",
+      "cod": 26,
+      "ptotalvia": 9,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3270/1998",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.Alcides Nasc.",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

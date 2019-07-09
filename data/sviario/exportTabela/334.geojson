@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4853",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.667522,
+            -26.91208575
+          ],
+          [
+            -48.66858827,
+            -26.91335539
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 335,
+      "nome": "Trav.Bernardino João Vitorino",
+      "cod": 334,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "0314/1959",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "Trav.Bernardino\\nJ.Vitorino",
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Umbelino de Brito",
+      "nomeloteamento": "Rua Projetada \"1\""
+    }
+  }
+]

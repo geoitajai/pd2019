@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c77",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74621831,
+            -26.86626769
+          ],
+          [
+            -48.74597123,
+            -26.86628364
+          ],
+          [
+            -48.74547254,
+            -26.86630573
+          ],
+          [
+            -48.74486758,
+            -26.86635701
+          ],
+          [
+            -48.74448692,
+            -26.86637547
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1584,
+      "nome": "Av.Projetada K",
+      "cod": 1598,
+      "ptotalvia": 18,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Santa Regina 02, loteamento",
+      "nomeloteamento": "Rua Projetada \"K\""
+    }
+  }
+]

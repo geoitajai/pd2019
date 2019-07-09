@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4eb0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69577976,
+            -26.92410518
+          ],
+          [
+            -48.69601339,
+            -26.92444819
+          ],
+          [
+            -48.6973658,
+            -26.9264144
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 894,
+      "nome": "R.Euclydes Adão Peixer",
+      "cod": 993,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2911/1994",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Padre Schmitt",
+      "nomeloteamento": "Rua \"5\""
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d9c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74495322,
+            -26.88504931
+          ],
+          [
+            -48.7446915,
+            -26.88180979
+          ],
+          [
+            -48.74441298,
+            -26.87872501
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 25,
+      "nome": "R.Antônio Carlos Figueiredo",
+      "cod": 1557,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "6.731/2016",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Jardim Amélia",
+      "nomeloteamento": "Rua Projetada \"H\""
+    }
+  }
+]

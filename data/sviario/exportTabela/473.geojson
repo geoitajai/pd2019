@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_488b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67244515,
+            -26.88464419
+          ],
+          [
+            -48.67163219,
+            -26.88542848
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 459,
+      "nome": "Trav.Pedro Rita dos Passos",
+      "cod": 473,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3740/2002",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "Trav.Pedro R.dos Passos",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Leopoldo Zarling",
+      "nomeloteamento": "Rua \"7\""
+    }
+  }
+]

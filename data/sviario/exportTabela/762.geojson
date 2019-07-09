@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4973",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63552224,
+            -26.92563198
+          ],
+          [
+            -48.63479412,
+            -26.92510054
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 724,
+      "nome": "R.Augusto Luiz Voigi",
+      "cod": 762,
+      "ptotalvia": 7.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": "R.Augusto L.Voigt",
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

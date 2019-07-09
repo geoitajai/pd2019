@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a67",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69454714,
+            -26.89416749
+          ],
+          [
+            -48.6944728,
+            -26.89285653
+          ],
+          [
+            -48.69436057,
+            -26.89106262
+          ],
+          [
+            -48.69428041,
+            -26.88926089
+          ],
+          [
+            -48.69419004,
+            -26.88752543
+          ],
+          [
+            -48.69395109,
+            -26.88355312
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1006,
+      "nome": "R.Santo Agostinho",
+      "cod": 1112,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

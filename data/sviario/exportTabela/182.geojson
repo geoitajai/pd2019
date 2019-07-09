@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4652",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6775011,
+            -26.8971822
+          ],
+          [
+            -48.67749995,
+            -26.8973412
+          ],
+          [
+            -48.67741799,
+            -26.89748503
+          ],
+          [
+            -48.67724878,
+            -26.89776798
+          ],
+          [
+            -48.67706194,
+            -26.89821204
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 192,
+      "nome": "R.Deogracio de Oliveira",
+      "cod": 182,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

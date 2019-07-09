@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c03",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69312629,
+            -26.87734342
+          ],
+          [
+            -48.69251024,
+            -26.87737083
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1420,
+      "nome": "R.W Lot.Beira Rio",
+      "cod": 1548,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.W Lot. Beira Rio",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Jardim Beira Rio",
+      "nomeloteamento": "Rua \"W\""
+    }
+  }
+]

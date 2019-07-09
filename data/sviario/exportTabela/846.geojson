@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_498d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68470363,
+            -26.92894292
+          ],
+          [
+            -48.68410021,
+            -26.92852773
+          ],
+          [
+            -48.68372963,
+            -26.92829382
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 751,
+      "nome": "R.Odílio Pereira",
+      "cod": 846,
+      "ptotalvia": 8,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3005/1995",
+      "hierarquia": null,
+      "bairro": "Carvalho",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Elemer Seeberg",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

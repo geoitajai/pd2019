@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4aab",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69594219,
+            -26.89145171
+          ],
+          [
+            -48.69600441,
+            -26.89276261
+          ],
+          [
+            -48.69607501,
+            -26.89400947
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1037,
+      "nome": "R.Lausimar Laus",
+      "cod": 1142,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim São Luiz",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

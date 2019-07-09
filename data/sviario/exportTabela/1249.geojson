@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c89",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.85776356,
+            -27.03454888
+          ],
+          [
+            -48.85757277,
+            -27.03514058
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1576,
+      "nome": "R.João Galdino Leite",
+      "cod": 1249,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3788/2002",
+      "hierarquia": null,
+      "bairro": "Limoeiro",
+      "abrevlogr": "R.João G.Leite",
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

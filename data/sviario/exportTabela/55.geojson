@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44bc",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69210159,
+            -26.8961963
+          ],
+          [
+            -48.69048383,
+            -26.89625785
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 73,
+      "nome": "R.Guilherme Genuíno Rhenius",
+      "cod": 55,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3516/2000",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.Guilherme G.Rhenius",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

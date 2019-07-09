@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_509e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69973719,
+            -26.89755736
+          ],
+          [
+            -48.69974097,
+            -26.89767875
+          ],
+          [
+            -48.69976366,
+            -26.89812047
+          ],
+          [
+            -48.69977437,
+            -26.8982132
+          ],
+          [
+            -48.69980147,
+            -26.89868695
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1109,
+      "nome": "Trav.Terezinha",
+      "cod": 1213,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Abdon Fóes, Conjunto Residencial Jornalista",
+      "nomeloteamento": "Travessa \"6\""
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bae",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70937056,
+            -26.94098714
+          ],
+          [
+            -48.709425,
+            -26.94245176
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1355,
+      "nome": "R.Anair de Souza",
+      "cod": 1476,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2926/1994",
+      "hierarquia": null,
+      "bairro": "Rio do Meio",
+      "abrevlogr": "R.Anair de Souza",
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Jardim Quero-Quero",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

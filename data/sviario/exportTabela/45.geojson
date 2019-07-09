@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44e8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69500251,
+            -26.89785245
+          ],
+          [
+            -48.69511113,
+            -26.89927442
+          ],
+          [
+            -48.69521232,
+            -26.90054308
+          ],
+          [
+            -48.6954021,
+            -26.90304787
+          ],
+          [
+            -48.69539143,
+            -26.90323849
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 61,
+      "nome": "R.Olavo Bilac",
+      "cod": 45,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Paralelepípedo)",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Jardim Emita",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50f7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69539143,
+            -26.90323849
+          ],
+          [
+            -48.69537753,
+            -26.90348683
+          ],
+          [
+            -48.69547348,
+            -26.90516145
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2037,
+      "nome": "R.Olavo Bilac",
+      "cod": 45,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2406/1988",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Paralelepípedo)",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

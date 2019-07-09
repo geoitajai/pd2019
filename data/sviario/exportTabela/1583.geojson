@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c7f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.77888358,
+            -26.9886028
+          ],
+          [
+            -48.77893617,
+            -26.98933184
+          ],
+          [
+            -48.77920167,
+            -26.99219801
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1565,
+      "nome": "R.Juvencio Graviz Mafra",
+      "cod": 1583,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6534/2014",
+      "hierarquia": null,
+      "bairro": "Paciência",
+      "abrevlogr": "R.Juvencio G.Mafra",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

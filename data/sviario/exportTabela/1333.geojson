@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b3f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74964471,
+            -26.87927668
+          ],
+          [
+            -48.7490266,
+            -26.87931865
+          ],
+          [
+            -48.74841999,
+            -26.87935787
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1230,
+      "nome": "R.Lícia Rosa Duarte",
+      "cod": 1333,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4681/2006",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "R.Lícia R.Duarte",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Santa Regina 1",
+      "nomeloteamento": "Rua \"8\""
+    }
+  }
+]

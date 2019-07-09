@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48ba",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68252045,
+            -26.91223207
+          ],
+          [
+            -48.68283432,
+            -26.91227261
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 518,
+      "nome": "Serv.Celeste Pereira Kracik",
+      "cod": 533,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4185/2004",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": "Serv.Celeste P.Kracik",
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

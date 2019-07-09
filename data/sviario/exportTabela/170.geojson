@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ccf",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6780507,
+            -26.89664706
+          ],
+          [
+            -48.67751821,
+            -26.89666703
+          ],
+          [
+            -48.67743931,
+            -26.89666629
+          ],
+          [
+            -48.67736901,
+            -26.89664116
+          ],
+          [
+            -48.67676539,
+            -26.89615722
+          ],
+          [
+            -48.67634043,
+            -26.89581501
+          ],
+          [
+            -48.67604139,
+            -26.8955775
+          ],
+          [
+            -48.67418791,
+            -26.89411117
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 180,
+      "nome": "R.Anísio Costa",
+      "cod": 170,
+      "ptotalvia": 7,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0735/1966",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

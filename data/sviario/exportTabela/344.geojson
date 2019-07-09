@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4825",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66755836,
+            -26.91089164
+          ],
+          [
+            -48.66724903,
+            -26.91125943
+          ],
+          [
+            -48.66704809,
+            -26.91163192
+          ],
+          [
+            -48.6668921,
+            -26.91180639
+          ],
+          [
+            -48.66643577,
+            -26.91220954
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 343,
+      "nome": "R.Mathias Olinger",
+      "cod": 344,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

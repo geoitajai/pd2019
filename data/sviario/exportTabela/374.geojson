@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4407",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66152932,
+            -26.91291042
+          ],
+          [
+            -48.66349059,
+            -26.91454892
+          ],
+          [
+            -48.6639308,
+            -26.91488133
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 19,
+      "nome": "R.José Paulo da Silva",
+      "cod": 374,
+      "ptotalvia": 9.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "768/1967",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.José P.da Silva",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Cia. Comércio Indústria Malburg",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4838",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66433135,
+            -26.91449941
+          ],
+          [
+            -48.6639308,
+            -26.91488133
+          ],
+          [
+            -48.66384956,
+            -26.9149627
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 370,
+      "nome": "R.José Paulo da Silva",
+      "cod": 374,
+      "ptotalvia": 9.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "768/1967",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.José P.da Silva",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

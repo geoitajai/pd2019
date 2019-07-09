@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4774",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68346036,
+            -26.90771252
+          ],
+          [
+            -48.67801374,
+            -26.90788443
+          ],
+          [
+            -48.67755039,
+            -26.90775022
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 262,
+      "nome": "R.Vicente Meirinho",
+      "cod": 254,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "out/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

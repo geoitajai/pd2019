@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4959",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64578343,
+            -26.92797866
+          ],
+          [
+            -48.64798963,
+            -26.92916521
+          ],
+          [
+            -48.64928211,
+            -26.92987953
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 670,
+      "nome": "R.Jorge Fernandes",
+      "cod": 708,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1703/1979",
+      "hierarquia": null,
+      "bairro": "Fazendinha",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Luciana",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

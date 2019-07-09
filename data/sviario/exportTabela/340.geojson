@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_484a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66848967,
+            -26.91081619
+          ],
+          [
+            -48.66641531,
+            -26.9092135
+          ],
+          [
+            -48.66626263,
+            -26.909097
+          ],
+          [
+            -48.66526251,
+            -26.90830839
+          ],
+          [
+            -48.66482433,
+            -26.90796812
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 340,
+      "nome": "R.Anita Garibaldi",
+      "cod": 340,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0309/1959",
+      "hierarquia": "coletora",
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Eurico Adam I",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e72",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66482433,
+            -26.90796812
+          ],
+          [
+            -48.66350438,
+            -26.90694308
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1792,
+      "nome": "R.Anita Garibaldi",
+      "cod": 340,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0309/1959",
+      "hierarquia": "coletora",
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

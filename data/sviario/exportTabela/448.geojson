@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d43",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67374508,
+            -26.89082184
+          ],
+          [
+            -48.67230772,
+            -26.88987403
+          ],
+          [
+            -48.6687688,
+            -26.88750284
+          ],
+          [
+            -48.66799986,
+            -26.88696747
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 434,
+      "nome": "R.Dr.Felipe Alencastro",
+      "cod": 448,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1210/1973",
+      "hierarquia": null,
+      "bairro": "Imaruí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

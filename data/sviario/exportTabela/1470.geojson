@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bad",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7132313,
+            -26.9429006
+          ],
+          [
+            -48.7132413,
+            -26.94381986
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1349,
+      "nome": "R.Manoel da Silva",
+      "cod": 1470,
+      "ptotalvia": 8,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2481/1993",
+      "hierarquia": null,
+      "bairro": "Rio do Meio",
+      "abrevlogr": "R.M.el.da Silva",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

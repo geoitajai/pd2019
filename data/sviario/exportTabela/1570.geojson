@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c60",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73878177,
+            -26.89752176
+          ],
+          [
+            -48.73875177,
+            -26.89813646
+          ],
+          [
+            -48.73880731,
+            -26.89831767
+          ],
+          [
+            -48.73895335,
+            -26.89841016
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1535,
+      "nome": "R.Leôncio João Cordeiros",
+      "cod": 1570,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "R.Leôncio J.Cordeiros",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

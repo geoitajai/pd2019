@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4908",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65483492,
+            -26.9205773
+          ],
+          [
+            -48.65639651,
+            -26.92191455
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 598,
+      "nome": "R.Júlia Raulina Chaves",
+      "cod": 636,
+      "ptotalvia": 7.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2478/1989",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

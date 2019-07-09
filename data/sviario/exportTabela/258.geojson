@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4782",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67499936,
+            -26.90747653
+          ],
+          [
+            -48.67525179,
+            -26.90686616
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 266,
+      "nome": "Serv.José Vieira",
+      "cod": 258,
+      "ptotalvia": 1.7,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4209/2004",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

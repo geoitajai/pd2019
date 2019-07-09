@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c5b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70481241,
+            -26.91277204
+          ],
+          [
+            -48.7053028,
+            -26.91273821
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1525,
+      "nome": "Serv.Heryk Fellipe de Oliveira Pereira",
+      "cod": 1559,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5692/2011",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "Serv.Heryk F.de O.P.ra.",
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

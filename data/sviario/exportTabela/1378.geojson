@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b6e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73616287,
+            -26.88844095
+          ],
+          [
+            -48.73564252,
+            -26.88855224
+          ],
+          [
+            -48.73514085,
+            -26.88864376
+          ],
+          [
+            -48.73461702,
+            -26.88876084
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1257,
+      "nome": "R.Atilio Dalsóquio",
+      "cod": 1378,
+      "ptotalvia": 26,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "4018/2003",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Residencial Portal I",
+      "nomeloteamento": "Avenida Projetada"
+    }
+  }
+]

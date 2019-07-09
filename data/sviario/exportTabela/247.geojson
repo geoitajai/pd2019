@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4698",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67353853,
+            -26.90504555
+          ],
+          [
+            -48.67348723,
+            -26.90574325
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 210,
+      "nome": "R.Armindo Minella",
+      "cod": 247,
+      "ptotalvia": 4.5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3441/1999",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

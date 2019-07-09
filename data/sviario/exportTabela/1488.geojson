@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bbe",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.75659809,
+            -26.9570109
+          ],
+          [
+            -48.75631716,
+            -26.95693714
+          ],
+          [
+            -48.75610591,
+            -26.95693131
+          ],
+          [
+            -48.75590337,
+            -26.95694684
+          ],
+          [
+            -48.75560719,
+            -26.95694684
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1367,
+      "nome": "Serv.Silvio Ernesto da Silva",
+      "cod": 1488,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5303/2009",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "Serv.Silvio E.da Silva",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

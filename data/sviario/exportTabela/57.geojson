@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_449e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69332468,
+            -26.89745401
+          ],
+          [
+            -48.69330841,
+            -26.89725711
+          ],
+          [
+            -48.69329727,
+            -26.89712227
+          ],
+          [
+            -48.69321113,
+            -26.89697736
+          ],
+          [
+            -48.69303884,
+            -26.89689355
+          ],
+          [
+            -48.69211716,
+            -26.89691843
+          ],
+          [
+            -48.69051559,
+            -26.89697293
+          ],
+          [
+            -48.68862402,
+            -26.89701402
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 75,
+      "nome": "R.Rui Vieira",
+      "cod": 57,
+      "ptotalvia": 8,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

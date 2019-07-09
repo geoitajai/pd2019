@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a4d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69674521,
+            -26.87653948
+          ],
+          [
+            -48.69679659,
+            -26.87781975
+          ],
+          [
+            -48.69681463,
+            -26.87862788
+          ],
+          [
+            -48.69684987,
+            -26.87950488
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 983,
+      "nome": "R.Luiz José Medeiros",
+      "cod": 1086,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jul/13",
+      "loteamnome": "Jardim Progresso II",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5078",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69684987,
+            -26.87950488
+          ],
+          [
+            -48.6969223,
+            -26.88130753
+          ],
+          [
+            -48.69700538,
+            -26.8835813
+          ],
+          [
+            -48.69707972,
+            -26.88567367
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1932,
+      "nome": "R.Luiz José Medeiros",
+      "cod": 1086,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jul/13",
+      "loteamnome": "Jardim Progresso I",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

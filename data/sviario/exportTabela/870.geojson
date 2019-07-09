@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49b9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67513728,
+            -26.93004516
+          ],
+          [
+            -48.67364461,
+            -26.93003162
+          ],
+          [
+            -48.6704053,
+            -26.92998953
+          ],
+          [
+            -48.66992813,
+            -26.92983164
+          ],
+          [
+            -48.66840317,
+            -26.92980094
+          ],
+          [
+            -48.66833922,
+            -26.92957288
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 775,
+      "nome": "R.Irene Bonanomi da Silva",
+      "cod": 870,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3923/2003",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Ressacada Parque Residencial",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

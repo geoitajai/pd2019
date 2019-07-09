@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5095",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72011821,
+            -26.88059217
+          ],
+          [
+            -48.71984643,
+            -26.88060837
+          ],
+          [
+            -48.71955863,
+            -26.88062981
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1174,
+      "nome": "R.Hermes Justino Patrianova",
+      "cod": 1285,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4899/2007",
+      "hierarquia": null,
+      "bairro": "Salseiros",
+      "abrevlogr": "R.Hermes J.Patrianova",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Guilhermo",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

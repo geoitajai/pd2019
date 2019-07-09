@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a00",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70977468,
+            -26.94245176
+          ],
+          [
+            -48.7096047,
+            -26.94245089
+          ],
+          [
+            -48.709425,
+            -26.94245178
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2146,
+      "nome": "R.Clair Brun da Silva",
+      "cod": 1475,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3008/1995",
+      "hierarquia": null,
+      "bairro": "Rio do Meio",
+      "abrevlogr": "R.Clair B.da Silva",
+      "pavto": "Lajota",
+      "anopavtoin": "dez/16",
+      "loteamnome": "Jardim Quero-Quero",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bac",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70973634,
+            -26.94115018
+          ],
+          [
+            -48.70977468,
+            -26.94245176
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1354,
+      "nome": "R.Clair Brun da Silva",
+      "cod": 1475,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3008/1995",
+      "hierarquia": null,
+      "bairro": "Rio do Meio",
+      "abrevlogr": "R.Clair B.da Silva",
+      "pavto": "Lajota",
+      "anopavtoin": "dez/16",
+      "loteamnome": "Jardim Quero-Quero",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

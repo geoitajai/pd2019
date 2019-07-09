@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d19",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64160005,
+            -26.95413534
+          ],
+          [
+            -48.6416064,
+            -26.95300522
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1630,
+      "nome": "Av.Márcio Ferreira de Mello e Silva",
+      "cod": 805,
+      "ptotalvia": 15,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "4757/2007",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "Av.Márcio F.de Mello e Silva",
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ce3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64046003,
+            -26.94708929
+          ],
+          [
+            -48.6375007,
+            -26.9473282
+          ],
+          [
+            -48.63695172,
+            -26.947229
+          ],
+          [
+            -48.6363434,
+            -26.94729513
+          ],
+          [
+            -48.63571186,
+            -26.94741365
+          ],
+          [
+            -48.63457705,
+            -26.94732958
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1642,
+      "nome": "R.CaboPM Antonio Rudolf",
+      "cod": 817,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2909/1994",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4903",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65514541,
+            -26.91512367
+          ],
+          [
+            -48.65475114,
+            -26.91480522
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 592,
+      "nome": "Serv.Lourenço Cardoso Valente",
+      "cod": 630,
+      "ptotalvia": 3,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4172/2004",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "Serv.Lourenço C.Valente",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

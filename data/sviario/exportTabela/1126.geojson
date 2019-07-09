@@ -1,0 +1,110 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a7b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68752489,
+            -26.88998545
+          ],
+          [
+            -48.68758392,
+            -26.89079272
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1021,
+      "nome": "R.Rachel Liberato Meyer",
+      "cod": 1126,
+      "ptotalvia": 7.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Rachel L.Meyer",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Adão Jacob Wandal",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4dce",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68736256,
+            -26.89081907
+          ],
+          [
+            -48.68742323,
+            -26.89199923
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1755,
+      "nome": "R.Rachel Liberato Meyer",
+      "cod": 1126,
+      "ptotalvia": 7.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Rachel L.Meyer",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Adão Jacob Wandal",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4dcf",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68758392,
+            -26.89079272
+          ],
+          [
+            -48.68736256,
+            -26.89081905
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1756,
+      "nome": "R.Rachel Liberato Meyer",
+      "cod": 1126,
+      "ptotalvia": 7.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "R.Rachel L.Meyer",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "Adão Jacob Wandal",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4911",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65258387,
+            -26.92112183
+          ],
+          [
+            -48.65209768,
+            -26.92072139
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 608,
+      "nome": "R.Sebastião Bonifácio Cardoso",
+      "cod": 646,
+      "ptotalvia": 3.5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3520/2000",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Sebastião B.Cardoso",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_444b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70061268,
+            -26.87851782
+          ],
+          [
+            -48.70013446,
+            -26.87854415
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 4,
+      "nome": "R.Itamar Bruno de Carvalho",
+      "cod": 1066,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "5471/2010",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.Itamar B. de Carvalho",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Vila Nova",
+      "nomeloteamento": "Rua \"E\""
+    }
+  }
+]

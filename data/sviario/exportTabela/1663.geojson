@@ -1,0 +1,75 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d4d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": []
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1712,
+      "nome": "R.Egídia dos Santos Evaristo",
+      "cod": 1663,
+      "ptotalvia": 0,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d4e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.75889549,
+            -26.88649888
+          ],
+          [
+            -48.7591716,
+            -26.88657421
+          ],
+          [
+            -48.75953162,
+            -26.88666328
+          ],
+          [
+            -48.75989558,
+            -26.88671016
+          ],
+          [
+            -48.76047503,
+            -26.88666914
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1713,
+      "nome": "R.Egídia dos Santos Evaristo",
+      "cod": 1663,
+      "ptotalvia": 0,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

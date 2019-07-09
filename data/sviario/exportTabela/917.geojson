@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d1f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69380084,
+            -26.92003519
+          ],
+          [
+            -48.69265046,
+            -26.92023509
+          ],
+          [
+            -48.69212869,
+            -26.92032134
+          ],
+          [
+            -48.69157071,
+            -26.92041332
+          ],
+          [
+            -48.69105421,
+            -26.92049897
+          ],
+          [
+            -48.69022989,
+            -26.92062558
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 822,
+      "nome": "R.Arnoldo Corrêa de Mello",
+      "cod": 917,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/12",
+      "loteamnome": "Promorar I (Conj. Hab. Amizade)",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

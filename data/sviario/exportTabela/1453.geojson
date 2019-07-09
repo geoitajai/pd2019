@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b9f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74861816,
+            -26.94277569
+          ],
+          [
+            -48.74871053,
+            -26.94480124
+          ],
+          [
+            -48.74879551,
+            -26.94605936
+          ],
+          [
+            -48.74884723,
+            -26.9466489
+          ],
+          [
+            -48.74895068,
+            -26.94755131
+          ],
+          [
+            -48.74895268,
+            -26.94830218
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1333,
+      "nome": "R.Antônio Bento da Silva",
+      "cod": 1453,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1753/1979",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

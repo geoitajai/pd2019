@@ -1,0 +1,118 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_47be",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67072716,
+            -26.9026133
+          ],
+          [
+            -48.6710861,
+            -26.90275593
+          ],
+          [
+            -48.67177661,
+            -26.90332219
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 245,
+      "nome": "R.Ver.Claudino José Francisco Pacheco",
+      "cod": 236,
+      "ptotalvia": 10.8,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1696/1979",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.Ver.Claudino J.F.Pacheco",
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50d9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67222694,
+            -26.90337927
+          ],
+          [
+            -48.67226043,
+            -26.90384967
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2031,
+      "nome": "R.Ver.Claudino José Francisco Pacheco",
+      "cod": 236,
+      "ptotalvia": 10.8,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1696/1979",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.Ver.Claudino J.F.Pacheco",
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "José Dadam (Produtora de Pinho)",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50da",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67177661,
+            -26.90332219
+          ],
+          [
+            -48.67184622,
+            -26.90337927
+          ],
+          [
+            -48.67222694,
+            -26.90337927
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2032,
+      "nome": "R.Ver.Claudino José Francisco Pacheco",
+      "cod": 236,
+      "ptotalvia": 10.8,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1696/1979",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.Ver.Claudino J.F.Pacheco",
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "José Dadam (Produtora de Pinho)",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

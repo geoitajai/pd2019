@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49ea",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70645161,
+            -26.91903264
+          ],
+          [
+            -48.70573721,
+            -26.91844805
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 830,
+      "nome": "R.Mauro Carlos Bertemes",
+      "cod": 927,
+      "ptotalvia": 15,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "3051/1995",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Jardim Dona Mariquinha, Promorar II",
+      "nomeloteamento": "Rua \"2\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50d5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70573721,
+            -26.91844805
+          ],
+          [
+            -48.70567437,
+            -26.91839664
+          ],
+          [
+            -48.70429699,
+            -26.91795362
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1995,
+      "nome": "R.Mauro Carlos Bertemes",
+      "cod": 927,
+      "ptotalvia": 15,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "3051/1995",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Mariana",
+      "nomeloteamento": "Rua\"A\""
+    }
+  }
+]

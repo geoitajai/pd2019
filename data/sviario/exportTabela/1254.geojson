@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4af1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.84291469,
+            -27.0446933
+          ],
+          [
+            -48.84183936,
+            -27.04473708
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1143,
+      "nome": "R.Maria Dognini",
+      "cod": 1254,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3130/1996",
+      "hierarquia": null,
+      "bairro": "Limoeiro",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "abr/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

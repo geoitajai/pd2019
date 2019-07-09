@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_490b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65441933,
+            -26.92157462
+          ],
+          [
+            -48.65448851,
+            -26.92163008
+          ],
+          [
+            -48.65461471,
+            -26.92173004
+          ],
+          [
+            -48.65475389,
+            -26.92195047
+          ],
+          [
+            -48.65474473,
+            -26.92205823
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 600,
+      "nome": "R.Irmã Maria Zélia",
+      "cod": 638,
+      "ptotalvia": 5.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3758/2002",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Ir.M.a.Zélia",
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

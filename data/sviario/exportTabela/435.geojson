@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5179",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68001834,
+            -26.88947264
+          ],
+          [
+            -48.68017628,
+            -26.8896004
+          ],
+          [
+            -48.6803636,
+            -26.88998695
+          ],
+          [
+            -48.68065377,
+            -26.89056678
+          ],
+          [
+            -48.68068157,
+            -26.89135499
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 422,
+      "nome": "R.João Pinto Amaral",
+      "cod": 435,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0920/1968",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": "R.João P.Amaral",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Curt Hering, Jardim",
+      "nomeloteamento": "Rua \"2\""
+    }
+  }
+]

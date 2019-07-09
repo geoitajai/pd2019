@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a5d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69448947,
+            -26.87868346
+          ],
+          [
+            -48.69461752,
+            -26.88132385
+          ],
+          [
+            -48.69468967,
+            -26.8827513
+          ],
+          [
+            -48.69475854,
+            -26.88288
+          ],
+          [
+            -48.69480773,
+            -26.88366684
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 986,
+      "nome": "R.Silvestro Moser",
+      "cod": 1089,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2813/1993",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b38",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.75056079,
+            -26.87341098
+          ],
+          [
+            -48.75070849,
+            -26.87523466
+          ],
+          [
+            -48.75100114,
+            -26.87829885
+          ],
+          [
+            -48.75130747,
+            -26.8813776
+          ],
+          [
+            -48.75147824,
+            -26.88303054
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1222,
+      "nome": "R.Domingos Nunes dos Santos",
+      "cod": 1325,
+      "ptotalvia": 12,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "6589/2014",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "São Domingos",
+      "nomeloteamento": "Rua\"A\""
+    }
+  }
+]

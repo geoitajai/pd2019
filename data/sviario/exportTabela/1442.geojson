@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b95",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73078404,
+            -26.94266001
+          ],
+          [
+            -48.73080267,
+            -26.94307001
+          ],
+          [
+            -48.73084454,
+            -26.94330715
+          ],
+          [
+            -48.73101964,
+            -26.9459445
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1322,
+      "nome": "R.Leonardo Severo Pereira",
+      "cod": 1442,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2377 (2527) / 1988 (1989)",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "R.Leonardo S.P.ra.",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

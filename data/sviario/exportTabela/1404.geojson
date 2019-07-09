@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b66",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7568069,
+            -26.91102642
+          ],
+          [
+            -48.75720037,
+            -26.91093753
+          ],
+          [
+            -48.75731999,
+            -26.91080864
+          ],
+          [
+            -48.75720535,
+            -26.91011973
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1287,
+      "nome": "Serv.José Dalsóquio",
+      "cod": 1404,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4299/2005",
+      "hierarquia": null,
+      "bairro": "São Roque",
+      "abrevlogr": "Serv.José Dalsóquio",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4844",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66518256,
+            -26.91074548
+          ],
+          [
+            -48.66464651,
+            -26.91121989
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 389,
+      "nome": "Serv.João Melo",
+      "cod": 400,
+      "ptotalvia": 9.3,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1876/1981",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

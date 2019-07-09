@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c91",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.85685739,
+            -27.03530759
+          ],
+          [
+            -48.85631303,
+            -27.03487632
+          ],
+          [
+            -48.85631138,
+            -27.03473557
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1578,
+      "nome": "R.Arnaldo João de Souza",
+      "cod": 1590,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Limoeiro",
+      "abrevlogr": "R.Arnaldo J.de Souza",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

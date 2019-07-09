@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48a0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67052853,
+            -26.90606428
+          ],
+          [
+            -48.67066893,
+            -26.90736043
+          ],
+          [
+            -48.6709426,
+            -26.90969257
+          ],
+          [
+            -48.67143086,
+            -26.91389204
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 478,
+      "nome": "R.Carlos Seara",
+      "cod": 492,
+      "ptotalvia": 13.2,
+      "ppasseio1": 1.8,
+      "ppasseio2": 1.8,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

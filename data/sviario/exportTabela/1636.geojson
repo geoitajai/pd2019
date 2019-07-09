@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d0e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69753946,
+            -26.91465106
+          ],
+          [
+            -48.69743716,
+            -26.91347841
+          ],
+          [
+            -48.69736628,
+            -26.91266599
+          ],
+          [
+            -48.69712408,
+            -26.91268693
+          ],
+          [
+            -48.69591174,
+            -26.91279178
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1684,
+      "nome": "R.Jair Norberto da Rocha",
+      "cod": 1636,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6939/2018",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

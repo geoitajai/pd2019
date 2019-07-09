@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49ee",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70274538,
+            -26.92236538
+          ],
+          [
+            -48.70210793,
+            -26.92183101
+          ],
+          [
+            -48.70194519,
+            -26.92165776
+          ],
+          [
+            -48.70143992,
+            -26.92093713
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 842,
+      "nome": "R.Aldhemar Veiga",
+      "cod": 940,
+      "ptotalvia": 15,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "2780/1992",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Jardim Dona Mariquinha, Promorar II",
+      "nomeloteamento": "Rua \"10\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_506d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70143992,
+            -26.92093713
+          ],
+          [
+            -48.70031529,
+            -26.91933309
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1940,
+      "nome": "R.Aldhemar Veiga",
+      "cod": 940,
+      "ptotalvia": 15,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "2780/1992",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Jardim Residencial Verde Vale",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

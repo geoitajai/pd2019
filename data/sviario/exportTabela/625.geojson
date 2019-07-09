@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4901",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65453348,
+            -26.9112724
+          ],
+          [
+            -48.65561737,
+            -26.91165948
+          ],
+          [
+            -48.65523419,
+            -26.91253758
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 588,
+      "nome": "R.Manoel Dono Morgado",
+      "cod": 625,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0636/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.M.el.D.Morgado",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

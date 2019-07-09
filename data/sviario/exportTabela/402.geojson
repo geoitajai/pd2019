@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4da7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66259387,
+            -26.91279916
+          ],
+          [
+            -48.66241439,
+            -26.9129825
+          ],
+          [
+            -48.66221333,
+            -26.91317483
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 391,
+      "nome": "Trav.Jorge Mattos",
+      "cod": 402,
+      "ptotalvia": 8,
+      "ppasseio1": 1.25,
+      "ppasseio2": 1.25,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

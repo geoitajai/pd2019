@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c9d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.79862108,
+            -27.06656922
+          ],
+          [
+            -48.79830542,
+            -27.0665905
+          ],
+          [
+            -48.79791075,
+            -27.06659125
+          ],
+          [
+            -48.79769899,
+            -27.0666041
+          ],
+          [
+            -48.79757146,
+            -27.06666214
+          ],
+          [
+            -48.79743109,
+            -27.0668493
+          ],
+          [
+            -48.79731659,
+            -27.06703224
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1603,
+      "nome": "R.Thaiara Kemily Polheim",
+      "cod": 1610,
+      "ptotalvia": 20,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "6552/2014",
+      "hierarquia": null,
+      "bairro": "Brilhante II",
+      "abrevlogr": "R.Thaiara K.Polheim",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4916",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65120291,
+            -26.91782836
+          ],
+          [
+            -48.65200085,
+            -26.91847117
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 615,
+      "nome": "R.Júlio Coutinho",
+      "cod": 653,
+      "ptotalvia": 15,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "3279/1998",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

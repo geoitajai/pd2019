@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4989",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65018874,
+            -26.92733471
+          ],
+          [
+            -48.65033006,
+            -26.92753125
+          ],
+          [
+            -48.65036348,
+            -26.92768967
+          ],
+          [
+            -48.65062671,
+            -26.9291421
+          ],
+          [
+            -48.65076033,
+            -26.92992559
+          ],
+          [
+            -48.651969,
+            -26.93342471
+          ],
+          [
+            -48.65208084,
+            -26.93374848
+          ],
+          [
+            -48.65224899,
+            -26.93402626
+          ],
+          [
+            -48.65231329,
+            -26.93431286
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 669,
+      "nome": "R.João Fernandes Vieira Junior",
+      "cod": 707,
+      "ptotalvia": 10.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2595/1990",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Padre Jacó",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

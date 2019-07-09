@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4646",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67321231,
+            -26.89536324
+          ],
+          [
+            -48.67217882,
+            -26.89451704
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 184,
+      "nome": "R.José Neri dos Santos",
+      "cod": 174,
+      "ptotalvia": 3,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "1002/1970",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.José N.dos Sto.",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

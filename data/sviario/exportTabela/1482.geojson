@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bb4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68676075,
+            -26.94612689
+          ],
+          [
+            -48.68697778,
+            -26.94646882
+          ],
+          [
+            -48.68709538,
+            -26.94772027
+          ],
+          [
+            -48.68669847,
+            -26.94823133
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1361,
+      "nome": "R.Adélia Schaefer Moser",
+      "cod": 1482,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "5368/2009",
+      "hierarquia": null,
+      "bairro": "Canhanduba",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/05",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

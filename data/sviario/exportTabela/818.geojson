@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cc1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64021006,
+            -26.94549278
+          ],
+          [
+            -48.64100062,
+            -26.94539312
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1643,
+      "nome": "Serv.Leonel Miguel dos Santos",
+      "cod": 818,
+      "ptotalvia": 5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2213/1985",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "Serv.Leonel M.dos Sto.",
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

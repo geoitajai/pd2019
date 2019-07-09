@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4805",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66508243,
+            -26.90193426
+          ],
+          [
+            -48.66528049,
+            -26.90371539
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 311,
+      "nome": "R.Henrique Douat",
+      "cod": 306,
+      "ptotalvia": 12,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0200/1955",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

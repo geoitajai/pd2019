@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d57",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69217123,
+            -26.94309351
+          ],
+          [
+            -48.69233694,
+            -26.94487635
+          ],
+          [
+            -48.69217333,
+            -26.94567354
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1721,
+      "nome": "R.Rua \"D\" - Desmembramento aprovado Nº 64/1987",
+      "cod": 1671,
+      "ptotalvia": 0,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": "64/1987",
+      "hierarquia": null,
+      "bairro": "Canhanduba",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

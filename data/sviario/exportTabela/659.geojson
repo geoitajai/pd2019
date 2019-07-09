@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e8a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65583436,
+            -26.91916248
+          ],
+          [
+            -48.65834308,
+            -26.92130537
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 621,
+      "nome": "R.Aladi Schendroski Bini",
+      "cod": 659,
+      "ptotalvia": 12,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1443/1975",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Aladi S.Bini",
+      "pavto": "Lajota",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Núcleo Rua Uruguai nº2",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

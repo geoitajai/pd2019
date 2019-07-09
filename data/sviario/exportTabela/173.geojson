@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4641",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67363534,
+            -26.89479026
+          ],
+          [
+            -48.67239298,
+            -26.89373538
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 183,
+      "nome": "R.Francisco Czarneski",
+      "cod": 173,
+      "ptotalvia": 7.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "1089/1971",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

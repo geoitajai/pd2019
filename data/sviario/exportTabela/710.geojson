@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4942",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64808255,
+            -26.92572063
+          ],
+          [
+            -48.64955816,
+            -26.92757943
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 672,
+      "nome": "R.Ver.Milton Ribeiro da Luz",
+      "cod": 710,
+      "ptotalvia": 15,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2681/1991",
+      "hierarquia": null,
+      "bairro": "Fazendinha",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

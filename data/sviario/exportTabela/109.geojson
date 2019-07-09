@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_45b3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69513366,
+            -26.91039187
+          ],
+          [
+            -48.6939693,
+            -26.91041842
+          ],
+          [
+            -48.69234709,
+            -26.91046111
+          ],
+          [
+            -48.69073509,
+            -26.91049832
+          ],
+          [
+            -48.68883604,
+            -26.91053419
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 123,
+      "nome": "R.Paulo Kleis Júnior",
+      "cod": 109,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "4902/1981",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jaí-Açú",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

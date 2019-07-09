@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4af0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.85419409,
+            -27.03249298
+          ],
+          [
+            -48.85446956,
+            -27.03269136
+          ],
+          [
+            -48.85400395,
+            -27.03316218
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1139,
+      "nome": "R.Alfonso Eugênio Brandt",
+      "cod": 1250,
+      "ptotalvia": 8,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "4015/2003",
+      "hierarquia": null,
+      "bairro": "Limoeiro",
+      "abrevlogr": "R.Alfonso E.Brandt",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

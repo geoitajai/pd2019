@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d5f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63655044,
+            -26.9276712
+          ],
+          [
+            -48.63760201,
+            -26.92782704
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1719,
+      "nome": "R.Genésio João Teixeira",
+      "cod": 1670,
+      "ptotalvia": 0,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": "6480/2014",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": "R.Genésio J.Teixeira",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Vila Santana, Victor Kummrow  Cabeçudas, Vila Sant-Ana  Cabeçudas Victor Kummrow",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

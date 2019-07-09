@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b9a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72634495,
+            -26.94586926
+          ],
+          [
+            -48.72634867,
+            -26.94553421
+          ],
+          [
+            -48.72579661,
+            -26.94543746
+          ],
+          [
+            -48.72634867,
+            -26.94553421
+          ],
+          [
+            -48.72635046,
+            -26.94537312
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1320,
+      "nome": "R.Luiz Erbani",
+      "cod": 1440,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2853/1993",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "dez/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

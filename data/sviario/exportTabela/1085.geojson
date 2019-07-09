@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a43",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69804607,
+            -26.87769982
+          ],
+          [
+            -48.69679659,
+            -26.87781975
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 982,
+      "nome": "Serv.José Felismino de Oliveira",
+      "cod": 1085,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5144/2008",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "Serv.José F.de Oliveira",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

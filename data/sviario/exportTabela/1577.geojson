@@ -1,0 +1,146 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c64",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69341104,
+            -26.97461039
+          ],
+          [
+            -48.69371604,
+            -26.97462281
+          ],
+          [
+            -48.69394629,
+            -26.97448711
+          ],
+          [
+            -48.69420267,
+            -26.97424457
+          ],
+          [
+            -48.69430367,
+            -26.97398876
+          ],
+          [
+            -48.69444495,
+            -26.97351906
+          ],
+          [
+            -48.69463126,
+            -26.97318955
+          ],
+          [
+            -48.69507219,
+            -26.97270329
+          ],
+          [
+            -48.69548809,
+            -26.97227026
+          ],
+          [
+            -48.69559996,
+            -26.97206827
+          ],
+          [
+            -48.69557017,
+            -26.97176741
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1543,
+      "nome": "R.Pedro José Pinto",
+      "cod": 1577,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5522/2010",
+      "hierarquia": null,
+      "bairro": "Canhanduba",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c65",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69341104,
+            -26.97461039
+          ],
+          [
+            -48.69371604,
+            -26.97462281
+          ],
+          [
+            -48.69394629,
+            -26.97448711
+          ],
+          [
+            -48.69420267,
+            -26.97424457
+          ],
+          [
+            -48.69430367,
+            -26.97398876
+          ],
+          [
+            -48.69444495,
+            -26.97351906
+          ],
+          [
+            -48.69463126,
+            -26.97318955
+          ],
+          [
+            -48.69507219,
+            -26.97270329
+          ],
+          [
+            -48.69548809,
+            -26.97227026
+          ],
+          [
+            -48.69559996,
+            -26.97206827
+          ],
+          [
+            -48.69557017,
+            -26.97176741
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1543,
+      "nome": "R.Pedro José Pinto",
+      "cod": 1577,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5522/2010",
+      "hierarquia": null,
+      "bairro": "Canhanduba",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

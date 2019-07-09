@@ -1,0 +1,122 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_478e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6825676,
+            -26.90489042
+          ],
+          [
+            -48.68029836,
+            -26.90498592
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 241,
+      "nome": "R.Hidelbrando José da Silva",
+      "cod": 232,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "716/1966",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Vila Todeschini",
+      "nomeloteamento": "Rua \"1\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c2f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67766272,
+            -26.90506756
+          ],
+          [
+            -48.67437246,
+            -26.90517399
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2193,
+      "nome": "R.Hidelbrando José da Silva",
+      "cod": 232,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "716/1966",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f1f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68029836,
+            -26.90498592
+          ],
+          [
+            -48.68026703,
+            -26.90498724
+          ],
+          [
+            -48.67982702,
+            -26.90500395
+          ],
+          [
+            -48.67767465,
+            -26.90506717
+          ],
+          [
+            -48.67766272,
+            -26.90506756
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1814,
+      "nome": "R.Hidelbrando José da Silva",
+      "cod": 232,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "716/1966",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Wanda Lage-  Vila Nova",
+      "nomeloteamento": "Rua \"1\""
+    }
+  }
+]

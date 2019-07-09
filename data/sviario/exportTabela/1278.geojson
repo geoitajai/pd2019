@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b09",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72834583,
+            -26.87191057
+          ],
+          [
+            -48.72770872,
+            -26.87190964
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1167,
+      "nome": "R.Olívio Francisco Borges",
+      "cod": 1278,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5116/2008",
+      "hierarquia": null,
+      "bairro": "Salseiros",
+      "abrevlogr": "R.Olívio F.Borges",
+      "pavto": "Asfalto",
+      "anopavtoin": "abr/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b1c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69386344,
+            -26.90418224
+          ],
+          [
+            -48.69309988,
+            -26.9042249
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1192,
+      "nome": "R.Pedro Bento Reis",
+      "cod": 1305,
+      "ptotalvia": 3.5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4090/2004",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.Pedro B.Reis",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

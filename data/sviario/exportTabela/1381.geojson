@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b51",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7433925,
+            -26.89323072
+          ],
+          [
+            -48.74344567,
+            -26.8936298
+          ],
+          [
+            -48.743377,
+            -26.89366141
+          ],
+          [
+            -48.7429118,
+            -26.89368314
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1260,
+      "nome": "R.Manoel Generoso de Souza",
+      "cod": 1381,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5252/2009",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": "R.Manoel G.de Souza",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

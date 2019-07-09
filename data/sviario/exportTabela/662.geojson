@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_491c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65557262,
+            -26.91935107
+          ],
+          [
+            -48.6562541,
+            -26.91993872
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 624,
+      "nome": "R.Carlos Gonçalves Dutra",
+      "cod": 662,
+      "ptotalvia": 5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3475/2000",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Carlos G.Dutra",
+      "pavto": "Misto (Asfalto/Paralelepípedo)",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

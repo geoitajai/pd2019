@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4eb8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6905211,
+            -26.92552186
+          ],
+          [
+            -48.69066527,
+            -26.92586936
+          ],
+          [
+            -48.69072498,
+            -26.92592845
+          ],
+          [
+            -48.69164766,
+            -26.92723776
+          ],
+          [
+            -48.6919198,
+            -26.92761687
+          ],
+          [
+            -48.69281097,
+            -26.92892622
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 864,
+      "nome": "R.Arnaldo Lopes",
+      "cod": 963,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3078/1996",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Padre Schmitt",
+      "nomeloteamento": "Rua \"21\""
+    }
+  }
+]

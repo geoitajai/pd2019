@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49c1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70381983,
+            -26.92021253
+          ],
+          [
+            -48.70457739,
+            -26.92080904
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 796,
+      "nome": "R.José da Silva Lima Júnior",
+      "cod": 931,
+      "ptotalvia": 15,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3017/1995",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.José da S.Lima Jr.",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Dona Mariquinha, Promorar II",
+      "nomeloteamento": "Rua \"6\""
+    }
+  }
+]

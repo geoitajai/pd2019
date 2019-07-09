@@ -1,0 +1,60 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4dbb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7540909,
+            -26.90863583
+          ],
+          [
+            -48.75406188,
+            -26.90830288
+          ],
+          [
+            -48.75404742,
+            -26.90804035
+          ],
+          [
+            -48.75402947,
+            -26.90776822
+          ],
+          [
+            -48.75439291,
+            -26.90776541
+          ]
+        ],
+        [
+          [
+            -48.7540909,
+            -26.90863583
+          ],
+          [
+            -48.75417327,
+            -26.90991552
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2217,
+      "nome": "R.Carlos Bacca",
+      "cod": 1409,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4631/2006",
+      "hierarquia": null,
+      "bairro": "São Roque",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

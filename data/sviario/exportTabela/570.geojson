@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48fa",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67954986,
+            -26.92120022
+          ],
+          [
+            -48.67957437,
+            -26.92244488
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 549,
+      "nome": "R.Estud.Anastácio Luiz Pereira",
+      "cod": 570,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2229/1986",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": "R.Estud.Anastácio L.Pereira",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Chimmene",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

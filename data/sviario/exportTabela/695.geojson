@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c40",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65112687,
+            -26.92405296
+          ],
+          [
+            -48.6525527,
+            -26.9252004
+          ],
+          [
+            -48.65402157,
+            -26.92641303
+          ],
+          [
+            -48.65485245,
+            -26.9270436
+          ],
+          [
+            -48.65515909,
+            -26.92730376
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 657,
+      "nome": "R.Lúcio Correia de Mendonça",
+      "cod": 695,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "0787/1967",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Muller, chácara da fazenda, loteamento",
+      "nomeloteamento": "Rua \"2\""
+    }
+  }
+]

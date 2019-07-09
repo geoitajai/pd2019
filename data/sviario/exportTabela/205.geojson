@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_46d7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68258787,
+            -26.90194789
+          ],
+          [
+            -48.68105391,
+            -26.90200248
+          ],
+          [
+            -48.680463,
+            -26.90203077
+          ],
+          [
+            -48.6798787,
+            -26.9020628
+          ],
+          [
+            -48.678644,
+            -26.90213923
+          ],
+          [
+            -48.67866647,
+            -26.90257306
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 214,
+      "nome": "R.Fridolim Erthal Júnior",
+      "cod": 205,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2011/1982",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

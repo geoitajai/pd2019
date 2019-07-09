@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c31",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65169796,
+            -26.92373708
+          ],
+          [
+            -48.65298792,
+            -26.92480795
+          ],
+          [
+            -48.65313739,
+            -26.92492309
+          ],
+          [
+            -48.65523822,
+            -26.92666438
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 656,
+      "nome": "R.Amaro Jaques",
+      "cod": 694,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0782/1967",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Muller, chácara da fazenda, loteamento",
+      "nomeloteamento": "Rua \"1\""
+    }
+  }
+]

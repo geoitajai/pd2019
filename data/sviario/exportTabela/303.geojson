@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4802",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6611811,
+            -26.90506698
+          ],
+          [
+            -48.66148148,
+            -26.90468799
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 308,
+      "nome": "Trav.P.João Batista Réus",
+      "cod": 303,
+      "ptotalvia": 7.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "Trav.P.João B.Réus",
+      "pavto": "Asfalto",
+      "anopavtoin": "jun/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49d9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70443965,
+            -26.92159855
+          ],
+          [
+            -48.70415884,
+            -26.92185075
+          ],
+          [
+            -48.70375547,
+            -26.9222338
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 838,
+      "nome": "R.João Galvão Fernandes",
+      "cod": 936,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "5115/2008",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.João G.Fernandes",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

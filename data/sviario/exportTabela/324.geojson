@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4812",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66518257,
+            -26.90436201
+          ],
+          [
+            -48.66518086,
+            -26.90488367
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 325,
+      "nome": "R.Wanildo Batista da Silva",
+      "cod": 324,
+      "ptotalvia": 3,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "3067/1996",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Wanildo B.da Silva",
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

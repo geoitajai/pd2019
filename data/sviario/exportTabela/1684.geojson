@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d8b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69190846,
+            -26.88869203
+          ],
+          [
+            -48.691147,
+            -26.88872104
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1749,
+      "nome": "R.\"A\" Lot. Cesar Ramos Cordeiros ",
+      "cod": 1684,
+      "ptotalvia": 8,
+      "ppasseio1": null,
+      "ppasseio2": null,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": "R. \"A\"",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Cesar Ramos Cordeiros",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48a8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67938824,
+            -26.90888405
+          ],
+          [
+            -48.6793547,
+            -26.90896737
+          ],
+          [
+            -48.67801607,
+            -26.90902616
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 489,
+      "nome": "R.José Manoel da Silva",
+      "cod": 503,
+      "ptotalvia": 6.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2840/1993",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": "R.José M.da Silva",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

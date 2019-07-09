@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_495c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65644195,
+            -26.92657594
+          ],
+          [
+            -48.65728932,
+            -26.92728146
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 650,
+      "nome": "R.Osvaldo Corrêa de Mendonça",
+      "cod": 688,
+      "ptotalvia": 8,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Osvaldo C.de M.",
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "Bruno II e Bruno III",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

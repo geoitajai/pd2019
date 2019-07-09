@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_497f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68884453,
+            -26.92612808
+          ],
+          [
+            -48.68850674,
+            -26.92563977
+          ],
+          [
+            -48.68815912,
+            -26.9251427
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 745,
+      "nome": "R.Damásio Francisco Nunes",
+      "cod": 842,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3719/2002",
+      "hierarquia": null,
+      "bairro": "Carvalho",
+      "abrevlogr": "R.Damásio F.Nunes",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

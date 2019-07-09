@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48ef",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67548035,
+            -26.9166306
+          ],
+          [
+            -48.67562456,
+            -26.91915455
+          ],
+          [
+            -48.67574663,
+            -26.92087986
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 533,
+      "nome": "R.Manoel Anibal Pereira",
+      "cod": 548,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0906/1968",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Jardim Dom Bosco",
+      "nomeloteamento": "Rua \"F\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fb6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67574663,
+            -26.92087986
+          ],
+          [
+            -48.6758141,
+            -26.92187683
+          ],
+          [
+            -48.6759171,
+            -26.92200541
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1857,
+      "nome": "R.Manoel Anibal Pereira",
+      "cod": 548,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0906/1968",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Jardim Ferroviário, José Bonifácio Schmitt",
+      "nomeloteamento": "Rua \"G\""
+    }
+  }
+]

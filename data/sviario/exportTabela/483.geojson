@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4899",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68026095,
+            -26.88744035
+          ],
+          [
+            -48.68013761,
+            -26.88728558
+          ],
+          [
+            -48.6790993,
+            -26.88645138
+          ],
+          [
+            -48.67865842,
+            -26.88607654
+          ],
+          [
+            -48.67823941,
+            -26.88580577
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 469,
+      "nome": "R.Henrique Dauer",
+      "cod": 483,
+      "ptotalvia": 14.4,
+      "ppasseio1": 1.9,
+      "ppasseio2": 1.9,
+      "leidata": "0347/1960",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Paralelepípedo)",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

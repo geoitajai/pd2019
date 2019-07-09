@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c8b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7438826,
+            -26.8849663
+          ],
+          [
+            -48.74360236,
+            -26.88187959
+          ],
+          [
+            -48.74330021,
+            -26.87880803
+          ],
+          [
+            -48.74300209,
+            -26.87575205
+          ],
+          [
+            -48.74277343,
+            -26.87268167
+          ],
+          [
+            -48.74260665,
+            -26.87084905
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1558,
+      "nome": "R.Amelia Izabel Coelho",
+      "cod": 1594,
+      "ptotalvia": 18,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "6723/2016",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Jardim Amélia",
+      "nomeloteamento": "Rua Projetada \"J\""
+    }
+  }
+]

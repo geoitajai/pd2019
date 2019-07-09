@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4962",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64903159,
+            -26.92492528
+          ],
+          [
+            -48.65033019,
+            -26.9260194
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 675,
+      "nome": "R.João Wollinger",
+      "cod": 713,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2405/1988",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Wecam, Jardim Flamboyant, Ida Rebelo",
+      "nomeloteamento": "Rua \"1\""
+    }
+  }
+]

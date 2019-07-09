@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49f3",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69575654,
+            -26.91594241
+          ],
+          [
+            -48.69545164,
+            -26.91595697
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 810,
+      "nome": "R.Dr.Hermes Atílio Mariani",
+      "cod": 905,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2351/1988",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Pacheco",
+      "nomeloteamento": "Rua \"F\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50ff",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69545164,
+            -26.91595697
+          ],
+          [
+            -48.69345157,
+            -26.91605248
+          ],
+          [
+            -48.69233562,
+            -26.9161164
+          ],
+          [
+            -48.69096562,
+            -26.91619864
+          ],
+          [
+            -48.68889829,
+            -26.9162796
+          ],
+          [
+            -48.68566873,
+            -26.91644289
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2046,
+      "nome": "R.Dr.Hermes Atílio Mariani",
+      "cod": 905,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2351/1988",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Cidade Nova",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

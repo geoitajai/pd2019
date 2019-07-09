@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ce6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65181806,
+            -26.92586112
+          ],
+          [
+            -48.65150008,
+            -26.92560803
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1666,
+      "nome": "Serv.Gildo Fernandes Pereira",
+      "cod": 1619,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5969/2011",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "Serv.Gildo F.Pereira",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

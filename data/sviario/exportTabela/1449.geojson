@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bb8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74129291,
+            -26.9459953
+          ],
+          [
+            -48.7411632,
+            -26.94600544
+          ],
+          [
+            -48.74102758,
+            -26.94602313
+          ],
+          [
+            -48.74104359,
+            -26.94651606
+          ],
+          [
+            -48.74110258,
+            -26.94700331
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1329,
+      "nome": "R.Giusyppe Moser",
+      "cod": 1449,
+      "ptotalvia": 5.6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "4898/2007",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bcd",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.78449116,
+            -26.96965515
+          ],
+          [
+            -48.78461794,
+            -26.97154498
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1381,
+      "nome": "R.Leonor Cunha Vitorino",
+      "cod": 1501,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4128/2004",
+      "hierarquia": null,
+      "bairro": "Arraial dos Cunha",
+      "abrevlogr": "R.Leonor C.Vitorino",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

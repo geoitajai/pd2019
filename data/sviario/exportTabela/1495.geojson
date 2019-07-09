@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bc6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.75677534,
+            -26.96159713
+          ],
+          [
+            -48.75691677,
+            -26.96384384
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1374,
+      "nome": "R.Rosa Schaefer do Nascimento",
+      "cod": 1495,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3965/2003",
+      "hierarquia": null,
+      "bairro": "Baia",
+      "abrevlogr": "R.Rosa S.do Nasc.",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

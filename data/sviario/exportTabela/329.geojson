@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_481b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66854123,
+            -26.91074546
+          ],
+          [
+            -48.66911275,
+            -26.91118319
+          ],
+          [
+            -48.66911671,
+            -26.91142012
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 330,
+      "nome": "R.Maria Isaura da Silva Muller",
+      "cod": 329,
+      "ptotalvia": 4.5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "2781/1992",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": "R.Maria I.da S.Muller",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48ae",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67974243,
+            -26.91507447
+          ],
+          [
+            -48.67978113,
+            -26.91581817
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 498,
+      "nome": "R.Ângelo Rodi",
+      "cod": 512,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "0129/1953",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c1d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67978113,
+            -26.91581817
+          ],
+          [
+            -48.67983582,
+            -26.91659671
+          ],
+          [
+            -48.67986054,
+            -26.9171331
+          ],
+          [
+            -48.67989763,
+            -26.91768786
+          ],
+          [
+            -48.67993883,
+            -26.91823894
+          ],
+          [
+            -48.67996767,
+            -26.9187643
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1476,
+      "nome": "R.Ângelo Rodi",
+      "cod": 512,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "0129/1953",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

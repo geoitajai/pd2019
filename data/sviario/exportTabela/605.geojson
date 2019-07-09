@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48e1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65973147,
+            -26.91533396
+          ],
+          [
+            -48.65930964,
+            -26.91502549
+          ],
+          [
+            -48.65937706,
+            -26.91488356
+          ],
+          [
+            -48.65876406,
+            -26.91440388
+          ],
+          [
+            -48.65803827,
+            -26.9138476
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 566,
+      "nome": "R.José Marçal Dutra",
+      "cod": 605,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "0621/1965",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

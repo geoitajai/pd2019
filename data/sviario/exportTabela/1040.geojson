@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4caf",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69781077,
+            -26.86751405
+          ],
+          [
+            -48.69791981,
+            -26.86981101
+          ],
+          [
+            -48.69800508,
+            -26.8710075
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 943,
+      "nome": "R.Valdecir Bastos",
+      "cod": 1040,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "5456/2010",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Dona Nina",
+      "nomeloteamento": "Rua\"A\""
+    }
+  }
+]

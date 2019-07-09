@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49bd",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68884792,
+            -26.93377849
+          ],
+          [
+            -48.68816906,
+            -26.93330922
+          ],
+          [
+            -48.68767058,
+            -26.93297153
+          ],
+          [
+            -48.68717292,
+            -26.93263164
+          ],
+          [
+            -48.68669002,
+            -26.93226689
+          ],
+          [
+            -48.6860374,
+            -26.93183417
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 788,
+      "nome": "R.Olga Gern Pereira",
+      "cod": 883,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1886/1981",
+      "hierarquia": null,
+      "bairro": "Carvalho",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Santa Terezinha",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

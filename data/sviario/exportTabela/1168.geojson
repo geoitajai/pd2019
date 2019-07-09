@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a9a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70325335,
+            -26.88805031
+          ],
+          [
+            -48.70339437,
+            -26.89078858
+          ],
+          [
+            -48.70355178,
+            -26.89314454
+          ],
+          [
+            -48.70390597,
+            -26.89954532
+          ],
+          [
+            -48.70407814,
+            -26.90244068
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1065,
+      "nome": "R.José Lopes",
+      "cod": 1168,
+      "ptotalvia": 14,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

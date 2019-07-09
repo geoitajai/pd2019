@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a14",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69257447,
+            -26.93098883
+          ],
+          [
+            -48.69333216,
+            -26.93161544
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 900,
+      "nome": "R.Pedro Zagheni",
+      "cod": 999,
+      "ptotalvia": 15,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2997/1995",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Dona Mariquinha, Promorar II",
+      "nomeloteamento": "Rua \"32\""
+    }
+  }
+]

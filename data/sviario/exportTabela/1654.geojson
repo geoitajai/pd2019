@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d45",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.71500728,
+            -26.9761962
+          ],
+          [
+            -48.71482665,
+            -26.97663583
+          ],
+          [
+            -48.71473849,
+            -26.97684793
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1702,
+      "nome": "R.\"D\"",
+      "cod": 1654,
+      "ptotalvia": 13.5,
+      "ppasseio1": 1.75,
+      "ppasseio2": 1.75,
+      "leidata": null,
+      "hierarquia": null,
+      "bairro": "Rio do Meio",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Jardim Santa Clara",
+      "nomeloteamento": "Rua\"D\""
+    }
+  }
+]

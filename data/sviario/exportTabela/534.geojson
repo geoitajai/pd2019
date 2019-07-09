@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48be",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68289235,
+            -26.92480482
+          ],
+          [
+            -48.68064267,
+            -26.9249885
+          ],
+          [
+            -48.67857079,
+            -26.92515376
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 519,
+      "nome": "R.Antônio de Souza Cunha",
+      "cod": 534,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1870/1981",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Jardim Itamirim",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

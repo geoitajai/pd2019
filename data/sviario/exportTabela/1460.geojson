@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ba5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74124107,
+            -26.94233677
+          ],
+          [
+            -48.74132974,
+            -26.9437479
+          ],
+          [
+            -48.74136423,
+            -26.94424266
+          ],
+          [
+            -48.74132482,
+            -26.94499798
+          ],
+          [
+            -48.74134325,
+            -26.94539805
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1340,
+      "nome": "R.Rosália Pedroni",
+      "cod": 1460,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3885/2003",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

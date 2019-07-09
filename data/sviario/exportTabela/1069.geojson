@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a4e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70572294,
+            -26.87139073
+          ],
+          [
+            -48.70580919,
+            -26.87324494
+          ],
+          [
+            -48.70592214,
+            -26.87564674
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 970,
+      "nome": "R.Altino de Souza",
+      "cod": 1069,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Altino Porfírio de Souza",
+      "nomeloteamento": "\"Rua\""
+    }
+  }
+]

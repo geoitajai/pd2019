@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_498c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63197386,
+            -26.94803176
+          ],
+          [
+            -48.63060444,
+            -26.94815011
+          ],
+          [
+            -48.62997531,
+            -26.94821367
+          ],
+          [
+            -48.62932175,
+            -26.94829482
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 747,
+      "nome": "R.Cláudio de Souza Ferreira",
+      "cod": 796,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3407/1999",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Jardim Copacabana",
+      "nomeloteamento": "Rua \"4\""
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b39",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73413301,
+            -26.87330605
+          ],
+          [
+            -48.73439991,
+            -26.87630506
+          ],
+          [
+            -48.73498677,
+            -26.88258653
+          ],
+          [
+            -48.73541357,
+            -26.88723842
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1201,
+      "nome": "R.Nono Emilio Dalçoquio",
+      "cod": 1349,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4321/2005",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "jan/14",
+      "loteamnome": "Jardim Residencial Portal II",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

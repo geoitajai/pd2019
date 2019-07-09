@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bee",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.77843726,
+            -26.98889544
+          ],
+          [
+            -48.77865103,
+            -26.98913542
+          ],
+          [
+            -48.77886912,
+            -26.9893414
+          ],
+          [
+            -48.77889008,
+            -26.9895228
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1423,
+      "nome": "R.Henrique Manoel de Souza",
+      "cod": 1526,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3730/2002",
+      "hierarquia": null,
+      "bairro": "Paciência",
+      "abrevlogr": "R.Henrique M.de Souza",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

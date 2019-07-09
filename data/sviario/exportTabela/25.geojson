@@ -1,0 +1,166 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44cb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69699422,
+            -26.89916728
+          ],
+          [
+            -48.69644567,
+            -26.89919092
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 41,
+      "nome": "R.Rodolfo Kucker",
+      "cod": 25,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Rio Bonito",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f62",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69644567,
+            -26.89919092
+          ],
+          [
+            -48.69637253,
+            -26.89919407
+          ],
+          [
+            -48.69568463,
+            -26.89923789
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1817,
+      "nome": "R.Rodolfo Kucker",
+      "cod": 25,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Rio Azul",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5002",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69568463,
+            -26.89923789
+          ],
+          [
+            -48.69511113,
+            -26.89927442
+          ],
+          [
+            -48.69444878,
+            -26.8993079
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1874,
+      "nome": "R.Rodolfo Kucker",
+      "cod": 25,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Emita",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5102",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69444878,
+            -26.8993079
+          ],
+          [
+            -48.6943693,
+            -26.89931192
+          ],
+          [
+            -48.69221201,
+            -26.89940343
+          ],
+          [
+            -48.69056707,
+            -26.89946191
+          ],
+          [
+            -48.68865995,
+            -26.89948869
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2039,
+      "nome": "R.Rodolfo Kucker",
+      "cod": 25,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Katia",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

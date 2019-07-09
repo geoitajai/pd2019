@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d05",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64416464,
+            -26.94815446
+          ],
+          [
+            -48.64389313,
+            -26.94819005
+          ],
+          [
+            -48.64309244,
+            -26.94825564
+          ],
+          [
+            -48.64197492,
+            -26.94832089
+          ],
+          [
+            -48.64064132,
+            -26.94840419
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1640,
+      "nome": "Av.Braulio Werner",
+      "cod": 815,
+      "ptotalvia": 24,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "1610/1978",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Jardim Magali",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

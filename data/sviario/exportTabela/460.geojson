@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4881",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67095165,
+            -26.88619314
+          ],
+          [
+            -48.67154965,
+            -26.88670933
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 446,
+      "nome": "R.Maria Ramos Cardozo",
+      "cod": 460,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4585/2006",
+      "hierarquia": null,
+      "bairro": "Imaruí",
+      "abrevlogr": "R.Maria R.Cardozo",
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c80",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.76925969,
+            -26.98024785
+          ],
+          [
+            -48.76939404,
+            -26.98021008
+          ],
+          [
+            -48.77056638,
+            -26.97744746
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1566,
+      "nome": "R.Pedro Sardo",
+      "cod": 1584,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6595/2014",
+      "hierarquia": null,
+      "bairro": "Paciência",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

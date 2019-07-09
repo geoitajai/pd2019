@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_488e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68727785,
+            -26.8932469
+          ],
+          [
+            -48.68664993,
+            -26.89389063
+          ],
+          [
+            -48.68603258,
+            -26.89451666
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 400,
+      "nome": "Trav.Lisberto João Potter",
+      "cod": 413,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1215/1973",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Curt Hering, Jardim",
+      "nomeloteamento": "Rua \"16\""
+    }
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5048",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63176966,
+            -26.95632142
+          ],
+          [
+            -48.6316925,
+            -26.95569754
+          ],
+          [
+            -48.63162326,
+            -26.9552038
+          ],
+          [
+            -48.63136174,
+            -26.95353442
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1613,
+      "nome": "R.Delfim Mário Pádua Peixoto",
+      "cod": 782,
+      "ptotalvia": 20,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2480/1989",
+      "hierarquia": "coletora",
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5052",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63055004,
+            -26.94737418
+          ],
+          [
+            -48.63051047,
+            -26.94658942
+          ],
+          [
+            -48.63049564,
+            -26.94606919
+          ],
+          [
+            -48.63041651,
+            -26.94544314
+          ],
+          [
+            -48.63038683,
+            -26.94505516
+          ],
+          [
+            -48.63027308,
+            -26.94436298
+          ],
+          [
+            -48.63012471,
+            -26.94326517
+          ],
+          [
+            -48.62982302,
+            -26.94107834
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1914,
+      "nome": "R.Delfim Mário Pádua Peixoto",
+      "cod": 782,
+      "ptotalvia": 20,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2480/1989",
+      "hierarquia": "coletora",
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5053",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63086657,
+            -26.95116561
+          ],
+          [
+            -48.63077754,
+            -26.95014723
+          ],
+          [
+            -48.63069347,
+            -26.94914567
+          ],
+          [
+            -48.63060444,
+            -26.94815011
+          ],
+          [
+            -48.63055004,
+            -26.9473742
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1915,
+      "nome": "R.Delfim Mário Pádua Peixoto",
+      "cod": 782,
+      "ptotalvia": 20,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2480/1989",
+      "hierarquia": "coletora",
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Jardim Copacabana",
+      "nomeloteamento": "Rua \"6\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_505b",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63136174,
+            -26.95353442
+          ],
+          [
+            -48.63131663,
+            -26.95324644
+          ],
+          [
+            -48.631253,
+            -26.95295226
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1923,
+      "nome": "R.Delfim Mário Pádua Peixoto",
+      "cod": 782,
+      "ptotalvia": 20,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2480/1989",
+      "hierarquia": "coletora",
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Vila Iris",
+      "nomeloteamento": "Rua \"2\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_505c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.631253,
+            -26.95295226
+          ],
+          [
+            -48.63086657,
+            -26.95116561
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1924,
+      "nome": "R.Delfim Mário Pádua Peixoto",
+      "cod": 782,
+      "ptotalvia": 20,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2480/1989",
+      "hierarquia": "coletora",
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

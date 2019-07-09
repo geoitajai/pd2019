@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5045",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63555516,
+            -26.94437793
+          ],
+          [
+            -48.63567013,
+            -26.94512416
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1433,
+      "nome": "R.Belarmino Manoel Leite",
+      "cod": 828,
+      "ptotalvia": 5.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "4162/2004",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Belarmino M.Leite",
+      "pavto": "Asfalto",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Nova Divinéia",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

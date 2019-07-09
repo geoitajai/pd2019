@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_510e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69869554,
+            -26.89173955
+          ],
+          [
+            -48.69816999,
+            -26.89175978
+          ],
+          [
+            -48.69742136,
+            -26.89178339
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1095,
+      "nome": "R.Alagoas",
+      "cod": 1200,
+      "ptotalvia": 11,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1202/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Conj. Hab. Costa Cavalcante (COHAB)",
+      "nomeloteamento": "Rua \"11\""
+    }
+  }
+]

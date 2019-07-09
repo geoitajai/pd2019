@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ca5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63142355,
+            -26.95863883
+          ],
+          [
+            -48.63052365,
+            -26.95844713
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1591,
+      "nome": "R.Verginia Ângelo Severino",
+      "cod": 597,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3022/1995",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Verginia Â.Severino",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Sociedade Camboriu de Hoteis",
+      "nomeloteamento": "Travessa \"11\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50be",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63052365,
+            -26.95844715
+          ],
+          [
+            -48.6293918,
+            -26.95875104
+          ],
+          [
+            -48.62922698,
+            -26.95884286
+          ],
+          [
+            -48.62918578,
+            -26.95930927
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2017,
+      "nome": "R.Verginia Ângelo Severino",
+      "cod": 597,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3022/1995",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Verginia Â.Severino",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Sociedade Camboriu de Hoteis",
+      "nomeloteamento": "Rua \"22\""
+    }
+  }
+]

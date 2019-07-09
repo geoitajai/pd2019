@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4424",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69458938,
+            -26.90318015
+          ],
+          [
+            -48.6938465,
+            -26.90320385
+          ],
+          [
+            -48.69223179,
+            -26.90323951
+          ],
+          [
+            -48.69063442,
+            -26.90329629
+          ],
+          [
+            -48.68871807,
+            -26.90335317
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 34,
+      "nome": "R.Exp.Olímpio José Borges",
+      "cod": 18,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "1789/1980",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Operário",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

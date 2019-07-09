@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d55",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.75066106,
+            -26.96928708
+          ],
+          [
+            -48.75061232,
+            -26.9681181
+          ],
+          [
+            -48.75056829,
+            -26.96805164
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1718,
+      "nome": "Serv.Ana Roseli Dagnoni",
+      "cod": 1668,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6197/2012",
+      "hierarquia": null,
+      "bairro": "Baia",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

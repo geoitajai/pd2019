@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f31",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73360377,
+            -26.87331702
+          ],
+          [
+            -48.73388062,
+            -26.8763465
+          ],
+          [
+            -48.7347832,
+            -26.88606686
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1205,
+      "nome": "R.Oswaldo Leal",
+      "cod": 1353,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4384/2005",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Residencial Portal II",
+      "nomeloteamento": "Rua \"D\""
+    }
+  }
+]

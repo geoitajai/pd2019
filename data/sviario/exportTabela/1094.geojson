@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a81",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6974029,
+            -26.87923529
+          ],
+          [
+            -48.69745209,
+            -26.8794693
+          ],
+          [
+            -48.69745225,
+            -26.87948682
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 991,
+      "nome": "R.Luiz Leôncio Buchele",
+      "cod": 1094,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Progresso II",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5077",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69745225,
+            -26.87948682
+          ],
+          [
+            -48.69746849,
+            -26.88129459
+          ],
+          [
+            -48.69755048,
+            -26.88356447
+          ],
+          [
+            -48.69766198,
+            -26.88610924
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1931,
+      "nome": "R.Luiz Leôncio Buchele",
+      "cod": 1094,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Progresso I",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

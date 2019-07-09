@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c57",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70134657,
+            -26.9132045
+          ],
+          [
+            -48.7007483,
+            -26.91322836
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1185,
+      "nome": "R.Leonidia Silva Wippel",
+      "cod": 1298,
+      "ptotalvia": 4,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "4095/2004",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": "R.Leonidia S.Wippel",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "Campos Novos, Jardim",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

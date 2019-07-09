@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a0c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69245641,
+            -26.9310897
+          ],
+          [
+            -48.69188919,
+            -26.93082601
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 899,
+      "nome": "R.Hercílio Trainotti",
+      "cod": 998,
+      "ptotalvia": 6.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4728/2007",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

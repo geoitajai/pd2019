@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50c2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69285916,
+            -26.86901274
+          ],
+          [
+            -48.69158016,
+            -26.86904163
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 951,
+      "nome": "R.Luiz de Queiroz Gaudereto",
+      "cod": 1048,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "5308/2009",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": "R.Luiz de Q.Gaudereto",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Popular da Murta, Terminal Pesqueiro Beira Rio",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

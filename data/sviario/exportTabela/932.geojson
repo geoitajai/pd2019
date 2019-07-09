@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49ec",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70334266,
+            -26.92066869
+          ],
+          [
+            -48.70413958,
+            -26.92133099
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 834,
+      "nome": "R.Oscar Silva Justino",
+      "cod": 932,
+      "ptotalvia": 15,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "3043/1995",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.Oscar S.Justino",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Dona Mariquinha, Promorar II",
+      "nomeloteamento": "Rua \"7\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50b1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70413958,
+            -26.92133099
+          ],
+          [
+            -48.70443965,
+            -26.92159855
+          ],
+          [
+            -48.70489714,
+            -26.92197137
+          ],
+          [
+            -48.70518737,
+            -26.92222576
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1996,
+      "nome": "R.Oscar Silva Justino",
+      "cod": 932,
+      "ptotalvia": 15,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "3043/1995",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": "R.Oscar S.Justino",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

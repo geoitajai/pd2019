@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d3c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.74291662,
+            -26.87040824
+          ],
+          [
+            -48.74286654,
+            -26.86968292
+          ],
+          [
+            -48.74267796,
+            -26.86740957
+          ],
+          [
+            -48.7428938,
+            -26.86739314
+          ],
+          [
+            -48.74279073,
+            -26.86635972
+          ],
+          [
+            -48.74258468,
+            -26.86636211
+          ],
+          [
+            -48.74234897,
+            -26.86368066
+          ],
+          [
+            -48.74177529,
+            -26.85704628
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1540,
+      "nome": "R.João Antônio Martins",
+      "cod": 1565,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5970/2011",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4878",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67350695,
+            -26.88957156
+          ],
+          [
+            -48.67288989,
+            -26.8891932
+          ],
+          [
+            -48.67111033,
+            -26.88799914
+          ],
+          [
+            -48.66933077,
+            -26.88680998
+          ],
+          [
+            -48.66848119,
+            -26.88623203
+          ],
+          [
+            -48.66797393,
+            -26.88594278
+          ],
+          [
+            -48.6675452,
+            -26.885718
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 436,
+      "nome": "R.Avelino Werner",
+      "cod": 450,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1210/1973",
+      "hierarquia": null,
+      "bairro": "Imaruí",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

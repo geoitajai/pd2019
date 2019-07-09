@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48a5",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67361163,
+            -26.89020052
+          ],
+          [
+            -48.67257585,
+            -26.88952734
+          ],
+          [
+            -48.66907182,
+            -26.88717361
+          ],
+          [
+            -48.66829076,
+            -26.88662833
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 435,
+      "nome": "R.Zacarias Souza",
+      "cod": 449,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1210/1973",
+      "hierarquia": null,
+      "bairro": "Imaruí",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

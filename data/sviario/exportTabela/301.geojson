@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4800",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6605871,
+            -26.90471175
+          ],
+          [
+            -48.66087446,
+            -26.90410651
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 306,
+      "nome": "R.Fr.Pedro Agote",
+      "cod": 301,
+      "ptotalvia": 7,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1322/1974",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": "R.Fr.Pedro Agote",
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

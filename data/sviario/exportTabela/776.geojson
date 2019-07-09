@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4986",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63570436,
+            -26.93261138
+          ],
+          [
+            -48.63478815,
+            -26.93185201
+          ],
+          [
+            -48.63450405,
+            -26.93165237
+          ],
+          [
+            -48.63365686,
+            -26.93109011
+          ],
+          [
+            -48.63313628,
+            -26.9307144
+          ],
+          [
+            -48.63247568,
+            -26.93027076
+          ],
+          [
+            -48.63196133,
+            -26.92991359
+          ],
+          [
+            -48.63125196,
+            -26.92939158
+          ],
+          [
+            -48.63125794,
+            -26.92930281
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 736,
+      "nome": "R.Benjamim Constant",
+      "cod": 776,
+      "ptotalvia": 10,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Cabeçudas",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

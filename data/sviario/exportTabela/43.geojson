@@ -1,0 +1,94 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44d7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69633051,
+            -26.89858128
+          ],
+          [
+            -48.69637253,
+            -26.89919407
+          ],
+          [
+            -48.69647373,
+            -26.9004657
+          ],
+          [
+            -48.69659152,
+            -26.90201789
+          ],
+          [
+            -48.69664102,
+            -26.90298157
+          ],
+          [
+            -48.69664164,
+            -26.90301416
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 59,
+      "nome": "R.Antônio Carlos Pereira Leão Filho",
+      "cod": 43,
+      "ptotalvia": 15,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "2269/1987",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Paralelepípedo)",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Jardim Rio Azul",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fd4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69664164,
+            -26.90301416
+          ],
+          [
+            -48.69664919,
+            -26.90340763
+          ],
+          [
+            -48.69673311,
+            -26.90509017
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1873,
+      "nome": "R.Antônio Carlos Pereira Leão Filho",
+      "cod": 43,
+      "ptotalvia": 15,
+      "ppasseio1": 3,
+      "ppasseio2": 3,
+      "leidata": "2269/1987",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Paralelepípedo)",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4baf",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69513194,
+            -26.93798166
+          ],
+          [
+            -48.68937025,
+            -26.93960088
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1360,
+      "nome": "R.Álvaro Beraldi",
+      "cod": 1481,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3029/1995",
+      "hierarquia": null,
+      "bairro": "Canhanduba",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "mai/16",
+      "loteamnome": "Horti - Cultura",
+      "nomeloteamento": "Rua \"Projetada A\""
+    }
+  }
+]

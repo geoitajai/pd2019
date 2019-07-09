@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bf7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.62916077,
+            -26.94113431
+          ],
+          [
+            -48.62933786,
+            -26.94224819
+          ],
+          [
+            -48.62964613,
+            -26.94444375
+          ],
+          [
+            -48.62980122,
+            -26.9455239
+          ],
+          [
+            -48.6298429,
+            -26.94579731
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1435,
+      "nome": "R.Renato Melim Cunha",
+      "cod": 831,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2479/1989",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Renato M.Cunha",
+      "pavto": "Paver",
+      "anopavtoin": "mar/14",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

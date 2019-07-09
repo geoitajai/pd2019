@@ -1,0 +1,74 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c97",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67570149,
+            -26.89749053
+          ],
+          [
+            -48.67544049,
+            -26.89776474
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1550,
+      "nome": "R.Cassilda Vargas Azevedo",
+      "cod": 184,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2214/1985",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.Cassilda V.Azevedo",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Navegação  Itajaí I, Navegação Itajaí III",
+      "nomeloteamento": "Travessa \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ca0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67544049,
+            -26.89776474
+          ],
+          [
+            -48.67523617,
+            -26.8979794
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2198,
+      "nome": "R.Cassilda Vargas Azevedo",
+      "cod": 184,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2214/1985",
+      "hierarquia": null,
+      "bairro": "São João",
+      "abrevlogr": "R.Cassilda V.Azevedo",
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b8c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72266036,
+            -26.9450714
+          ],
+          [
+            -48.72083522,
+            -26.94502968
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1313,
+      "nome": "R.Valmor Alberto Vicente",
+      "cod": 1433,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2880/1993",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": "R.Valmor A.Vicente",
+      "pavto": "Asfalto",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

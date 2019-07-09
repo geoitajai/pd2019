@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cd1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.63170976,
+            -26.9500595
+          ],
+          [
+            -48.63141719,
+            -26.95008703
+          ],
+          [
+            -48.63077754,
+            -26.95014723
+          ],
+          [
+            -48.63014841,
+            -26.95023283
+          ],
+          [
+            -48.62948244,
+            -26.95031122
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1594,
+      "nome": "R.Paulo Batschauer",
+      "cod": 839,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3713/2002",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Copacabana",
+      "nomeloteamento": "Rua \"2\""
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ee8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68837714,
+            -26.89425338
+          ],
+          [
+            -48.68783274,
+            -26.89482437
+          ],
+          [
+            -48.68737774,
+            -26.89528262
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 403,
+      "nome": "Trav.João Santana",
+      "cod": 416,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1215/1973",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Sem Pavimento)",
+      "anopavtoin": "set/11",
+      "loteamnome": "Curt Hering, Jardim",
+      "nomeloteamento": "Rua \"19\""
+    }
+  }
+]

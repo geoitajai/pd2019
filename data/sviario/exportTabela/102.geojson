@@ -1,0 +1,94 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_43ea",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69487085,
+            -26.90729187
+          ],
+          [
+            -48.69392166,
+            -26.90732554
+          ],
+          [
+            -48.69231249,
+            -26.90738809
+          ],
+          [
+            -48.69069333,
+            -26.90744661
+          ],
+          [
+            -48.68878774,
+            -26.90750928
+          ],
+          [
+            -48.68712899,
+            -26.90758171
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2078,
+      "nome": "R.Dr.Jaime de Barros Câmara",
+      "cod": 102,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Ipiranga",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_44f6",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69665716,
+            -26.90721582
+          ],
+          [
+            -48.69493607,
+            -26.90728956
+          ],
+          [
+            -48.69487085,
+            -26.90729187
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 117,
+      "nome": "R.Dr.Jaime de Barros Câmara",
+      "cod": 102,
+      "ptotalvia": 11,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1212/1973",
+      "hierarquia": null,
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_481f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66987946,
+            -26.91275685
+          ],
+          [
+            -48.6697106,
+            -26.91263398
+          ],
+          [
+            -48.66937747,
+            -26.91236522
+          ],
+          [
+            -48.66929716,
+            -26.91221138
+          ],
+          [
+            -48.66812481,
+            -26.91128653
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 337,
+      "nome": "R.Carlos Santana",
+      "cod": 336,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0780/1967",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

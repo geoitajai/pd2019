@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a3e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70993503,
+            -26.8759886
+          ],
+          [
+            -48.70918731,
+            -26.87539184
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 923,
+      "nome": "Av.Pres.Costa e Silva",
+      "cod": 1072,
+      "ptotalvia": 13.35,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1471/1972",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "mai/12",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

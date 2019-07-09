@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bdc",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.76845589,
+            -26.98305786
+          ],
+          [
+            -48.76818216,
+            -26.9830488
+          ],
+          [
+            -48.76779909,
+            -26.98299871
+          ],
+          [
+            -48.76657349,
+            -26.98234649
+          ],
+          [
+            -48.76525929,
+            -26.98162646
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1398,
+      "nome": "R.Osny Servulo Gonçalves",
+      "cod": 1522,
+      "ptotalvia": 6,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "3750/2002",
+      "hierarquia": null,
+      "bairro": "Paciência",
+      "abrevlogr": "R.Osny S.Gonçalves",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

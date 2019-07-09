@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b05",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72859129,
+            -26.86734643
+          ],
+          [
+            -48.72980651,
+            -26.86730517
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1163,
+      "nome": "R.Chrispim Antônio Ferreira",
+      "cod": 1274,
+      "ptotalvia": 5.5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2630/1991",
+      "hierarquia": null,
+      "bairro": "Salseiros",
+      "abrevlogr": "R.Chrispim A.Ferreira",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

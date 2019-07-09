@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b0a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.72807916,
+            -26.87335678
+          ],
+          [
+            -48.72693754,
+            -26.87343067
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1168,
+      "nome": "R.Victor Gonçalves",
+      "cod": 1279,
+      "ptotalvia": 8,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2893/1993",
+      "hierarquia": null,
+      "bairro": "Salseiros",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jun/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

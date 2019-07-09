@@ -1,0 +1,762 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4480",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69069175,
+            -26.90716939
+          ],
+          [
+            -48.69069333,
+            -26.90744661
+          ],
+          [
+            -48.69069989,
+            -26.9077142
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2082,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "Jardim Ipiranga",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4593",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69069989,
+            -26.9077142
+          ],
+          [
+            -48.69070745,
+            -26.9080224
+          ],
+          [
+            -48.69071391,
+            -26.90868839
+          ],
+          [
+            -48.69071494,
+            -26.90875925
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2081,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_46ed",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69072185,
+            -26.90976485
+          ],
+          [
+            -48.69072185,
+            -26.90993906
+          ],
+          [
+            -48.69073773,
+            -26.9099721
+          ],
+          [
+            -48.69073768,
+            -26.90998201
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2092,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_46f1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69072043,
+            -26.90927149
+          ],
+          [
+            -48.69072185,
+            -26.90952374
+          ],
+          [
+            -48.69072185,
+            -26.90976485
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2093,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "Jardim Paraíso",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4859",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69071494,
+            -26.90875925
+          ],
+          [
+            -48.69071887,
+            -26.9090305
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2100,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "Santo Antônio",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_485a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69071887,
+            -26.9090305
+          ],
+          [
+            -48.69071921,
+            -26.90905415
+          ],
+          [
+            -48.69072043,
+            -26.90927149
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2101,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bb2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69056882,
+            -26.8997208
+          ],
+          [
+            -48.69057132,
+            -26.90008999
+          ],
+          [
+            -48.69058013,
+            -26.90041186
+          ],
+          [
+            -48.69058718,
+            -26.90066926
+          ],
+          [
+            -48.69059118,
+            -26.90115091
+          ],
+          [
+            -48.69059377,
+            -26.90119401
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2178,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bc0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6905594,
+            -26.89912782
+          ],
+          [
+            -48.69056707,
+            -26.89946191
+          ],
+          [
+            -48.69056882,
+            -26.8997208
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2179,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "Jardim Katia",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d03",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69044017,
+            -26.89520999
+          ],
+          [
+            -48.69047193,
+            -26.8960419
+          ],
+          [
+            -48.69049971,
+            -26.89651627
+          ],
+          [
+            -48.69051559,
+            -26.89697293
+          ],
+          [
+            -48.6905275,
+            -26.89752164
+          ],
+          [
+            -48.69053194,
+            -26.89783862
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 69,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e3d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69063335,
+            -26.90194659
+          ],
+          [
+            -48.69061921,
+            -26.90220988
+          ],
+          [
+            -48.69062852,
+            -26.90275251
+          ],
+          [
+            -48.69063442,
+            -26.90329629
+          ],
+          [
+            -48.69064494,
+            -26.90385893
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1783,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "Jardim Operário",
+      "nomeloteamento": "Rua \"G\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f0a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6906886,
+            -26.90692248
+          ],
+          [
+            -48.69069157,
+            -26.90713669
+          ],
+          [
+            -48.69069175,
+            -26.90716939
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1843,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f4d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69064494,
+            -26.90385893
+          ],
+          [
+            -48.69066026,
+            -26.90536178
+          ],
+          [
+            -48.69067569,
+            -26.90598982
+          ],
+          [
+            -48.69067986,
+            -26.90629121
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1782,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f53",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69067986,
+            -26.90629121
+          ],
+          [
+            -48.6906886,
+            -26.90692248
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1842,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "Jardim São Vicente",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fc1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69075017,
+            -26.91140664
+          ],
+          [
+            -48.6907589,
+            -26.91250644
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1866,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fc2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69073768,
+            -26.90998201
+          ],
+          [
+            -48.69073509,
+            -26.91049832
+          ],
+          [
+            -48.69074788,
+            -26.91111709
+          ],
+          [
+            -48.69075017,
+            -26.91140664
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1867,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "Jaí-Açú",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5008",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69055307,
+            -26.89881728
+          ],
+          [
+            -48.69055348,
+            -26.89886995
+          ],
+          [
+            -48.6905594,
+            -26.89912782
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1910,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5041",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69053194,
+            -26.89783862
+          ],
+          [
+            -48.69053544,
+            -26.89808804
+          ],
+          [
+            -48.69055128,
+            -26.89858577
+          ],
+          [
+            -48.69055307,
+            -26.89881728
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1909,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "Jardim Rio Novo",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_50c8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69059377,
+            -26.90119401
+          ],
+          [
+            -48.69062161,
+            -26.90165827
+          ],
+          [
+            -48.69063335,
+            -26.90194657
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2026,
+      "nome": "R.Otávio Cesário Pereira",
+      "cod": 51,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1532/1977",
+      "hierarquia": "coletora",
+      "bairro": "São Vicente",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "set/17",
+      "loteamnome": "Jardim Acaraí",
+      "nomeloteamento": "Rua \"E\""
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_493c",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65719333,
+            -26.91817236
+          ],
+          [
+            -48.65762341,
+            -26.91853348
+          ],
+          [
+            -48.65776075,
+            -26.91837673
+          ],
+          [
+            -48.65834583,
+            -26.91881759
+          ],
+          [
+            -48.65839255,
+            -26.91887237
+          ],
+          [
+            -48.65842577,
+            -26.91891755
+          ],
+          [
+            -48.65847033,
+            -26.9191882
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 617,
+      "nome": "R.Oscar Praun Rodrigues",
+      "cod": 655,
+      "ptotalvia": 7,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "2418/1988",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Oscar P.Rodrigues",
+      "pavto": "Asfalto",
+      "anopavtoin": "dez/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

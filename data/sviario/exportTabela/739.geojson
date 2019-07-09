@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4953",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64151395,
+            -26.93316413
+          ],
+          [
+            -48.64040199,
+            -26.933134
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 701,
+      "nome": "R.Oswaldo Pereira",
+      "cod": 739,
+      "ptotalvia": 9,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "2722/1992",
+      "hierarquia": null,
+      "bairro": "Fazendinha",
+      "abrevlogr": "R.OswaldoP.ra.",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

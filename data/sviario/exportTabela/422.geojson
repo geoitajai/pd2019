@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5173",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6836092,
+            -26.89074073
+          ],
+          [
+            -48.68304497,
+            -26.89103983
+          ],
+          [
+            -48.6822727,
+            -26.89141276
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 409,
+      "nome": "Trav.Júlio Wippel",
+      "cod": 422,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1215/1973",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "mai/12",
+      "loteamnome": "Curt Hering, Jardim",
+      "nomeloteamento": "Rua \"7\""
+    }
+  }
+]

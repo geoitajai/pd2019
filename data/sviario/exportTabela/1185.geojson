@@ -1,0 +1,322 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_43a9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70093224,
+            -26.88571948
+          ],
+          [
+            -48.70058072,
+            -26.88574069
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2073,
+      "nome": "R.Eduvigens Theodoro da Cunha",
+      "cod": 1185,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3127/1996",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/13",
+      "loteamnome": "Jardim Cleide",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a60",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.7018727,
+            -26.88566274
+          ],
+          [
+            -48.70181928,
+            -26.88566596
+          ],
+          [
+            -48.70093224,
+            -26.88571948
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2149,
+      "nome": "R.Eduvigens Theodoro da Cunha",
+      "cod": 1185,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3127/1996",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/13",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a61",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70246468,
+            -26.88563356
+          ],
+          [
+            -48.70219666,
+            -26.88564319
+          ],
+          [
+            -48.7018727,
+            -26.88566274
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2150,
+      "nome": "R.Eduvigens Theodoro da Cunha",
+      "cod": 1185,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3127/1996",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/13",
+      "loteamnome": "Parque Residencial Luciana",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4adc",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70597985,
+            -26.88548914
+          ],
+          [
+            -48.70553384,
+            -26.88551157
+          ],
+          [
+            -48.70508346,
+            -26.88553107
+          ],
+          [
+            -48.70482018,
+            -26.88554352
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1081,
+      "nome": "R.Eduvigens Theodoro da Cunha",
+      "cod": 1185,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3127/1996",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/13",
+      "loteamnome": "Parque Residencial Bertoldo Michels",
+      "nomeloteamento": "Rua \"D\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b26",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70246887,
+            -26.88563341
+          ],
+          [
+            -48.70246468,
+            -26.88563356
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2157,
+      "nome": "R.Eduvigens Theodoro da Cunha",
+      "cod": 1185,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3127/1996",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/13",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b27",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70310472,
+            -26.88560672
+          ],
+          [
+            -48.70277834,
+            -26.88562228
+          ],
+          [
+            -48.70246887,
+            -26.88563341
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2158,
+      "nome": "R.Eduvigens Theodoro da Cunha",
+      "cod": 1185,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3127/1996",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/13",
+      "loteamnome": "Santa Maria",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e43",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70482018,
+            -26.88554352
+          ],
+          [
+            -48.70450627,
+            -26.88555837
+          ],
+          [
+            -48.70417791,
+            -26.88557092
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1776,
+      "nome": "R.Eduvigens Theodoro da Cunha",
+      "cod": 1185,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3127/1996",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/13",
+      "loteamnome": "Vila Araguaia",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_506f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.70417791,
+            -26.88557092
+          ],
+          [
+            -48.7038941,
+            -26.88558177
+          ],
+          [
+            -48.7033825,
+            -26.88559347
+          ],
+          [
+            -48.70310472,
+            -26.88560672
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1934,
+      "nome": "R.Eduvigens Theodoro da Cunha",
+      "cod": 1185,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3127/1996",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/13",
+      "loteamnome": "Jardim Esperança",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

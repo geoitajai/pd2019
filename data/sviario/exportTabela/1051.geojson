@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a33",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69291491,
+            -26.87041986
+          ],
+          [
+            -48.69099723,
+            -26.8704568
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 954,
+      "nome": "R.Alex Ciro Vicente",
+      "cod": 1051,
+      "ptotalvia": 14,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "3378/1999",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a77",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69361818,
+            -26.88568455
+          ],
+          [
+            -48.69337454,
+            -26.88570284
+          ],
+          [
+            -48.69281375,
+            -26.88574013
+          ],
+          [
+            -48.69226917,
+            -26.88576515
+          ],
+          [
+            -48.69174035,
+            -26.88579977
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1029,
+      "nome": "R.Fernando Vieira",
+      "cod": 1134,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "1209/1973",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "set/17",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

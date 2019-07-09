@@ -1,0 +1,54 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_499d",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67508164,
+            -26.93362146
+          ],
+          [
+            -48.67445198,
+            -26.93363461
+          ],
+          [
+            -48.67384199,
+            -26.93365216
+          ],
+          [
+            -48.67263186,
+            -26.9337004
+          ],
+          [
+            -48.67163818,
+            -26.93374425
+          ],
+          [
+            -48.67122988,
+            -26.93375741
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 777,
+      "nome": "R.Profº.Ondino Geraldo da Silva",
+      "cod": 872,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "-",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

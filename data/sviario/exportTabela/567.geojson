@@ -1,0 +1,114 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c09",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68144519,
+            -26.92115981
+          ],
+          [
+            -48.68146088,
+            -26.92204967
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1427,
+      "nome": "R.Jorge Santos de Macedo",
+      "cod": 567,
+      "ptotalvia": 12,
+      "ppasseio1": 5,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": "R.Jorge S.de Macedo",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Chimmene",
+      "nomeloteamento": "Rua \"G\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e90",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68146579,
+            -26.92258892
+          ],
+          [
+            -48.68083127,
+            -26.92259257
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1800,
+      "nome": "R.Jorge Santos de Macedo",
+      "cod": 567,
+      "ptotalvia": 12,
+      "ppasseio1": 5,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": "R.Jorge S.de Macedo",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Pôr do Sol",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e94",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68146088,
+            -26.92204967
+          ],
+          [
+            -48.68146579,
+            -26.92232806
+          ],
+          [
+            -48.68146579,
+            -26.9225889
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1801,
+      "nome": "R.Jorge Santos de Macedo",
+      "cod": 567,
+      "ptotalvia": 12,
+      "ppasseio1": 5,
+      "ppasseio2": 2,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": "R.Jorge S.de Macedo",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Pôr do Sol",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

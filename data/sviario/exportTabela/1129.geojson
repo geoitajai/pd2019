@@ -1,0 +1,250 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d82",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69471669,
+            -26.89104448
+          ],
+          [
+            -48.69436057,
+            -26.89106262
+          ],
+          [
+            -48.69397831,
+            -26.89108888
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1741,
+      "nome": "R.Henrique Borba dos Santos",
+      "cod": 1129,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Dom Joaquim Domingues de Oliveira",
+      "nomeloteamento": "Rua \"B\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d85",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69397831,
+            -26.89108888
+          ],
+          [
+            -48.69369811,
+            -26.89110812
+          ],
+          [
+            -48.692584,
+            -26.89117921
+          ],
+          [
+            -48.69204207,
+            -26.89120212
+          ],
+          [
+            -48.69199418,
+            -26.89120444
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1742,
+      "nome": "R.Henrique Borba dos Santos",
+      "cod": 1129,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d88",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6913641,
+            -26.89124045
+          ],
+          [
+            -48.69074084,
+            -26.89127971
+          ],
+          [
+            -48.69001657,
+            -26.89133171
+          ],
+          [
+            -48.68938773,
+            -26.89137071
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1746,
+      "nome": "R.Henrique Borba dos Santos",
+      "cod": 1129,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d89",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69199418,
+            -26.89120444
+          ],
+          [
+            -48.69174035,
+            -26.89121675
+          ],
+          [
+            -48.6913641,
+            -26.89124045
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1747,
+      "nome": "R.Henrique Borba dos Santos",
+      "cod": 1129,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Cesar Ramos Cordeiros",
+      "nomeloteamento": "Rua \"C\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d9a",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69580272,
+            -26.89098576
+          ],
+          [
+            -48.69560596,
+            -26.89099015
+          ],
+          [
+            -48.69509436,
+            -26.89102525
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1024,
+      "nome": "R.Henrique Borba dos Santos",
+      "cod": 1129,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Parque Residencial Lar Brasileiro",
+      "nomeloteamento": "Rua \"E\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4dd2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69509436,
+            -26.89102527
+          ],
+          [
+            -48.69471669,
+            -26.89104448
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1757,
+      "nome": "R.Henrique Borba dos Santos",
+      "cod": 1129,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2414/1988",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Ana Lúcia, Parque Residencial Lar Brasileiro",
+      "nomeloteamento": "Rua \"E\""
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4dfa",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67716131,
+            -26.92758189
+          ],
+          [
+            -48.67631569,
+            -26.92745165
+          ],
+          [
+            -48.67398404,
+            -26.92711065
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 760,
+      "nome": "R.Adolfo Cugnier",
+      "cod": 855,
+      "ptotalvia": 12,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2416/1988",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": null,
+      "pavto": "Misto (Asfalto/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim das Palmeiras II",
+      "nomeloteamento": "Rua \"06\""
+    }
+  }
+]

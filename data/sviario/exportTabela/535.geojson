@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48f1",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68043666,
+            -26.92280266
+          ],
+          [
+            -48.68053966,
+            -26.92390844
+          ],
+          [
+            -48.68059735,
+            -26.92448154
+          ],
+          [
+            -48.6806229,
+            -26.92476732
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 520,
+      "nome": "R.Carlos Serafim Zaguini",
+      "cod": 535,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1788/1980",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4fdb",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6806229,
+            -26.92476732
+          ],
+          [
+            -48.68064267,
+            -26.9249885
+          ],
+          [
+            -48.68066327,
+            -26.92522361
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1877,
+      "nome": "R.Carlos Serafim Zaguini",
+      "cod": 535,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "1788/1980",
+      "hierarquia": null,
+      "bairro": "Dom Bosco",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Itamirim",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

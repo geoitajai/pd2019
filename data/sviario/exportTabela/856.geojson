@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4dff",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67365937,
+            -26.9288957
+          ],
+          [
+            -48.6729111,
+            -26.92888942
+          ],
+          [
+            -48.67270449,
+            -26.92873811
+          ],
+          [
+            -48.6726437,
+            -26.92871965
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 761,
+      "nome": "R.José Anselmo da Silva",
+      "cod": 856,
+      "ptotalvia": 9.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4092/2004",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": "R.José A.da Silva",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim das Palmeiras II",
+      "nomeloteamento": "Rua \"10\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4e06",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6726437,
+            -26.92871965
+          ],
+          [
+            -48.67170835,
+            -26.92843549
+          ],
+          [
+            -48.67126772,
+            -26.92833728
+          ],
+          [
+            -48.67106067,
+            -26.92828138
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1764,
+      "nome": "R.José Anselmo da Silva",
+      "cod": 856,
+      "ptotalvia": 9.5,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4092/2004",
+      "hierarquia": null,
+      "bairro": "Ressacada",
+      "abrevlogr": "R.José A.da Silva",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

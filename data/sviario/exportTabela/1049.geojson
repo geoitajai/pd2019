@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a50",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69287228,
+            -26.86949251
+          ],
+          [
+            -48.69101199,
+            -26.86952213
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 952,
+      "nome": "R.Agostinho Soares",
+      "cod": 1049,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "5332/2009",
+      "hierarquia": null,
+      "bairro": "Murta",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Popular da Murta, Terminal Pesqueiro Beira Rio",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

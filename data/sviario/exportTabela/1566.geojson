@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4c5e",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73249195,
+            -26.84372745
+          ],
+          [
+            -48.73174589,
+            -26.8437646
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1531,
+      "nome": "Serv.Paulo Leopoldo Bittencourt",
+      "cod": 1566,
+      "ptotalvia": 0,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5577/2010",
+      "hierarquia": null,
+      "bairro": "Volta de Cima",
+      "abrevlogr": "Serv.Paulo L.Bittencourt",
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

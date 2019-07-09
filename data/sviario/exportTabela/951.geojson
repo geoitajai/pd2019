@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_49cd",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69415994,
+            -26.92325022
+          ],
+          [
+            -48.69332506,
+            -26.92353061
+          ],
+          [
+            -48.69208419,
+            -26.92396264
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 852,
+      "nome": "R.Edgard Neuwirth",
+      "cod": 951,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3113/1996",
+      "hierarquia": null,
+      "bairro": "Cidade Nova",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Promorar III",
+      "nomeloteamento": "Rua \"P\""
+    }
+  }
+]

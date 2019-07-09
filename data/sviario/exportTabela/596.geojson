@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ca8",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.6318191,
+            -26.95806223
+          ],
+          [
+            -48.63074371,
+            -26.95778434
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1611,
+      "nome": "R.Carlos Alberto Niehues",
+      "cod": 596,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3042/1995",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Carlos A.Niehues",
+      "pavto": "Lajota",
+      "anopavtoin": "mar/16",
+      "loteamnome": "Sociedade Camboriu de Hoteis",
+      "nomeloteamento": "Travessa \"'10\""
+    }
+  }
+]

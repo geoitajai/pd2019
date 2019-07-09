@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4cb7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.64562893,
+            -26.95668777
+          ],
+          [
+            -48.64563745,
+            -26.95627644
+          ],
+          [
+            -48.64555951,
+            -26.95618352
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1605,
+      "nome": "R.Eunice Cristina da Silva",
+      "cod": 1611,
+      "ptotalvia": 6,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "6654/2015",
+      "hierarquia": null,
+      "bairro": "Praia Brava de Itajaí",
+      "abrevlogr": "R.Eunice C.da Silva",
+      "pavto": null,
+      "anopavtoin": null,
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

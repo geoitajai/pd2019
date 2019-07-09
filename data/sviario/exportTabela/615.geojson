@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a70",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.65994279,
+            -26.91812689
+          ],
+          [
+            -48.65959604,
+            -26.91739433
+          ],
+          [
+            -48.6594817,
+            -26.91711656
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 580,
+      "nome": "R.Jacintho Francisco dos Santos",
+      "cod": 615,
+      "ptotalvia": 5,
+      "ppasseio1": 0,
+      "ppasseio2": 0,
+      "leidata": "5138/2008",
+      "hierarquia": null,
+      "bairro": "Fazenda",
+      "abrevlogr": "R.Jacintho F.dos Sto.",
+      "pavto": "Paralelepípedo",
+      "anopavtoin": "abr/12",
+      "loteamnome": "Jardim Schoenau",
+      "nomeloteamento": "Rua \"B\""
+    }
+  }
+]

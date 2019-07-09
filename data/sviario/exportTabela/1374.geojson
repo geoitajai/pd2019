@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4f28",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73564252,
+            -26.88855224
+          ],
+          [
+            -48.73599026,
+            -26.89294001
+          ],
+          [
+            -48.73608718,
+            -26.89405854
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1253,
+      "nome": "R.Ademar Barbi",
+      "cod": 1374,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "3737/2002",
+      "hierarquia": null,
+      "bairro": "Espinheiros",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Jardim Residencial Portal I",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

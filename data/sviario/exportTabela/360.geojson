@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_482f",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.66202241,
+            -26.90910909
+          ],
+          [
+            -48.66290077,
+            -26.9097856
+          ],
+          [
+            -48.66351489,
+            -26.91024636
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 356,
+      "nome": "R.Treze de Maio",
+      "cod": 360,
+      "ptotalvia": 13.6,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "77/1952",
+      "hierarquia": null,
+      "bairro": "Centro",
+      "abrevlogr": null,
+      "pavto": "Asfalto",
+      "anopavtoin": "jan/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

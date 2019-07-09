@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_48b9",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67563813,
+            -26.91256755
+          ],
+          [
+            -48.67563904,
+            -26.91311549
+          ],
+          [
+            -48.67561226,
+            -26.91367119
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 496,
+      "nome": "R.Abelardo Costa Filho",
+      "cod": 510,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2482/1989",
+      "hierarquia": null,
+      "bairro": "São Judas",
+      "abrevlogr": "R.Abelardo C.Filho",
+      "pavto": "Lajota",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Vila Nova",
+      "nomeloteamento": "Rua \"E\""
+    }
+  }
+]

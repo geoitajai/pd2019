@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4b87",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73808794,
+            -26.94667904
+          ],
+          [
+            -48.73812293,
+            -26.94724488
+          ],
+          [
+            -48.73820914,
+            -26.94803531
+          ],
+          [
+            -48.73827318,
+            -26.94853372
+          ],
+          [
+            -48.73832983,
+            -26.94913092
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1306,
+      "nome": "R.Guilherme May",
+      "cod": 1425,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "4205/2004",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "dez/16",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

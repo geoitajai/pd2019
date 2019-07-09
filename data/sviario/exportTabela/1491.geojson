@@ -1,0 +1,46 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bc2",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.76167584,
+            -26.9615361
+          ],
+          [
+            -48.76168305,
+            -26.96285815
+          ],
+          [
+            -48.76175119,
+            -26.96300764
+          ],
+          [
+            -48.76169656,
+            -26.96331114
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1370,
+      "nome": "R.Severino Nazário Machado",
+      "cod": 1491,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "3462/1999",
+      "hierarquia": null,
+      "bairro": "KM12",
+      "abrevlogr": "R.Severino N.Machado",
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "nov/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

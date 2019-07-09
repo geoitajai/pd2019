@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4af4",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.84774921,
+            -27.04088779
+          ],
+          [
+            -48.84579672,
+            -27.04099011
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1148,
+      "nome": "R.Anselmo Knihs",
+      "cod": 1259,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "4711/2006",
+      "hierarquia": null,
+      "bairro": "Limoeiro",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "abr/15",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

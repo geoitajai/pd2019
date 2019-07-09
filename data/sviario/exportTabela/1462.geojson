@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4ba7",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.73978006,
+            -26.94413617
+          ],
+          [
+            -48.7398457,
+            -26.94524436
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 1342,
+      "nome": "R.Leonor Rogge",
+      "cod": 1462,
+      "ptotalvia": 5,
+      "ppasseio1": 1,
+      "ppasseio2": 1,
+      "leidata": "4664/2006",
+      "hierarquia": null,
+      "bairro": "Itaipava",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "set/11",
+      "loteamnome": "-",
+      "nomeloteamento": "-"
+    }
+  }
+]

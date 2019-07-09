@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4a87",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69616948,
+            -26.87677707
+          ],
+          [
+            -48.6962276,
+            -26.87863666
+          ],
+          [
+            -48.69642151,
+            -26.88359847
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 984,
+      "nome": "R.João Emiliano da Silva",
+      "cod": 1087,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2186/1985",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Cordeiros",
+      "nomeloteamento": "Rua \"A\""
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4d40",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.69598732,
+            -26.88484496
+          ],
+          [
+            -48.69640953,
+            -26.88414393
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2211,
+      "nome": "R.João Emiliano da Silva",
+      "cod": 1087,
+      "ptotalvia": 12,
+      "ppasseio1": 2,
+      "ppasseio2": 2,
+      "leidata": "2186/1985",
+      "hierarquia": null,
+      "bairro": "Cordeiros",
+      "abrevlogr": null,
+      "pavto": "Misto (Paralelepípedo/Lajota)",
+      "anopavtoin": "ago/11",
+      "loteamnome": "Jardim Cordeiros",
+      "nomeloteamento": "Rua \"A\""
+    }
+  }
+]

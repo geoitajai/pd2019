@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_4bb0",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.67725956,
+            -26.91359
+          ],
+          [
+            -48.67648164,
+            -26.9136271
+          ],
+          [
+            -48.67561226,
+            -26.91367119
+          ],
+          [
+            -48.67455449,
+            -26.91371017
+          ],
+          [
+            -48.67367119,
+            -26.91376199
+          ],
+          [
+            -48.67362335,
+            -26.91376668
+          ],
+          [
+            -48.67266214,
+            -26.91381937
+          ],
+          [
+            -48.67143086,
+            -26.91389204
+          ],
+          [
+            -48.67073986,
+            -26.91392824
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 2176,
+      "nome": "R.Ciriaco Meirinho",
+      "cod": 497,
+      "ptotalvia": 10,
+      "ppasseio1": 1.5,
+      "ppasseio2": 1.5,
+      "leidata": "0525/1963",
+      "hierarquia": null,
+      "bairro": "Vila Operária",
+      "abrevlogr": null,
+      "pavto": "Lajota",
+      "anopavtoin": "set/11",
+      "loteamnome": "Vila Nova",
+      "nomeloteamento": "Rua \"C\""
+    }
+  }
+]

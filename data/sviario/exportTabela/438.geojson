@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Feature",
+    "id": "viewsistemaviariocompleto.fid-cda359b_16bd380d5a7_5181",
+    "geometry": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -48.68119251,
+            -26.89125536
+          ],
+          [
+            -48.68117678,
+            -26.8905216
+          ]
+        ]
+      ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+      "id": 425,
+      "nome": "Trav.Equador",
+      "cod": 438,
+      "ptotalvia": 13,
+      "ppasseio1": 2.5,
+      "ppasseio2": 2.5,
+      "leidata": "2420/1988",
+      "hierarquia": null,
+      "bairro": "Barra do Rio",
+      "abrevlogr": null,
+      "pavto": "Sem Pavimento",
+      "anopavtoin": "jan/16",
+      "loteamnome": "Curt Hering, Jardim",
+      "nomeloteamento": "Rua \"3\""
+    }
+  }
+]
