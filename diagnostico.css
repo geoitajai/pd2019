@@ -44,7 +44,7 @@ body {
 }
 
 .pesquisa {
-    background: var(--claro);
+    background: var(--base);
     display: flex;
     align-items: center;
     justify-content: center;
