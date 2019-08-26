@@ -196,6 +196,16 @@
                         <img src="images/m31legenda.jpg" alt="legenda31" style="width:200px">
                     </div>
 
+                    <h3>Áreas de Risco de Inundação</h3>
+                    <div>
+                        <img src="images/m32legenda.jpg" alt="legenda32" style="width:200px">
+                    </div>
+
+                    <h3>Saneamento - Água e Esgoto</h3>
+                    <div>
+                        <img src="images/m33legenda.jpg" alt="legenda33" style="width:200px">
+                    </div>
+
                     <h3>Áreas Ambientais de Preservação Permanente - Município</h3>
                     <div>
                         <img src="images/m28legenda.jpg" alt="legenda28" style="width:200px">
@@ -501,6 +511,16 @@
             maxZoom: 16
         });
 
+        let m32 = new L.TileLayer('tiles/32/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 16
+        });
+
+        let m33 = new L.TileLayer('tiles/33/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 16
+        });
+
         //#controle de camadas
 
         $("#accordion").on("accordionactivate", (event, ui) => {
@@ -781,6 +801,24 @@
                     mapa.removeLayer(layer);
                 });
                 mapa.addLayer(m31);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Áreas de Risco de Inundação'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m32);
+            }
+
+            else if (
+                ui.newHeader["0"].textContent === 'Saneamento - Água e Esgoto'
+            ) {
+                mapa.eachLayer(function (layer) {
+                    mapa.removeLayer(layer);
+                });
+                mapa.addLayer(m33);
             }
 
             else {
